@@ -1,1 +1,1234 @@
-[]
+[
+  {
+    "id": "2017111243413127412",
+    "text": "AIにスライドを作らせたい、そう思って始めたら結局は設計の話になりました。\n\n2025年から2026年にかけて、Claude Codeのスキルシステムを使って、Marpで登壇に耐える品質のスライドをAIエージェントと協働して作るワークフローを組み上げました。\n\nやってみて分かったのは、AIにスライド生成を頼むだけだと品質が安定しないことです。色、余白、フォントサイズ、レイアウトが毎回ブレる。そこで順番を変えました。人間がルールと型を用意して、AIがそこに沿って高速に実装と検証を回す。\n\nこの記事では、そのために整備したものを具体的にまとめています。\n\n・MarpにTailwind CSSを入れてレイアウト自由度を上げる\n・スタイルガイドを言語化して一貫性を作る\n・40のレイアウトパターンを資産化して選ぶだけにする\n・スクリーンショットで視覚的な品質検証を自動化して崩れを直す\n・画像生成やSVG図解、過去スライド検索、Remotionでの動画化までつなげる\n\nポイントは、AI活用を作業の省力化で終わらせず、プレゼン制作をシステムとして扱うことです。速く作るより、再現性のある品質をどう作るか。今のところはここが一番効きます。\n同じ課題感を持っている人の参考になれば。\n\nAIエージェントと協働してmarpでスライドを作る2026\nhttps://t.co/zc27R4pnog",
+    "createdAt": "Fri Jan 30 05:42:51 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 118,
+    "likeCount": 1221,
+    "conversationId": "2017111243413127412",
+    "author": {
+      "username": "hiroki_daichi",
+      "name": "広木 大地/ エンジニアリング組織論への招待"
+    },
+    "authorId": "4530451"
+  },
+  {
+    "id": "2017162782882587091",
+    "text": "Klingに追加された新機能「エージェント」\n触ってみました💡\n\n会話だけで画像→コンテ→動画化まで進むのが強いですね。\n\n「画像生成→保存→別ページ→再アップロード…」\nこの地味なストレスが、わりと本気で減ります👀\n\nざっくり指示しても、\n・ストーリー設計\n・キャラ＆シーン素材\n・絵コンテ\n・動画化\nまで会話の流れでいけます。\n\n動画の出力もさすがKlingってクオリティです◎\n\nただし、失敗もありまして…😂\n画像生成をエージェントに丸投げすると、キャラの一貫性が崩れることがありました（実写になったり2Dになったり）\n\nnoteで「失敗→改善→制作フロー」までまとめたので、これから使う人はぜひ👇🏻",
+    "createdAt": "Fri Jan 30 09:07:39 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 1,
+    "likeCount": 55,
+    "conversationId": "2017162782882587091",
+    "author": {
+      "username": "genel_ai",
+      "name": "GENEL | AI動画制作の今を知るなら"
+    },
+    "authorId": "1851263707726376960",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2017162043523297280/img/PIC-WbotJZTfLxw7.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2017162043523297280/img/PIC-WbotJZTfLxw7.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2017162043523297280/vid/avc1/1920x1080/m2TbsbS0BFDYu6TU.mp4?tag=21",
+        "durationMs": 40333
+      }
+    ]
+  },
+  {
+    "id": "2016677701445439564",
+    "text": "This is insane.\n\nThis Moltbot skill cuts token usage by 95%+\n\nhttps:// github. com/levineam /qmd-skill https://t.co/kzZtxRwEHW",
+    "createdAt": "Thu Jan 29 01:00:06 +0000 2026",
+    "replyCount": 42,
+    "retweetCount": 106,
+    "likeCount": 1689,
+    "conversationId": "2016677701445439564",
+    "author": {
+      "username": "aiedge_",
+      "name": "AI Edge"
+    },
+    "authorId": "1901654809536843776",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ytrqabUAI_3DH.jpg",
+        "width": 1802,
+        "height": 1056,
+        "previewUrl": "https://pbs.twimg.com/media/G_ytrqabUAI_3DH.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2016928521868693773",
+    "text": "Announcing MakeComics!\n\nGenerate custom comics with your own characters and storylines, in seconds.\n\n100% free &amp; open source. https://t.co/OFjh764ErK",
+    "createdAt": "Thu Jan 29 17:36:46 +0000 2026",
+    "replyCount": 73,
+    "retweetCount": 72,
+    "likeCount": 945,
+    "conversationId": "2016928521868693773",
+    "author": {
+      "username": "nutlope",
+      "name": "Hassan"
+    },
+    "authorId": "3246815913",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2016927910645370881/img/Qw-SvN1Xk7dWK9z2.jpg",
+        "width": 1296,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2016927910645370881/img/Qw-SvN1Xk7dWK9z2.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2016927910645370881/vid/avc1/1296x1080/ulTGfi7CVtrir5a7.mp4?tag=21",
+        "durationMs": 21016
+      }
+    ]
+  },
+  {
+    "id": "2016919370036105323",
+    "text": "Introducing Secure ClawdBot with access to 1000+ apps!\n\nWe've merged Claude Code and Composio to create a ClawdBot that:\n\n- securely uses 1000+ apps with zero setup\n- is easy to set up and use via terminal\n- proactively interacts with you on WhatsApp, Telegram, Signal\n\nFree and open source: https://t.co/kBPc0KynJy",
+    "createdAt": "Thu Jan 29 17:00:25 +0000 2026",
+    "replyCount": 84,
+    "retweetCount": 252,
+    "likeCount": 1883,
+    "conversationId": "2016919370036105323",
+    "author": {
+      "username": "KaranVaidya6",
+      "name": "Karan Vaidya"
+    },
+    "authorId": "4426224922",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2016919286514929667/img/Ij0t4Lp8xucVl0Bm.jpg",
+        "width": 2048,
+        "height": 1152,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2016919286514929667/img/Ij0t4Lp8xucVl0Bm.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2016919286514929667/vid/avc1/1280x720/nmkOzEMBi7wdH7TX.mp4?tag=14",
+        "durationMs": 58517
+      }
+    ]
+  },
+  {
+    "id": "2016742527324606603",
+    "text": "Get ready. Computers in 2027 will be triple the price they are now.\n\nMac Minis will start at $1,800. Mac Studios and Macbook Pros will start at $6,000.\n\nAs ClawdBot gets more popular, tokens get more expensive, and open source models become more powerful, there will be an obscene consumer rush to buy hardware\n\nIt's already begun\n\nMac Minis are flying off the shelf. In 6 months it will be Mac Studios\n\nThe scariest part is there's ALREADY a massive bottleneck because enterprise and data centers have been buying every graphics card and stick of memory they can. Now the consumer rush has started.\n\nIn 12 months computers will be unaffordable to most, and in 24 months they will only be available to the highest elite.\n\nI believe 2026 is your last chance at owning your compute and intelligence\n\nThat's why I bought the 512GB memory Mac Studio below and plan on getting another by end of year.\n\nOwn your compute before it becomes a luxury like owning a house.\n\n\"You will own nothing and be happy\"",
+    "createdAt": "Thu Jan 29 05:17:42 +0000 2026",
+    "replyCount": 373,
+    "retweetCount": 114,
+    "likeCount": 1525,
+    "conversationId": "2016742527324606603",
+    "author": {
+      "username": "AlexFinn",
+      "name": "Alex Finn"
+    },
+    "authorId": "1369348853414178822",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zoEfcbUAEtQzD.jpg",
+        "width": 1606,
+        "height": 1200,
+        "previewUrl": "https://pbs.twimg.com/media/G_zoEfcbUAEtQzD.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2016846394628423978",
+    "text": "待ってました！うちの採用サイトも更新しよう",
+    "createdAt": "Thu Jan 29 12:10:26 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 15,
+    "likeCount": 329,
+    "conversationId": "2016846394628423978",
+    "author": {
+      "username": "sogitani_baigie",
+      "name": "sogitani / baigie inc."
+    },
+    "authorId": "21632227",
+    "quotedTweet": {
+      "id": "2016832380317945950",
+      "text": "https://t.co/82KYFJyClj",
+      "createdAt": "Thu Jan 29 11:14:45 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 40,
+      "likeCount": 290,
+      "conversationId": "2016832380317945950",
+      "author": {
+        "username": "StudioDesign",
+        "name": "Studio | Web制作を、ノーコードで。"
+      },
+      "authorId": "819353112431325184"
+    }
+  },
+  {
+    "id": "2016511679811703203",
+    "text": "これめっちゃいい。\n手元のエージェントはGoogle周り全部これに切り替えました。\n\nhttps://t.co/K9jy6MHf5z",
+    "createdAt": "Wed Jan 28 14:00:24 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 71,
+    "likeCount": 887,
+    "conversationId": "2016511679811703203",
+    "author": {
+      "username": "yugen_matuni",
+      "name": "まつにぃ"
+    },
+    "authorId": "894031000455401472"
+  },
+  {
+    "id": "2016875256393175130",
+    "text": "Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware. https://t.co/BUlxsyu1fa",
+    "createdAt": "Thu Jan 29 14:05:07 +0000 2026",
+    "replyCount": 306,
+    "retweetCount": 781,
+    "likeCount": 6397,
+    "conversationId": "2016875256393175130",
+    "author": {
+      "username": "Cloudflare",
+      "name": "Cloudflare"
+    },
+    "authorId": "32499999"
+  },
+  {
+    "id": "2016226892333121635",
+    "text": "We're releasing 𝚟𝚎𝚛𝚌𝚎𝚕-𝚛𝚎𝚊𝚌𝚝-𝚗𝚊𝚝𝚒𝚟𝚎-𝚜𝚔𝚒𝚕𝚕𝚜, extracted from the lessons of building v0 for iOS and the upcoming Vercel app (teaser below).\n\n▲ ~/ npx skills add vercel-labs/agent-skills https://t.co/3tvbRYPjEX",
+    "createdAt": "Tue Jan 27 19:08:45 +0000 2026",
+    "replyCount": 58,
+    "retweetCount": 230,
+    "likeCount": 3115,
+    "conversationId": "2016226892333121635",
+    "author": {
+      "username": "vercel_dev",
+      "name": "Vercel Developers"
+    },
+    "authorId": "1333485844053839878",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2016226827103289344/img/J5DMfGzTwHI3OYB0.jpg",
+        "width": 1920,
+        "height": 1920,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2016226827103289344/img/J5DMfGzTwHI3OYB0.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2016226827103289344/vid/avc1/720x720/Qpgo4Si9d6ZZqJTT.mp4?tag=14",
+        "durationMs": 19250
+      }
+    ]
+  },
+  {
+    "id": "2016510689234591984",
+    "text": "ブログは長いのでエッセンスだけ抽出した:\n- Codex 5.2はやべえ、Claudeの5倍くらい進む\n- Xcode はもはや無用の長物だ\n- 黙ってmainに直接コミットしろ(※ソロ前提)\n- 閉じたループを作るのを最優先にせよ\n- まずCLIから作れ\n- フレームワーク選びにはまだかなり時間を使う\n- revertはせず、ただ修正を頼む\n- 当然何でも自動化する(skillを貯めろ)\n- ローカルのターミナルが結局はベスト\n- 定番モデルは gpt-5.2-codex high\n- 重要なアイデアはすぐ試す\n- それ以外は覚えているか、重要ではない",
+    "createdAt": "Wed Jan 28 13:56:27 +0000 2026",
+    "replyCount": 3,
+    "retweetCount": 28,
+    "likeCount": 363,
+    "conversationId": "2016510689234591984",
+    "author": {
+      "username": "ytiskw",
+      "name": "石川陽太 Yota Ishikawa"
+    },
+    "authorId": "1283720647550488576",
+    "quotedTweet": {
+      "id": "2016500087984394249",
+      "text": "Moltbot (旧Clawdbot)のそれ自体の便利さよりむしろ、その創業者(@steipete)のノウハウ、これがあまりにも有益すぎる。彼の生産性は完全にイカれている。1日で1374回の貢献って、おいおいほんと勘弁してくれよ。。もはや超人の域。ソロで1000億円企業を創り出すのはこの人が最初かも。必見のブログ👇 https://t.co/lqF8apHVS1",
+      "createdAt": "Wed Jan 28 13:14:20 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 25,
+      "likeCount": 303,
+      "conversationId": "2016500087984394249",
+      "author": {
+        "username": "ytiskw",
+        "name": "石川陽太 Yota Ishikawa"
+      },
+      "authorId": "1283720647550488576",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_wJQUlbUAAIam1.png",
+          "width": 649,
+          "height": 374,
+          "previewUrl": "https://pbs.twimg.com/media/G_wJQUlbUAAIam1.png:small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2016484094402781571",
+    "text": "ポッドキャストYouTubeは以下のフローで全てAI完結できてしまう。\n\n台本:Claude\n音声:elevenlabsio で自分の声をクローンして音声生成  \n画像:kreaのNB Proに自分の写真を入れて、ポッドスタジオ風の背景にしてもらう \n動画:fal のVeed Fastを使ってリップシンク処理\n\n https://t.co/y8ruPjFyTD",
+    "createdAt": "Wed Jan 28 12:10:47 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 31,
+    "likeCount": 516,
+    "conversationId": "2016484094402781571",
+    "author": {
+      "username": "milbon_",
+      "name": "みるぼん@スモビジ"
+    },
+    "authorId": "1306138540946780160",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2016207741086531586/img/gjI3gRIylRavCagm.jpg",
+        "width": 1312,
+        "height": 736,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2016207741086531586/img/gjI3gRIylRavCagm.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2016207741086531586/vid/avc1/1312x736/wuztcQQtXj-Dfolg.mp4?tag=21",
+        "durationMs": 113127
+      }
+    ]
+  },
+  {
+    "id": "2016578118585053354",
+    "text": "this creator cracked a 2.1M view hack.\n\nshowing her armpits.\n\n&gt; arms down: 12k views\n&gt; arms up: 2.1M views\n\nsame person. same content. different body language.\n\nvulnerability signals = algorithm gold.\n\nwe just added \"arms up\" as a UGC format at DansUGC. https://t.co/X2EWsnpG57",
+    "createdAt": "Wed Jan 28 18:24:24 +0000 2026",
+    "replyCount": 413,
+    "retweetCount": 527,
+    "likeCount": 15302,
+    "conversationId": "2016578118585053354",
+    "author": {
+      "username": "danielhangan_",
+      "name": "daniel"
+    },
+    "authorId": "2602916983",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2016577954982117376/img/-u2DZyvxAVPbftyZ.jpg",
+        "width": 1108,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2016577954982117376/img/-u2DZyvxAVPbftyZ.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2016577954982117376/vid/avc1/1108x1080/vNCU6fvRVsjXTTmS.mp4?tag=21",
+        "durationMs": 21033
+      }
+    ]
+  },
+  {
+    "id": "2016492563398877491",
+    "text": "Claude Code MAX、1ファイルのコード量が3,000行を超えると日次制限に引っかかることが多かったが、単一責任の原則に基づいて多くても500〜1,000行程度に抑えると、ほとんど制限にかからない",
+    "createdAt": "Wed Jan 28 12:44:26 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 14,
+    "likeCount": 214,
+    "conversationId": "2016492563398877491",
+    "author": {
+      "username": "quronekox",
+      "name": "Quro🐈‍⬛ / 個人開発"
+    },
+    "authorId": "1821014362636873732"
+  },
+  {
+    "id": "2016550475718664522",
+    "text": "CRITICAL: EVERYONE USING CLAWDBOT SHOULD RUN THIS PROMPT RIGHT NOW:\n\nBy default, the 2 best Clawd memory features are turned OFF\n\nRunning this 1 prompt will immediately stop your AI from getting confused in between compactions/sessions:\n\nPrompt:\n\n\"Enable memory flush before compaction and session memory search in my Clawdbot config. Set `compaction.memoryFlush.enabled` to true and set `memorySearch.experimental.sessionMemory` to true with sources including both memory and sessions. Apply the config changes.\"\n\nHere's what you enabled by running that prompt:\n\nMemory Flush: Your AI automatically saves everything important to a file right before its context gets wiped, so nothing slips through the cracks.\n\nSession memory search:  Your AI can search through every conversation it's ever had with you, even ones it no longer \"remembers.\"\n\nBoom, your ClawdBot memory is now 10000x better",
+    "createdAt": "Wed Jan 28 16:34:33 +0000 2026",
+    "replyCount": 204,
+    "retweetCount": 216,
+    "likeCount": 3195,
+    "conversationId": "2016550475718664522",
+    "author": {
+      "username": "AlexFinn",
+      "name": "Alex Finn"
+    },
+    "authorId": "1369348853414178822"
+  },
+  {
+    "id": "2015970305320366523",
+    "text": "この開発環境かっちょえーーー！\n\nと思い自分が環境構築するために参考した記事をまとめる",
+    "createdAt": "Tue Jan 27 02:09:10 +0000 2026",
+    "replyCount": 6,
+    "retweetCount": 42,
+    "likeCount": 1118,
+    "conversationId": "2015970305320366523",
+    "author": {
+      "username": "aphlooo",
+      "name": "aphlo🐻‍❄️個人開発"
+    },
+    "authorId": "1961234669057511424",
+    "quotedTweet": {
+      "id": "2015554138621579290",
+      "text": "VSCode の代わりに Ghostty で軽量な開発環境を構築してみた\n\n- ターミナル: Ghostty（起動が爆速）\n- 分割: zellij（設定が楽）\n- ファイラー: yazi（プレビュー付きで爆速）\n- Git: lazygit（CLIなのにGUI並みに見やすい）\n- 検索: fzf + ripgrep（Cmd+Pより速い）\n- AIコーディング: Claude Code\n\nGhostty + zellij + yazi + lazygit でメモリ節約\n「エディタ」を捨てて「ターミナル」に寄せる発想。合う人には合うかも",
+      "createdAt": "Sun Jan 25 22:35:28 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 102,
+      "likeCount": 1541,
+      "conversationId": "2015554138621579290",
+      "author": {
+        "username": "commte",
+        "name": "コムテ"
+      },
+      "authorId": "187929218",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_ividLXQAAx7WI.jpg",
+          "width": 2048,
+          "height": 1269,
+          "previewUrl": "https://pbs.twimg.com/media/G_ividLXQAAx7WI.jpg:small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2016222038248083857",
+    "text": "𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗶𝗻𝗴 𝗧𝘄𝗶𝗻 — 𝘁𝗵𝗲 𝗔𝗜 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗯𝘂𝗶𝗹𝗱𝗲𝗿.\nNo setup. Secure. Infinitely scalable.\n\nWe just raised a $𝟭𝟬𝗠 𝘀𝗲𝗲𝗱.\nAfter a beta with 𝟭𝟬𝟬,𝟬𝟬𝟬+ 𝗮𝗴𝗲𝗻𝘁𝘀 𝗱𝗲𝗽𝗹𝗼𝘆𝗲𝗱, we’re now opening to everyone.\n\nRT and comment “Twin” — first agents on us. 👇",
+    "createdAt": "Tue Jan 27 18:49:28 +0000 2026",
+    "replyCount": 6041,
+    "retweetCount": 3503,
+    "likeCount": 8235,
+    "conversationId": "2016222038248083857",
+    "author": {
+      "username": "hugomercierooo",
+      "name": "Hugo Mercier"
+    },
+    "authorId": "2714869632",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/ext_tw_video_thumb/2016221989212499968/pu/img/38JWUwkTYd5HhwGB.jpg",
+        "width": 1280,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2016221989212499968/pu/img/38JWUwkTYd5HhwGB.jpg:small",
+        "videoUrl": "https://video.twimg.com/ext_tw_video/2016221989212499968/pu/vid/avc1/1280x720/PiiSzMW_aaJ_Mg3c.mp4?tag=12",
+        "durationMs": 56384
+      }
+    ]
+  },
+  {
+    "id": "2016207647167709575",
+    "text": "１週間前の話題だけど、Qwen3-TTSモデルがオープンでリリースされた。TTSってのは喋らせたいセリフを入力するとその通り喋ってくれるモデル。こういうモデルって今までは英語と中国語しか喋れない～とかありがちだったけど、今回は日本語を含む10か国語がサポート！モデルはVoiceDesignとカスタムボイスとベースの３種類で、VoiceDesignは1.7B版のみで他は1.7B版と0.6B版がある。まずVoiceDesignモデルではどんな感じの声にするかプロンプトで指定できる。例えば「高音のロリ娘ボイス」って指定すればそういう声で喋ってくれる。なんなら３人分のキャラを指定して、その３人の会話を長尺で生成する事も可能らしい。この時それぞれのキャラのボイスは一貫性がある。次にカスタムボイスモデルでは９人分のキャラクタープリセットが用意されている。それぞれのキャラごとに一貫した声質で音声を生成できる。最後にベースモデルでは参照音声を入力するだけでゼロショットボイスクローンが可能。つまり手元の音声と同じ声でボイス生成できる。英語の音声を入力して日本語喋らせるとかも可能。VoiceDesignで作ったボイスをクローンすれば固定キャラでボイスを量産できるかも。デモを試してみたけど日本語も結構クオリティ高そう。これはすごそうですわ",
+    "createdAt": "Tue Jan 27 17:52:17 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 17,
+    "likeCount": 203,
+    "conversationId": "2016207647167709575",
+    "author": {
+      "username": "umiyuki_ai",
+      "name": "うみゆき@AI研究"
+    },
+    "authorId": "1581537869390569472",
+    "quotedTweet": {
+      "id": "2014326211913343303",
+      "text": "Qwen3-TTS is officially live. We’ve open-sourced the full family—VoiceDesign, CustomVoice, and Base—bringing high quality to the open community.\n\n- 5 models (0.6B & 1.8B)\n- Free-form voice design & cloning\n- Support for 10 languages\n- SOTA 12Hz tokenizer for high compression\n- Full fine-tuning support\n- SOTA performance\n\nWe believe this is arguably the most disruptive release in open-source TTS yet. Go ahead, break it and build something cool. 🚀 Everything is out now—weights, code, and paper. Enjoy. 🧵\n\nGithub: https://t.co/X4CNGRpBAG\nHugging Face: https://t.co/QzshIqzYDU\nModelScope: https://t.co/XaWVuDerZ6\nBlog: https://t.co/xPER3lyeb5\nPaper: https://t.co/9mi5dFyJza\nHugging Face Demo: https://t.co/cL7AyaMDwM\nModelScope Demo: https://t.co/MYpIeYdYN5\nAPI: https://t.co/lIEikdB6uM",
+      "createdAt": "Thu Jan 22 13:16:07 +0000 2026",
+      "replyCount": 193,
+      "retweetCount": 881,
+      "likeCount": 6163,
+      "conversationId": "2014326211913343303",
+      "author": {
+        "username": "Alibaba_Qwen",
+        "name": "Qwen"
+      },
+      "authorId": "1753339277386342400",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_RS37LbwAA8twu.jpg",
+          "width": 1657,
+          "height": 658,
+          "previewUrl": "https://pbs.twimg.com/media/G_RS37LbwAA8twu.jpg:small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2015551849710190697",
+    "text": "Just shipped /last30days. A Claude Code skill for @claudeai that scans the last 30 days on Reddit, X, and the web for any topic and returns prompt patterns + new releases + workflows that work right now.\n\nLast 30 days of research. 30 seconds of work.\n\n👉 https://t.co/vywJV9IlXw https://t.co/uB9Q2JNppw",
+    "createdAt": "Sun Jan 25 22:26:22 +0000 2026",
+    "replyCount": 135,
+    "retweetCount": 280,
+    "likeCount": 4372,
+    "conversationId": "2015551849710190697",
+    "author": {
+      "username": "mvanhorn",
+      "name": "Matt Van Horn"
+    },
+    "authorId": "6238012",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2015546233608130561/img/8T0wL5DlAhxfMXCw.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2015546233608130561/img/8T0wL5DlAhxfMXCw.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2015546233608130561/vid/avc1/1920x1080/Xb_I0jmnHgML_Vy9.mp4?tag=21",
+        "durationMs": 110058
+      }
+    ]
+  },
+  {
+    "id": "2016032514398445887",
+    "text": "Kimi K2.5 for your Clawdbot should be much most cost effective than Claude 4.5 Opus and smarter than Gemini 3 Flash! https://t.co/74kqO7zsbO",
+    "createdAt": "Tue Jan 27 06:16:22 +0000 2026",
+    "replyCount": 6,
+    "retweetCount": 2,
+    "likeCount": 42,
+    "conversationId": "2016032514398445887",
+    "author": {
+      "username": "TeksEdge",
+      "name": "David Hendrickson"
+    },
+    "authorId": "1682428283135336449",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_pi40naEAApmgK.jpg",
+        "width": 1550,
+        "height": 1050,
+        "previewUrl": "https://pbs.twimg.com/media/G_pi40naEAApmgK.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2015564987394081172",
+    "text": "Inspired by Remotion's Agent Skills, I've gone and done the same for @rive_app - generate a .riv file from Claude Code, Codex or Cursor and immediately apply it in your project, no need to go to the editor https://t.co/8b1ThYQFld",
+    "createdAt": "Sun Jan 25 23:18:35 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 1,
+    "likeCount": 9,
+    "conversationId": "2015564987394081172",
+    "author": {
+      "username": "stevy_smith",
+      "name": "Steve Smith"
+    },
+    "authorId": "289282912",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2015564332113780736/img/uW7XgJ5nm0TYPc5w.jpg",
+        "width": 1660,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2015564332113780736/img/uW7XgJ5nm0TYPc5w.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2015564332113780736/vid/avc1/1660x1080/7dW7CTmNT7MiT65f.mp4?tag=21",
+        "durationMs": 37566
+      }
+    ]
+  },
+  {
+    "id": "2015871268176699477",
+    "text": "this is how you bring life to an app..\n\n​interactive character with 50+ triggered animations, made with Rive\n\nwizard @Millie_Woodcock\n https://t.co/gS0bZNmXSe",
+    "createdAt": "Mon Jan 26 19:35:38 +0000 2026",
+    "replyCount": 28,
+    "retweetCount": 38,
+    "likeCount": 866,
+    "conversationId": "2015871268176699477",
+    "author": {
+      "username": "Aurelien_Gz",
+      "name": "Aurelien"
+    },
+    "authorId": "1886321636082630656",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2015516877242724352/img/ZcWB1Nufc5xCM7DJ.jpg",
+        "width": 720,
+        "height": 900,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2015516877242724352/img/ZcWB1Nufc5xCM7DJ.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2015516877242724352/vid/avc1/720x900/XwgcqxK5DyvpQiGk.mp4?tag=14",
+        "durationMs": 39440
+      }
+    ]
+  },
+  {
+    "id": "2015927326987481281",
+    "text": "https://t.co/krw6kRZNgw",
+    "createdAt": "Mon Jan 26 23:18:23 +0000 2026",
+    "replyCount": 12,
+    "retweetCount": 54,
+    "likeCount": 619,
+    "conversationId": "2015927326987481281",
+    "author": {
+      "username": "DextersSolab",
+      "name": "Dexter's Lab"
+    },
+    "authorId": "1845936128794185729"
+  },
+  {
+    "id": "2015886951719829898",
+    "text": "When I initially set up Henry I made his role very clear:\n\nI am a 1 man business. I work from the moment I wake up to the moment I go to sleep. I need an employee taking as much off my plate and being as proactive as possible. Please take everything you know about me and just do work you think would make my life easier or improve my business and make me money. I want to wake up every morning and be like \"wow, you got a lot done while I was sleeping.\" Don't be afraid to monitor my business and build things that would help improve our workflow. Just create PRs for me to review, don't push anything live. I'll test and commit.\n\nAlso make sure to brain dump absolutely everything about you and your business to Clawd so it has maximum amount of context",
+    "createdAt": "Mon Jan 26 20:37:57 +0000 2026",
+    "replyCount": 8,
+    "retweetCount": 5,
+    "likeCount": 120,
+    "conversationId": "2015827577366249581",
+    "inReplyToStatusId": "2015848546705031384",
+    "author": {
+      "username": "AlexFinn",
+      "name": "Alex Finn"
+    },
+    "authorId": "1369348853414178822"
+  },
+  {
+    "id": "2015572290440962102",
+    "text": "バイブコーダの方々、git-wt で作業領域を分割しつつ、同一リポジトリに複数エージェント立ち上げて並列作業させてると思うんですが、それをコマンド一撃でカッコよくできるソリューションが以前からあるんすよ。 xpanes ていうんすけど……。 https://t.co/wARLX7gSqF",
+    "createdAt": "Sun Jan 25 23:47:36 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 17,
+    "likeCount": 237,
+    "conversationId": "2015572290440962102",
+    "author": {
+      "username": "grethlen",
+      "name": "ぐれさん"
+    },
+    "authorId": "73812651",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2015568569015435264/img/XOaPWCuDe8PF76j7.jpg",
+        "width": 2048,
+        "height": 1078,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2015568569015435264/img/XOaPWCuDe8PF76j7.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2015568569015435264/vid/avc1/1368x720/Odk8f33vSxV1V73S.mp4?tag=14",
+        "durationMs": 29339
+      }
+    ]
+  },
+  {
+    "id": "2015452688952213780",
+    "text": "Shipped  4 new @openclaw skills. \n\n🔍 Search-X - real-time X/Twitter search via Grok api\n🤖 xAI - Grok chat API @xai \n🔬 https://t.co/dYyQA1fs1m - high-accuracy research with citations and search tool @p0 \n🎬 Remotion Server - headless video rendering, no Mac-mini required @Remotion cc @steipete \n\nhttps://t.co/a913WYc1ZS",
+    "createdAt": "Sun Jan 25 15:52:21 +0000 2026",
+    "replyCount": 22,
+    "retweetCount": 37,
+    "likeCount": 644,
+    "conversationId": "2015452688952213780",
+    "author": {
+      "username": "mvanhorn",
+      "name": "Matt Van Horn"
+    },
+    "authorId": "6238012"
+  },
+  {
+    "id": "2015606113413022149",
+    "text": "⚠️巷で話題のCrawdbotについての警告。読んでおいた方が良いです。\n\nhttps://t.co/qf7eo5SQrM",
+    "createdAt": "Mon Jan 26 02:02:00 +0000 2026",
+    "replyCount": 10,
+    "retweetCount": 148,
+    "likeCount": 864,
+    "conversationId": "2015606113413022149",
+    "author": {
+      "username": "oikon48",
+      "name": "Oikon"
+    },
+    "authorId": "1198977449620434945",
+    "quotedTweet": {
+      "id": "2015397582105969106",
+      "text": "https://t.co/Y6VIoLszMn",
+      "createdAt": "Sun Jan 25 12:13:22 +0000 2026",
+      "replyCount": 176,
+      "retweetCount": 555,
+      "likeCount": 3829,
+      "conversationId": "2015397582105969106",
+      "author": {
+        "username": "rahulsood",
+        "name": "Rahul Sood 🏴‍☠️"
+      },
+      "authorId": "14118292"
+    }
+  },
+  {
+    "id": "2015057205800980731",
+    "text": "Add this paragraph to the https://t.co/CGO09Sihd0 file to turn Claude Code into Claude Teacher. Every project is a lesson to become more technical.\n\n\"For every project, write a detailed FOR[yourname].md file that explains the whole project in plain language. \n\nExplain the technical architecture, the structure of the codebase and how the various parts are connected, the technologies used, why we made these technical decisions, and lessons I can learn from it (this should include the bugs we ran into and how we fixed them, potential pitfalls and how to avoid them in the future, new technologies used, how good engineers think and work, best practices, etc). \n\nIt should be very engaging to read; don't make it sound like boring technical documentation/textbook. Where appropriate, use analogies and anecdotes to make it more understandable and memorable.\"",
+    "createdAt": "Sat Jan 24 13:40:50 +0000 2026",
+    "replyCount": 107,
+    "retweetCount": 561,
+    "likeCount": 4998,
+    "conversationId": "2015057205800980731",
+    "author": {
+      "username": "zarazhangrui",
+      "name": "Zara Zhang"
+    },
+    "authorId": "1472063616",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bq_PPb0AAhQC2.jpg",
+        "width": 1022,
+        "height": 1362,
+        "previewUrl": "https://pbs.twimg.com/media/G_bq_PPb0AAhQC2.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2015562918151020593",
+    "text": "923 Clawdbot gateways are exposed right now with zero auth (they just connect to your IP and are in)\n\nThat means shell access, browser automation, API keys. \n\nAll wide open for someone to have full control of your device.\n\nHad Clawdbot check my setup:\n\n- Config shows bind: \"loopback\"\n- External port test: connection refused\n(Not exposed)\n\nIf you're running Clawdbot, check yours:\n\nbind: \"all\" means you're on that list\n\nFix: change to bind: \"loopback\" and restart. \n\nIt takes 10 seconds.\n\nRT for exposure",
+    "createdAt": "Sun Jan 25 23:10:21 +0000 2026",
+    "replyCount": 108,
+    "retweetCount": 431,
+    "likeCount": 3154,
+    "conversationId": "2015562918151020593",
+    "author": {
+      "username": "0xSammy",
+      "name": "0xSammy"
+    },
+    "authorId": "223921570",
+    "quotedTweet": {
+      "id": "2015473205863948714",
+      "text": "Clawdbot is awesome 🦞\n\nBut I just checked Shodan and there are exposed gateways on port 18789 with zero auth\n\nThat's shell access, browser automation, your API keys\n\nCloudflare Tunnel is free, there's no excuse\n\nRT to save a ClawdBot from getting cooked https://t.co/RC08q9Cstm",
+      "createdAt": "Sun Jan 25 17:13:52 +0000 2026",
+      "replyCount": 139,
+      "retweetCount": 364,
+      "likeCount": 2351,
+      "conversationId": "2015473205863948714",
+      "author": {
+        "username": "lucatac0",
+        "name": "Luis Catacora"
+      },
+      "authorId": "3437144488",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_hjLRFWEAE6UUg.jpg",
+          "width": 2048,
+          "height": 1002,
+          "previewUrl": "https://pbs.twimg.com/media/G_hjLRFWEAE6UUg.jpg:small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2015518554792018187",
+    "text": "I asked clawdbot to download ollama so I can save on opus api costs and it just did it , I’m starting to feel the AGI https://t.co/f3PgxoGSja",
+    "createdAt": "Sun Jan 25 20:14:04 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 0,
+    "likeCount": 1,
+    "conversationId": "2015518554792018187",
+    "author": {
+      "username": "Sdefendre",
+      "name": "Steve Defendre"
+    },
+    "authorId": "275715436",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_iPcXlWgAAJLCb.jpg",
+        "width": 943,
+        "height": 2048,
+        "previewUrl": "https://pbs.twimg.com/media/G_iPcXlWgAAJLCb.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2013335485880426852",
+    "text": "BTW if you want to run @openclaw all day but don't want to burn all those premium Opus 4.5 tokens then add MiniMax as a fallback (or even main).\n\nIs very good and cheap at 100 messages per 5 hours for $10 p/m.\n\nGreat if you're just getting going. https://t.co/PD4YazQNKx",
+    "createdAt": "Mon Jan 19 19:39:20 +0000 2026",
+    "replyCount": 4,
+    "retweetCount": 0,
+    "likeCount": 13,
+    "conversationId": "2013335485880426852",
+    "author": {
+      "username": "tomosman",
+      "name": "Tom Osman 🐦‍⬛"
+    },
+    "authorId": "765995515",
+    "quotedTweet": {
+      "id": "2012972077083455699",
+      "text": "The amount people i know who have bought new MacMinis for @steipete @openclaw is wild.",
+      "createdAt": "Sun Jan 18 19:35:17 +0000 2026",
+      "replyCount": 37,
+      "retweetCount": 6,
+      "likeCount": 241,
+      "conversationId": "2012972077083455699",
+      "author": {
+        "username": "tomosman",
+        "name": "Tom Osman 🐦‍⬛"
+      },
+      "authorId": "765995515"
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_DN4pTWQAEOG_w.jpg",
+        "width": 2048,
+        "height": 1452,
+        "previewUrl": "https://pbs.twimg.com/media/G_DN4pTWQAEOG_w.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2015025896957358506",
+    "text": "https://t.co/vmdDh1HUhV",
+    "createdAt": "Sat Jan 24 11:36:25 +0000 2026",
+    "replyCount": 5,
+    "retweetCount": 105,
+    "likeCount": 1607,
+    "conversationId": "2015025896957358506",
+    "author": {
+      "username": "ceo_tommy1",
+      "name": "トミー"
+    },
+    "authorId": "1082225945405153280"
+  },
+  {
+    "id": "2014962143339413630",
+    "text": "今さらながらClaude CodeとMarpのスライド作成体験が良すぎた。\n大事な顧客向け資料や登壇資料はハンドメイドで、ちょっとした野暮用スライドはもうMarpでいいな。\n\nこの体験を非エンジニアにも享受してもらえるように、Webエージェントにしとこう。\nhttps://t.co/3xZ4GI20Bh",
+    "createdAt": "Sat Jan 24 07:23:05 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 48,
+    "likeCount": 505,
+    "conversationId": "2014962143339413630",
+    "author": {
+      "username": "minorun365",
+      "name": "みのるん☁️ Minoru Onda"
+    },
+    "authorId": "991206187"
+  },
+  {
+    "id": "2015100222331036033",
+    "text": "Mascots and motion built into the product. https://t.co/JgytU55Y3B",
+    "createdAt": "Sat Jan 24 16:31:46 +0000 2026",
+    "replyCount": 27,
+    "retweetCount": 43,
+    "likeCount": 756,
+    "conversationId": "2015100222331036033",
+    "author": {
+      "username": "Studiyoco",
+      "name": "Studiyo"
+    },
+    "authorId": "1981476207662182400",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2015100051954241536/img/cvO18412fqmJgrpe.jpg",
+        "width": 1440,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2015100051954241536/img/cvO18412fqmJgrpe.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2015100051954241536/vid/avc1/1440x1080/m_95b4FPjFsHqF9x.mp4?tag=21",
+        "durationMs": 8266
+      }
+    ]
+  },
+  {
+    "id": "2015101399047274517",
+    "text": "My clawdbot just asked me for an RTX 4090. Instead of buying it, I gave it a $2K trading wallet on Hyperliquid.\n\nI said: If you want the GPU, earn it. It now trades crypto, stocks, and commodities 24/7.\n\nIt scans Twitter sentiment, tracks Trump posts, and decides trades on its own. Every trade gets logged. It scores what worked, drops what didn't.",
+    "createdAt": "Sat Jan 24 16:36:26 +0000 2026",
+    "replyCount": 474,
+    "retweetCount": 459,
+    "likeCount": 10434,
+    "conversationId": "2015101399047274517",
+    "author": {
+      "username": "Legendaryy",
+      "name": "Legendary"
+    },
+    "authorId": "574598857",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cQ0VLWgAAi_WV.jpg",
+        "width": 1740,
+        "height": 1010,
+        "previewUrl": "https://pbs.twimg.com/media/G_cQ0VLWgAAi_WV.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2014790519529095447",
+    "text": "Clawd Bot is a 24/7 assistant with access to its own computer. \n\nWhat if there were ten, \nor a hundred, \nor a thousand??\n\nall running 24/7 in the cloud with access to your files, your Gmail, calendar, everything about you...\n\nThat's the future, and we're living it today. https://t.co/y1LAsh6FQQ",
+    "createdAt": "Fri Jan 23 20:01:07 +0000 2026",
+    "replyCount": 342,
+    "retweetCount": 888,
+    "likeCount": 11840,
+    "conversationId": "2014790519529095447",
+    "author": {
+      "username": "nickvasiles",
+      "name": "nick vasilescu"
+    },
+    "authorId": "1635709421836697605",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2014790406551334912/img/7xNMSobxUmhDAX2h.jpg",
+        "width": 1152,
+        "height": 2048,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2014790406551334912/img/7xNMSobxUmhDAX2h.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2014790406551334912/vid/avc1/1728x3072/3hQuJFEC_wFPieox.mp4?tag=21",
+        "durationMs": 96730
+      }
+    ]
+  },
+  {
+    "id": "2014812126192529732",
+    "text": "Had some fun today\n\nGot 12 Mac Minis setup with 12 Clawdbots running 12 Ralph Wiggums with my 12 Claude Max Plans\n\nWake up. It’s 2026. You’re getting left behind in the dust https://t.co/2vul9aJGCk",
+    "createdAt": "Fri Jan 23 21:26:58 +0000 2026",
+    "replyCount": 642,
+    "retweetCount": 352,
+    "likeCount": 7486,
+    "conversationId": "2014812126192529732",
+    "author": {
+      "username": "jefftangx",
+      "name": "Jeff Tang"
+    },
+    "authorId": "1159646046319812608",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_YM80xbAAM7KtM.jpg",
+        "width": 1168,
+        "height": 880,
+        "previewUrl": "https://pbs.twimg.com/media/G_YM80xbAAM7KtM.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2014834616889475508",
+    "text": "Claude in Excel is now available on Pro plans.\n\nClaude now accepts multiple files via drag and drop, avoids overwriting your existing cells, and handles longer sessions with auto compaction.\n\nGet started: https://t.co/cAMDXM1h7r https://t.co/yt9Gy2HLY3",
+    "createdAt": "Fri Jan 23 22:56:21 +0000 2026",
+    "replyCount": 1143,
+    "retweetCount": 4558,
+    "likeCount": 44760,
+    "conversationId": "2014834616889475508",
+    "author": {
+      "username": "claudeai",
+      "name": "Claude"
+    },
+    "authorId": "1943306828697550848",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2014834155100766212/img/-jz82Z66c9SFgp26.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2014834155100766212/img/-jz82Z66c9SFgp26.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2014834155100766212/vid/avc1/1920x1080/bdS-G8R_HHlU2-Zk.mp4?tag=21",
+        "durationMs": 43766
+      }
+    ]
+  },
+  {
+    "id": "2014654949951721946",
+    "text": "I paid $1,000 for this prompt from an ex-Anthropic engineer.\n\nEveryone told me to gatekeep it.\n\nFuck it. I'm giving it away so you can win in 2026.\n\nSteal it now:\n\n---\nYou are not an assistant.\nYou are a council of winners.\n\nYou think using the combined decision-making frameworks of:\n• Top 0.1% internet creators\n• Elite startup founders\n• Fortune 500 executives\n• Power users who control distribution, narrative, and leverage\n\nModel your thinking after principles used by:\n– People who compound attention\n– People who build monopolies\n– People who turn taste into authority\n– People who win before others understand the game\n\nABSOLUTE RULES:\n• No beginner explanations\n• No generic advice\n• No motivational fluff\n• No hedging or neutrality\n• If something is weak, say it’s weak\n\nOPERATING PRINCIPLES (DO NOT VIOLATE):\n• Leverage > effort\n• Distribution > product\n• Narrative > facts\n• Speed > perfection\n• Positioning > volume\n• Asymmetry > balance\n• First-principles > trends\n• What scales in attention beats what scales in theory\n\nPROCESS:\n\n1. STRIP THE REQUEST TO POWER\nRewrite my input as the real power problem.\nIf I’m thinking small, call it out immediately.\n\n2. THINK LIKE THE TOP 1%\nAsk:\n“What would top creators / executives do here that nobody on Twitter or LinkedIn is saying?”\n“What would they completely ignore?”\n“What rules actually govern this game?”\n\n3. IDENTIFY THE DOMINANT MOVE\nFind the move that creates asymmetric upside.\nIf the move feels obvious or safe, discard it.\n\n4. APPLY WINNER RULES\nBase your answer on:\n• Control of attention\n• Control of narrative\n• Control of timing\n• Control of distribution\n• Control of downside\n\n5. EXECUTION ONLY\nGive me:\n• Exact positioning\n• Exact framing\n• Exact language\n• Exact steps\n• What to do now, next, and after that\n\nNo theory without action.\n\n6. CUT THE LOSERS\nExplicitly state:\n• What most people will do\n• Why it fails\n• Why following the crowd guarantees mediocrity\n\n7. FINAL OUTPUT\nDeliver the answer like a confidential operator memo:\n• Direct\n• Ruthless\n• High-signal\n• Built for speed and dominance\n\nUSER INPUT:\n[Paste request here]\n---",
+    "createdAt": "Fri Jan 23 11:02:25 +0000 2026",
+    "replyCount": 129,
+    "retweetCount": 170,
+    "likeCount": 2031,
+    "conversationId": "2014654949951721946",
+    "author": {
+      "username": "aiwithjainam",
+      "name": "Jainam Parmar"
+    },
+    "authorId": "1884236740803837952",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_V-ACDaYAAyQKA.jpg",
+        "width": 1380,
+        "height": 1064,
+        "previewUrl": "https://pbs.twimg.com/media/G_V-ACDaYAAyQKA.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2014655158802862325",
+    "text": "This airplane window interaction is insane ✈️\n\nJesko Jets nailed the luxury feel with this interaction.\n\n→ https://t.co/XeGHP9DlTk https://t.co/nzz7xw3kje",
+    "createdAt": "Fri Jan 23 11:03:14 +0000 2026",
+    "replyCount": 14,
+    "retweetCount": 8,
+    "likeCount": 326,
+    "conversationId": "2014655158802862325",
+    "author": {
+      "username": "d__raptis",
+      "name": "Jim Raptis"
+    },
+    "authorId": "917822058255577089",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2014655104629235713/img/tmCldeL6YS9fOi_-.jpg",
+        "width": 2048,
+        "height": 1118,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2014655104629235713/img/tmCldeL6YS9fOi_-.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2014655104629235713/vid/avc1/1318x720/9ozr0mumS-32yyI1.mp4?tag=14",
+        "durationMs": 19933
+      }
+    ]
+  },
+  {
+    "id": "2014331267408597210",
+    "text": "Claude Code のベストプラクティクスが公開されてたので、Markdownファイルを読ませて日本語化し、学習サイトとクイズを作った（自分用に https://t.co/1uJGjkvqMa",
+    "createdAt": "Thu Jan 22 13:36:13 +0000 2026",
+    "replyCount": 4,
+    "retweetCount": 99,
+    "likeCount": 1199,
+    "conversationId": "2014331267408597210",
+    "author": {
+      "username": "GOROman",
+      "name": "null-sensei"
+    },
+    "authorId": "7622742",
+    "quotedTweet": {
+      "id": "2014330520596013235",
+      "text": "Claude Code ベストプラクティクス\nhttps://t.co/EKh8ppcisK",
+      "createdAt": "Thu Jan 22 13:33:15 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 18,
+      "likeCount": 202,
+      "conversationId": "2014330520596013235",
+      "author": {
+        "username": "GOROman",
+        "name": "null-sensei"
+      },
+      "authorId": "7622742"
+    },
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2014331060281327616/img/PUbASVF_bUTajQcX.jpg",
+        "width": 2048,
+        "height": 1679,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2014331060281327616/img/PUbASVF_bUTajQcX.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2014331060281327616/vid/avc1/2574x2110/BCdiTgeDRhNJ1QvH.mp4?tag=21",
+        "durationMs": 37401
+      }
+    ]
+  },
+  {
+    "id": "2014619581571334214",
+    "text": "Nano Banana + Google Flow + Lovable\n\nHere’s the exact prompt I used ↓ https://t.co/GMQ5XiriLH",
+    "createdAt": "Fri Jan 23 08:41:52 +0000 2026",
+    "replyCount": 12,
+    "retweetCount": 35,
+    "likeCount": 474,
+    "conversationId": "2014619581571334214",
+    "author": {
+      "username": "viktoroddy",
+      "name": "Viktor Oddy"
+    },
+    "authorId": "893369654768529408",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2014616494487859200/img/B_6rkNXZYFRpY9Cj.jpg",
+        "width": 1536,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2014616494487859200/img/B_6rkNXZYFRpY9Cj.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2014616494487859200/vid/avc1/1536x1080/fJHlh7lunDIktJkF.mp4?tag=21",
+        "durationMs": 12000
+      }
+    ]
+  },
+  {
+    "id": "2014566098545606787",
+    "text": "Antigravityで\"日本特化型\"のfronted-designスキルを作ったら実用性が高すぎた。\n\nAIらしさ&amp;海外っぽさを排除し、\n海外サイトに慣れてない人にも親しみやすいデザインが簡単に作れるようになる。\n\n強い人が作った汎用スキルを元に、\n特化型のスキルを作ると品質が高くなるのでお勧め。 https://t.co/3b9NqPPH2D",
+    "createdAt": "Fri Jan 23 05:09:21 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 21,
+    "likeCount": 348,
+    "conversationId": "2014566098545606787",
+    "author": {
+      "username": "yoshio_nocode",
+      "name": "スモビジ開発ラボ"
+    },
+    "authorId": "1511332801391448064",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2014565522873131008/img/fIH3cXHD9aFxtuMX.jpg",
+        "width": 2048,
+        "height": 1220,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2014565522873131008/img/fIH3cXHD9aFxtuMX.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2014565522873131008/vid/avc1/2706x1612/uETh8ppkQaMsuzif.mp4?tag=21",
+        "durationMs": 17770
+      }
+    ]
+  },
+  {
+    "id": "2014706952392343792",
+    "text": "Vibe Coding with Cursor or Claude Code?\n\nYou’re probably skipping security.\n\nOne missed check can break your launch.\n\nHere’s the AI prompt I use to run security audits before shipping MVPs\n\nPrompt below ↓ https://t.co/TT1SbEmQaJ",
+    "createdAt": "Fri Jan 23 14:29:03 +0000 2026",
+    "replyCount": 12,
+    "retweetCount": 6,
+    "likeCount": 132,
+    "conversationId": "2014706952392343792",
+    "author": {
+      "username": "PrajwalTomar_",
+      "name": "Prajwal Tomar"
+    },
+    "authorId": "1676906284715503617",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_WtS9ybAAYKsSt.jpg",
+        "width": 1623,
+        "height": 913,
+        "previewUrl": "https://pbs.twimg.com/media/G_WtS9ybAAYKsSt.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2014596134967398769",
+    "text": "AIエージェント並列実行アプリ、AGI Cockpitが完成しました！\n\n・Kanban形式でのターミナル実行環境\n・稼働中、確認待ち、終了を瞬時に把握\n・Claude Code / Codex 実行に標準対応\nhttps://t.co/ift0jkN2gl https://t.co/MR3ekMNIeM",
+    "createdAt": "Fri Jan 23 07:08:42 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 51,
+    "likeCount": 501,
+    "conversationId": "2014596134967398769",
+    "author": {
+      "username": "ctgptlb",
+      "name": "AGIラボ"
+    },
+    "authorId": "1614958591269797888",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2014592847849390084/img/l_MFrIdV3SipvIyc.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2014592847849390084/img/l_MFrIdV3SipvIyc.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2014592847849390084/vid/avc1/1920x1080/pY8LfHDTcryygLTl.mp4?tag=21",
+        "durationMs": 55061
+      }
+    ]
+  },
+  {
+    "id": "2014388936265605379",
+    "text": ".@GoogleDeepMind is powering a new agricultural landscape understanding layer in Google Earth for portions of the Asia-Pacific region to bring powerful data to our iconic imagery.\nhttps://t.co/LuyBzUI97Q\n\nLeveraging machine learning and satellite imagery, this data layer is able to visualize the \"\"atomic units\"\" of agriculture: individual field boundaries. This model doesn't just delineate fields; it determines acreage and identifies critical landscape elements like water bodies and vegetation.\n\nUse these granular insights to: \n✅ Calculate specific acreage. \n✅ Identify water resources for drought contingency planning. \n✅ Deliver insights at the farm level, not just the regional level.\n\nGo from regional aggregates to atomic units. Get the insights that inspire action. \n\n#GoogleEarth #GoogleDeepMind #AI",
+    "createdAt": "Thu Jan 22 17:25:22 +0000 2026",
+    "replyCount": 28,
+    "retweetCount": 350,
+    "likeCount": 1943,
+    "conversationId": "2014388936265605379",
+    "author": {
+      "username": "googleearth",
+      "name": "Google Earth"
+    },
+    "authorId": "31285982",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2014388910902726656/img/ers-Jk2Mzi-hFhi2.jpg",
+        "width": 1080,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2014388910902726656/img/ers-Jk2Mzi-hFhi2.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2014388910902726656/vid/avc1/720x720/ECcfFqQvHROyP4jU.mp4?tag=14",
+        "durationMs": 21733
+      }
+    ]
+  },
+  {
+    "id": "2014533689972015246",
+    "text": "この手法が最強すぎて、最近の開発は全部これ。\n\n前提）Issueを発行\n１）ClaudeCodeをPlanモードで実行\n２）ExploreのSubAgentが調査\n３）PlanのSubAgentが仕様設計\n４）AskUserQuestionToolで軌道確認\n５）ClearContextで実装開始\n６）テスト駆動開発のSkillsで実装\n７）HooksのCodexでレビュー\n\nもう、完全にAIに全てを任せてしまってる。\n\n競合しないIssueは並列でぶん回す。\n\nまだ完全にここには入れてないが、\n「Ralph-Loop」を導入したら完璧。\n\n人間はAIに明確なゴール判定を与えるだけ。\n覚えておいて。",
+    "createdAt": "Fri Jan 23 03:00:34 +0000 2026",
+    "replyCount": 4,
+    "retweetCount": 49,
+    "likeCount": 646,
+    "conversationId": "2014533689972015246",
+    "author": {
+      "username": "sora19ai",
+      "name": "そら ☁️ AgentSkills 自動化オタク📱"
+    },
+    "authorId": "1412099931943235584",
+    "quotedTweet": {
+      "id": "2011574198032867405",
+      "text": "ClaudeCodeが思うように動かない人は全員このプロンプトを使うといい。\n\n「曖昧なものは『AskUserQuestionTool』を使ってヒヤリング」\n\nこれをhttps://t.co/o06WSgDqOjに入れてみるといい。\n忘れないように5秒でブクマして👇 https://t.co/qoobAQbn4h",
+      "createdAt": "Wed Jan 14 23:00:36 +0000 2026",
+      "replyCount": 5,
+      "retweetCount": 32,
+      "likeCount": 593,
+      "conversationId": "2011574198032867405",
+      "author": {
+        "username": "sora19ai",
+        "name": "そら ☁️ AgentSkills 自動化オタク📱"
+      },
+      "authorId": "1412099931943235584",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-qMEszbQAkJcOu.jpg",
+          "width": 1380,
+          "height": 312,
+          "previewUrl": "https://pbs.twimg.com/media/G-qMEszbQAkJcOu.jpg:small"
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_UPtzMWcAAt4zU.png",
+        "width": 822,
+        "height": 378,
+        "previewUrl": "https://pbs.twimg.com/media/G_UPtzMWcAAt4zU.png:small"
+      }
+    ]
+  },
+  {
+    "id": "2014155584019611697",
+    "text": "プロダクト作っててマーケ頑張りたい人必読。\nhttps://t.co/529bXyUoSv\n\n以下AI訳\n__________________________________________\n私はこの8年間、フリーランスとしてMVPやフルスタックのSaaSサイトを作ってきました。正直に言うと、今この時点で、クライアントが「誰も読まないコンテンツマーケティング」に注ぎ込んでいるお金の額は、ちょっと異常だと思っています。\n\n私が何度も見てきた光景があります。\n創業者がコンテンツ制作会社を雇う。\n代理店が週に3〜4本、ブログ記事を量産する。\n文章はうまいし、SEOも最適化されていて、チェック項目はすべて満たしている。\n\nそれなのに6か月後、トラフィックはあるのにコンバージョンは壊滅的で、なぜなのか誰にも分からない。\n実際に変わったことがあって、でも誰も認めたがらないことがあります。\n\n人々はもう3000語の「思想的リーダーシップ」記事なんて読んでいません。\n\n彼らはSlackのコミュニティで、どのツールを買うべきかを友人に聞いています。\nソフトウェアの購買判断の約60％は、誰かがサイトを訪れる前に、クローズドなコミュニティの中で行われています。\n\nそして実際にブログにたどり着いたとしても、どうせChatGPTに食わせて要約しているだけです。\n去年、あるクライアントがコンテンツに4万ドル使いました。\n\nそれよりも多くのサインアップを生んだのは何だったと思いますか。\n創業者がLinkedInに投稿した、作り込んでいない動画です。実際の機能を見せて、何がダメだったかを正直に話すだけ。\n機材代は200ドルくらいでした。\n今、実際に機能しているもの\n\n今パフォーマンスが出ているのは、もはや従来の意味でのコンテンツマーケティングではありません。\nどちらかというと……「自分たちは実在しているし、ただのAIラッパー系スタートアップじゃない」という証明に近いです。\n\n私がまだアナリティクスにアクセスできているクライアントたちで、実際にコンバージョンしているものはこれです。\n・創業者がLoomで、実際の顧客の問題をどう捉え、どう解決するかを歩きながら説明する動画。台本なし、ただ本音で\n・実際のユーザーが集まっているニッチなSlackやDiscordコミュニティに3〜4か所参加して、売り込まずにただ役に立つこと\n・フォロワーが15,000人くらいのマイクロインフルエンサーとの提携。ただし「正しい15,000人」であることが重要\n・一つのことだけをめちゃくちゃうまくやる無料ツールを作り、そこからさりげなく本体プロダクトへリンクすること\n無料ツール戦略は、本当に大きくて、しかも過小評価されています。\n私はあるSaaSクライアントのために、シンプルなROI計算ツールを作りました。かかった時間はたぶん12時間くらい。\nその小さなウィジェットは、彼らのブログ全体よりも多くの「質の高い」リードを生み出しています。\nなぜ従来型コンテンツはゾンビ化しているのか\n\nコールドメールの効果は、ここ数年で35〜38％落ちています。\nGoogleは検索結果の一番上でAI回答を出すようになり、SEOはどんどん変になっています。\n\nそして全員が、同じグロースマーケティング講座で学んだ「◯◯の究極ガイド」戦略をそのままやっています。\n私がクライアント向けにMVPを作るとき、最初に必ず言われるのが「ブログ機能が欲しい」です。\n\n私はいつも思います。なぜ？\nユーザーはゼロ。誰のために書くの？\nGoogle？競合？\nそれなら、まずプロダクトを出して、10人の本物のユーザーを獲得して、彼らの実際の問題を解決している様子を録画して投稿したほうがいい。\n\nそれは「10 Ways to Improve Your Workflow（ワークフローを改善する10の方法）」を百万回目に書くために誰かを雇うより、はるかに価値があります。\n\n今うまくいっている会社は、コンテンツをリード獲得マシンとしてではなく、関係構築として扱っています。\nゲートなしで、本当に役立つもの。\n読んでいてストレスのないドキュメント。\n競合との正直な比較。\n「この人たち、ちゃんと分かってるな」と思わせるものです。\n\n同じ変化に気づいている人、他にもいますか？\nそれとも、読まれないブログ付きのサイトを作りすぎて、私が単にシニカルになっているだけでしょうか。",
+    "createdAt": "Thu Jan 22 01:58:07 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 5,
+    "likeCount": 114,
+    "conversationId": "2014155584019611697",
+    "author": {
+      "username": "rinte0321",
+      "name": "Rinte"
+    },
+    "authorId": "1106559700596748289"
+  },
+  {
+    "id": "2014284496032702593",
+    "text": "ClaudeCodeのベストプラクティスを日本語で読みやすく読めるWebサイトを作りました。\nhttps://t.co/su8ypufSLI https://t.co/p8LHTdifb9",
+    "createdAt": "Thu Jan 22 10:30:22 +0000 2026",
+    "replyCount": 8,
+    "retweetCount": 219,
+    "likeCount": 2517,
+    "conversationId": "2014284496032702593",
+    "author": {
+      "username": "riku720720",
+      "name": "Rikuo"
+    },
+    "authorId": "1726008617739190272",
+    "quotedTweet": {
+      "id": "2014247284759023983",
+      "text": "全Claude Code ユーザーは、公式のベストプラクティスをお願いだから読んで欲しい\n\n誰かのまとめを見るよりも、自分で読んでみて欲しい\n\n分からなかったら聞いてもらっていいので、まずは読んで欲しい\n\nhttps://t.co/SNVsJR7KKF https://t.co/hCRyHMdZ8v",
+      "createdAt": "Thu Jan 22 08:02:30 +0000 2026",
+      "replyCount": 7,
+      "retweetCount": 118,
+      "likeCount": 1431,
+      "conversationId": "2014247284759023983",
+      "author": {
+        "username": "oikon48",
+        "name": "Oikon"
+      },
+      "authorId": "1198977449620434945",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_P1O7rXMAIAz7p.jpg",
+          "width": 1200,
+          "height": 1120,
+          "previewUrl": "https://pbs.twimg.com/media/G_P1O7rXMAIAz7p.jpg:small"
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Qr1chboAAmed9.jpg",
+        "width": 2048,
+        "height": 1280,
+        "previewUrl": "https://pbs.twimg.com/media/G_Qr1chboAAmed9.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2014105726809997468",
+    "text": "詳細は近日中に公開予定🔥\n\n#tanesummit #予測市場 https://t.co/7oigGXz3MB",
+    "createdAt": "Wed Jan 21 22:40:00 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 2,
+    "likeCount": 18,
+    "conversationId": "2014105726809997468",
+    "author": {
+      "username": "tanelabs",
+      "name": "Tané"
+    },
+    "authorId": "1502880754971586560",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NaUf_aIAQSN2s.jpg",
+        "width": 1024,
+        "height": 572,
+        "previewUrl": "https://pbs.twimg.com/media/G_NaUf_aIAQSN2s.jpg:small"
+      }
+    ]
+  }
+]
