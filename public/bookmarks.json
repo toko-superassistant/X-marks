@@ -5,7 +5,7 @@
     "createdAt": "Fri Jan 30 05:42:51 +0000 2026",
     "replyCount": 2,
     "retweetCount": 118,
-    "likeCount": 1221,
+    "likeCount": 1234,
     "conversationId": "2017111243413127412",
     "author": {
       "username": "hiroki_daichi",
@@ -19,7 +19,7 @@
     "createdAt": "Fri Jan 30 09:07:39 +0000 2026",
     "replyCount": 2,
     "retweetCount": 1,
-    "likeCount": 55,
+    "likeCount": 56,
     "conversationId": "2017162782882587091",
     "author": {
       "username": "genel_ai",
@@ -115,9 +115,9 @@
     "id": "2016742527324606603",
     "text": "Get ready. Computers in 2027 will be triple the price they are now.\n\nMac Minis will start at $1,800. Mac Studios and Macbook Pros will start at $6,000.\n\nAs ClawdBot gets more popular, tokens get more expensive, and open source models become more powerful, there will be an obscene consumer rush to buy hardware\n\nIt's already begun\n\nMac Minis are flying off the shelf. In 6 months it will be Mac Studios\n\nThe scariest part is there's ALREADY a massive bottleneck because enterprise and data centers have been buying every graphics card and stick of memory they can. Now the consumer rush has started.\n\nIn 12 months computers will be unaffordable to most, and in 24 months they will only be available to the highest elite.\n\nI believe 2026 is your last chance at owning your compute and intelligence\n\nThat's why I bought the 512GB memory Mac Studio below and plan on getting another by end of year.\n\nOwn your compute before it becomes a luxury like owning a house.\n\n\"You will own nothing and be happy\"",
     "createdAt": "Thu Jan 29 05:17:42 +0000 2026",
-    "replyCount": 373,
+    "replyCount": 374,
     "retweetCount": 114,
-    "likeCount": 1525,
+    "likeCount": 1526,
     "conversationId": "2016742527324606603",
     "author": {
       "username": "AlexFinn",
@@ -182,7 +182,7 @@
     "createdAt": "Thu Jan 29 14:05:07 +0000 2026",
     "replyCount": 306,
     "retweetCount": 781,
-    "likeCount": 6397,
+    "likeCount": 6401,
     "conversationId": "2016875256393175130",
     "author": {
       "username": "Cloudflare",
@@ -196,7 +196,7 @@
     "createdAt": "Tue Jan 27 19:08:45 +0000 2026",
     "replyCount": 58,
     "retweetCount": 230,
-    "likeCount": 3115,
+    "likeCount": 3116,
     "conversationId": "2016226892333121635",
     "author": {
       "username": "vercel_dev",
@@ -282,7 +282,7 @@
     "text": "this creator cracked a 2.1M view hack.\n\nshowing her armpits.\n\n&gt; arms down: 12k views\n&gt; arms up: 2.1M views\n\nsame person. same content. different body language.\n\nvulnerability signals = algorithm gold.\n\nwe just added \"arms up\" as a UGC format at DansUGC. https://t.co/X2EWsnpG57",
     "createdAt": "Wed Jan 28 18:24:24 +0000 2026",
     "replyCount": 413,
-    "retweetCount": 527,
+    "retweetCount": 526,
     "likeCount": 15302,
     "conversationId": "2016578118585053354",
     "author": {
@@ -629,7 +629,7 @@
     "createdAt": "Sat Jan 24 13:40:50 +0000 2026",
     "replyCount": 107,
     "retweetCount": 561,
-    "likeCount": 4998,
+    "likeCount": 4999,
     "conversationId": "2015057205800980731",
     "author": {
       "username": "zarazhangrui",
@@ -802,7 +802,7 @@
     "createdAt": "Sat Jan 24 16:36:26 +0000 2026",
     "replyCount": 474,
     "retweetCount": 459,
-    "likeCount": 10434,
+    "likeCount": 10435,
     "conversationId": "2015101399047274517",
     "author": {
       "username": "Legendaryy",
@@ -825,7 +825,7 @@
     "createdAt": "Fri Jan 23 20:01:07 +0000 2026",
     "replyCount": 342,
     "retweetCount": 888,
-    "likeCount": 11840,
+    "likeCount": 11841,
     "conversationId": "2014790519529095447",
     "author": {
       "username": "nickvasiles",
@@ -850,7 +850,7 @@
     "createdAt": "Fri Jan 23 21:26:58 +0000 2026",
     "replyCount": 642,
     "retweetCount": 352,
-    "likeCount": 7486,
+    "likeCount": 7487,
     "conversationId": "2014812126192529732",
     "author": {
       "username": "jefftangx",
@@ -873,7 +873,7 @@
     "createdAt": "Fri Jan 23 22:56:21 +0000 2026",
     "replyCount": 1143,
     "retweetCount": 4558,
-    "likeCount": 44760,
+    "likeCount": 44759,
     "conversationId": "2014834616889475508",
     "author": {
       "username": "claudeai",
@@ -1083,7 +1083,7 @@
     "createdAt": "Thu Jan 22 17:25:22 +0000 2026",
     "replyCount": 28,
     "retweetCount": 350,
-    "likeCount": 1943,
+    "likeCount": 1944,
     "conversationId": "2014388936265605379",
     "author": {
       "username": "googleearth",
@@ -1228,6 +1228,3624 @@
         "width": 1024,
         "height": 572,
         "previewUrl": "https://pbs.twimg.com/media/G_NaUf_aIAQSN2s.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2014182275722903886",
+    "text": "@hasantoxr Opensource Repository of 100+ AI Agent and RAG implementations for real-world use cases (88.5k+ stars already) \nhttps://t.co/Sce88yQpi6",
+    "createdAt": "Thu Jan 22 03:44:10 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 1,
+    "likeCount": 15,
+    "conversationId": "2013519050006241645",
+    "inReplyToStatusId": "2013519050006241645",
+    "author": {
+      "username": "Saboo_Shubham_",
+      "name": "Shubham Saboo"
+    },
+    "authorId": "1275333333724000257"
+  },
+  {
+    "id": "2013632446441627729",
+    "text": "Did we cook hot enough?\nCards/website Perks - section. https://t.co/w7ZyYwpVHB",
+    "createdAt": "Tue Jan 20 15:19:21 +0000 2026",
+    "replyCount": 71,
+    "retweetCount": 8,
+    "likeCount": 553,
+    "conversationId": "2013632446441627729",
+    "author": {
+      "username": "basit_designs",
+      "name": "Basit A. Khan"
+    },
+    "authorId": "3050564824",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2013632254702960640/img/ealnNR62HntN8Kem.jpg",
+        "width": 2048,
+        "height": 1535,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2013632254702960640/img/ealnNR62HntN8Kem.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2013632254702960640/vid/avc1/2880x2160/jkQcp4EYTu_ys05q.mp4?tag=21",
+        "durationMs": 17966
+      }
+    ]
+  },
+  {
+    "id": "2014017827183673667",
+    "text": "Prediction: agentic commerce makes 'everyday shopping' invisible. \"Get me 3 bananas, make no mistakes\"\n\nOn the flip side, discovery &amp; brand experience will be surreal. AI coding makes anything possible\n\nExamples 🧵\nhttps://t.co/p4pCGSpi8R (vercel+shopify)\nhttps://t.co/gOCJV9kD8R",
+    "createdAt": "Wed Jan 21 16:50:43 +0000 2026",
+    "replyCount": 62,
+    "retweetCount": 62,
+    "likeCount": 1034,
+    "conversationId": "2014017827183673667",
+    "author": {
+      "username": "rauchg",
+      "name": "Guillermo Rauch"
+    },
+    "authorId": "15540222",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2013296229120147456/img/maXT12B8oThPOevk.jpg",
+        "width": 1692,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2013296229120147456/img/maXT12B8oThPOevk.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2013296229120147456/vid/avc1/1692x1080/B0Y32lJUGoxC0Dqs.mp4?tag=21",
+        "durationMs": 32333
+      }
+    ]
+  },
+  {
+    "id": "2014308815827517686",
+    "text": "【これ地味にすごい】 \nGoogle Stitchの複数画面生成機能\n\n→ 1つのアプリ画面をベースに \n→ レイアウト・カラーを完全統一して違う画面を自動生成\n\n例えばダッシュボードのデザインから設定画面をサクッと作れる\n\n実際の流れは動画で👇 https://t.co/9pRN8f4bRi",
+    "createdAt": "Thu Jan 22 12:07:00 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 8,
+    "likeCount": 134,
+    "conversationId": "2014308815827517686",
+    "author": {
+      "username": "AI_LowCode",
+      "name": "Kaz / AI × ローコード"
+    },
+    "authorId": "1792440825559068672",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2014155693121822722/img/HeCVZ6Sbb1LRC5HY.jpg",
+        "width": 2048,
+        "height": 982,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2014155693121822722/img/HeCVZ6Sbb1LRC5HY.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2014155693121822722/vid/avc1/1500x720/MCCRX6EOeLpSa8Wb.mp4?tag=14",
+        "durationMs": 10500
+      }
+    ]
+  },
+  {
+    "id": "2014121873232347391",
+    "text": "こんなのが２日前に出てた\n\nSolidityスマートコントラクトを視覚化および分析するための強力なVS Code拡張機能\n関数の依存関係、データ構造、データフロー、コールグラフを表示することで、複雑なDeFiプロトコルを理解するのに役立つ、インタラクティブなMiroスタイルのダイアグラムを生成\n\nhttps://t.co/wQQF8M0r1c\n#Solidity",
+    "createdAt": "Wed Jan 21 23:44:09 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 1,
+    "likeCount": 14,
+    "conversationId": "2014121873232347391",
+    "author": {
+      "username": "hiroshi_shimo",
+      "name": "Hiro Shimo (志茂 博)"
+    },
+    "authorId": "2912461368"
+  },
+  {
+    "id": "2014213644851216530",
+    "text": "Claude Codeの公式のベストプラクティスが公開されました。必要なこと全部書いてあるから、読んで。\n\nBest Practices for Claude Code\nhttps://t.co/SNVsJR7KKF",
+    "createdAt": "Thu Jan 22 05:48:49 +0000 2026",
+    "replyCount": 3,
+    "retweetCount": 172,
+    "likeCount": 1400,
+    "conversationId": "2014213644851216530",
+    "author": {
+      "username": "oikon48",
+      "name": "Oikon"
+    },
+    "authorId": "1198977449620434945"
+  },
+  {
+    "id": "2014110519913857122",
+    "text": "https://t.co/ytGkQRv5FC",
+    "createdAt": "Wed Jan 21 22:59:02 +0000 2026",
+    "replyCount": 298,
+    "retweetCount": 695,
+    "likeCount": 8735,
+    "conversationId": "2014110519913857122",
+    "author": {
+      "username": "ErnestoSOFTWARE",
+      "name": "Ernesto Lopez"
+    },
+    "authorId": "1890388644273258496"
+  },
+  {
+    "id": "2014133276072611904",
+    "text": "Claude Codeの「入力トークン」を97%削減するツール、見つけた\ngrepaiってやつ。Ollama/LM Studio/OpenAI選択式でembeddingを生成し、セマンティック検索で関連コードだけ渡す仕組み。\n\n公式ベンチマーク（Excalidraw 15.5万行 TypeScript、5問×5回実行で再現性確認）：\n\n・入力トークン: -97%\n・API課金額: -27.5%\n・ツールコール: -55%\n・キャッシュ生成: -71%\n\n※開発者自身によるベンチマーク。キャッシュ読み取りは逆に+30%のためコスト削減は27.5%に留まる\n\n削減の最大要因は「サブエージェント起動を5→0に」。Claude Codeがgrep→ファイル逐次読みで探索する代わりに、grepaiが一発で関連コードを特定。\n\nCall Graph機能（11言語対応）で呼び出し関係も追跡可。MCP Server対応でCursor/Windsurf/Gemini CLIとも連携できる。\n\n「Serena（約19k⭐）と何が違うの？」って声が聞こえそうなので比較👇",
+    "createdAt": "Thu Jan 22 00:29:28 +0000 2026",
+    "replyCount": 3,
+    "retweetCount": 67,
+    "likeCount": 787,
+    "conversationId": "2014133276072611904",
+    "author": {
+      "username": "__SatoshiSsSs__",
+      "name": "Sekioka Satoshi @ 1日1個何か作る人"
+    },
+    "authorId": "1254903020053135360",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OgxscbwAAmrhE.jpg",
+        "width": 1024,
+        "height": 572,
+        "previewUrl": "https://pbs.twimg.com/media/G_OgxscbwAAmrhE.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2013700160430248434",
+    "text": "this is how you create a premium dark website..\n​\n​pure design mastery from google https://t.co/57c2XmrscU",
+    "createdAt": "Tue Jan 20 19:48:25 +0000 2026",
+    "replyCount": 29,
+    "retweetCount": 100,
+    "likeCount": 1850,
+    "conversationId": "2013700160430248434",
+    "author": {
+      "username": "Aurelien_Gz",
+      "name": "Aurelien"
+    },
+    "authorId": "1886321636082630656",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/ext_tw_video_thumb/2013700120613629952/pu/img/uvVzhcJTb81nM0s5.jpg",
+        "width": 1272,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2013700120613629952/pu/img/uvVzhcJTb81nM0s5.jpg:small",
+        "videoUrl": "https://video.twimg.com/ext_tw_video/2013700120613629952/pu/vid/avc1/1272x720/ZgPrfi78nkmwdwiI.mp4?tag=19",
+        "durationMs": 56912
+      }
+    ]
+  },
+  {
+    "id": "2013713527110762610",
+    "text": "npx skills add stripe/ai\n\n1️⃣ stripe-best-practices: Guide for ensuring your Stripe integration is built with best practices.\n\n2️⃣ upgrade-stripe: Help your coding agent upgrade your Stripe API and SDK version.",
+    "createdAt": "Tue Jan 20 20:41:32 +0000 2026",
+    "replyCount": 9,
+    "retweetCount": 9,
+    "likeCount": 204,
+    "conversationId": "2013713527110762610",
+    "author": {
+      "username": "stevekaliski",
+      "name": "Steve Kaliski"
+    },
+    "authorId": "207708725",
+    "quotedTweet": {
+      "id": "2012345679721771474",
+      "text": "We're introducing 𝚜𝚔𝚒𝚕𝚕𝚜 – the \"npm\" of AI skills. Excited to see an open, agent-agnostic ecosystem of skills flourish.\n\nTo get started, try:\n▲  ~/ npx skills i vercel-labs/agent-skills https://t.co/2NACKW1v8r",
+      "createdAt": "Sat Jan 17 02:06:12 +0000 2026",
+      "replyCount": 226,
+      "retweetCount": 405,
+      "likeCount": 5652,
+      "conversationId": "2012345679721771474",
+      "author": {
+        "username": "rauchg",
+        "name": "Guillermo Rauch"
+      },
+      "authorId": "15540222",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-1HrnHbQAA9uES.jpg",
+          "width": 1862,
+          "height": 1254,
+          "previewUrl": "https://pbs.twimg.com/media/G-1HrnHbQAA9uES.jpg:small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2013906413844885635",
+    "text": "【結論から言います】\nClaudeの生産性は、Skillsを入れたかどうかで別物です！\nこのあと\n世界で実際に使われている「定番10個だけ」を厳選して紹介します🔥調査・執筆・開発を自動運用したい人は、まずここから。1つでも知らなければ保存推奨👇\n※人気指標：GitHub Starsベース\n① Anthropic公式 Skills（公式の教科書）\nClaude Skillsの公式リポジトリ。\nSkillの作り方・権限・設計思想が全部まとまっている。\n👉「まず何から理解すべき？」の答えがここ\nhttps://t.co/jQehikZSzT\n\n② Superpowers（万能エンジン）\n思考・設計・実行をまとめて強化する中核Skill集。\nブレスト／要件定義／実装／テストまで一気に任せられる。\n👉 最初に入れるとClaudeの“地力”が跳ねる\nhttps://t.co/HRGMCZ0IEI\n\n③ Awesome Claude Skills（世界最大の一覧）\n世界中で使われているSkillsを集めた巨大カタログ。\n「Claudeで何ができるか」を把握する用途。\n👉 アイデア枯渇防止用\nhttps://t.co/lMVcUvk5ih\n\n④ Planning-with-files（暴走防止）\nタスクを\n設計 → 分解 → 実行\nの順で必ず処理させるSkill。\n👉 複雑な仕事でClaudeが迷わなくなる\nhttps://t.co/QZrWfOi9Nm\n\n⑤ Awesome Claude Skills（実用比較用）\n③とは別視点の精選集。\n用途別・実務寄りで比較しやすい。\n👉 組み合わせを考えるときに便利\nhttps://t.co/tOuVhUTN62\n\n⑥ NotebookLM Skill（根拠付き調査）\nPDFやYouTubeを読み込ませ、\n出典リンク付きで回答を生成。\n👉 調査・論文・一次情報確認に必須\nhttps://t.co/6cLpLOIG1I\n\n⑦ Playwright Skill（画面操作を任せる）\nClaudeに\n「このページを開いて確認して」\nがそのまま通る。\nE2Eテスト／UI確認／スクレイピング対応。\n👉 開発・検証が一気に速くなる\nhttps://t.co/qqeCVh5JEp\n\n⑧ Superpowers Marketplace（管理ハブ）\nSkillsの追加・共有・管理をまとめる場所。\n👉 Skillsが増えてきたら必須\nhttps://t.co/hwGOv1iV3i\n\n⑨ iOS Simulator Skill（iOS検証）\niOSシミュレータを言語指示だけで操作。\nUI確認・動作チェックを自動化できる。\n👉 モバイル開発・QA向け\nhttps://t.co/GpCCYC5Mae\n\n⑩ X Article Publisher Skill（発信自動化）\nMarkdownを書くだけで\nX投稿の下書き・構成案を生成。\n👉 発信の手間を極限まで削減\nhttps://t.co/5qbLaaWmUq\n\nここまで入れると👇\n❌「Claudeにお願いする」\n⭕ 「Claudeに仕事を回させる」\n作業スピードがもう一段跳ねます。\n※これは本当に保存推奨です。",
+    "createdAt": "Wed Jan 21 09:28:00 +0000 2026",
+    "replyCount": 4,
+    "retweetCount": 137,
+    "likeCount": 1906,
+    "conversationId": "2013906413844885635",
+    "author": {
+      "username": "AiAircle34052",
+      "name": "Aircle｜学生AIコミュニティ"
+    },
+    "authorId": "1958822481411952640",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HlrJOXkAABkFL.jpg",
+        "width": 1200,
+        "height": 675,
+        "previewUrl": "https://pbs.twimg.com/media/G_HlrJOXkAABkFL.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2013909037218185612",
+    "text": "Today, we’re releasing Claude Code for outreach.\n\nIt does a salesperson’s work in minutes by detecting buying signals, qualifying leads, and booking demos like a human would.\n\nYou will never have to worry about booking demos… ever again: https://t.co/ikPtDZgNuJ",
+    "createdAt": "Wed Jan 21 09:38:25 +0000 2026",
+    "replyCount": 214,
+    "retweetCount": 168,
+    "likeCount": 3403,
+    "conversationId": "2013909037218185612",
+    "author": {
+      "username": "romanbuildsaas",
+      "name": "Romàn"
+    },
+    "authorId": "1893653481858433024",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2013908673446252544/img/LhtLGZq6YVf6G6Sl.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2013908673446252544/img/LhtLGZq6YVf6G6Sl.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2013908673446252544/vid/avc1/1920x1080/FVMRLAMhuH5ARDvg.mp4?tag=21",
+        "durationMs": 70766
+      }
+    ]
+  },
+  {
+    "id": "2013752422058074518",
+    "text": "Developer Week Day 2. 🛠️\n\nWe just gave your Coding Agent a Design Degree🎓🎨\n\nIntroducing the Stitch MCP Server. 🔌\n\nYou can now pipe Stitch designs directly into your favorite tools like Antigravity.\n\n* Generate new screens without leaving your IDE\n* Fetch the code from any design\n* Inject context: Give your agent full visual awareness\n\nDocs and more information 👇",
+    "createdAt": "Tue Jan 20 23:16:05 +0000 2026",
+    "replyCount": 76,
+    "retweetCount": 204,
+    "likeCount": 1698,
+    "conversationId": "2013752422058074518",
+    "author": {
+      "username": "stitchbygoogle",
+      "name": "Stitch by Google"
+    },
+    "authorId": "1620975829194018816",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2013751949313875968/img/y8G0Xlm3MsxdbVJg.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2013751949313875968/img/y8G0Xlm3MsxdbVJg.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2013751949313875968/vid/avc1/1920x1080/GTvdZtSQwUQ60QoA.mp4?tag=21",
+        "durationMs": 29266
+      }
+    ]
+  },
+  {
+    "id": "2013464401286963418",
+    "text": "このプロンプト試させてもらったんだけど、とても良い🙀✨ブランドデザイン的なイメージボードを生成してくれて、見せ方のインスピレーションやアイデアのヒントになる！\n\n試した画像貼っておきます。 https://t.co/SJOqajyarF",
+    "createdAt": "Tue Jan 20 04:11:36 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 29,
+    "likeCount": 568,
+    "conversationId": "2013464401286963418",
+    "author": {
+      "username": "mochitaro_de",
+      "name": "もち | 経営とデザイン"
+    },
+    "authorId": "962611437435670528",
+    "quotedTweet": {
+      "id": "2013268963266904438",
+      "text": "This Nano Banana prompt gives me so much inspiration  for presenting a project\nhttps://t.co/RjLyocz00Q https://t.co/6VW476G5Jg",
+      "createdAt": "Mon Jan 19 15:15:00 +0000 2026",
+      "replyCount": 24,
+      "retweetCount": 538,
+      "likeCount": 5320,
+      "conversationId": "2013268963266904438",
+      "author": {
+        "username": "Dari_Designs",
+        "name": "Daria_Surkova"
+      },
+      "authorId": "1639603151350247425",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-3QbGvX0AEEEEI.jpg",
+          "width": 1650,
+          "height": 2048,
+          "previewUrl": "https://pbs.twimg.com/media/G-3QbGvX0AEEEEI.jpg:small"
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_FDFPOWwAAxHf2.jpg",
+        "width": 1650,
+        "height": 2048,
+        "previewUrl": "https://pbs.twimg.com/media/G_FDFPOWwAAxHf2.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2013562406866428275",
+    "text": "Instead of watching a 2-hour movie, read this masterclass on Claude Code\nhttps://t.co/udHYn9MZ6N",
+    "createdAt": "Tue Jan 20 10:41:02 +0000 2026",
+    "replyCount": 32,
+    "retweetCount": 190,
+    "likeCount": 2361,
+    "conversationId": "2013562406866428275",
+    "author": {
+      "username": "hayesdev_",
+      "name": "Hayes"
+    },
+    "authorId": "1560257944893083648",
+    "quotedTweet": {
+      "id": "2010076957938188661",
+      "text": "https://t.co/i5L6UIPgH8",
+      "createdAt": "Sat Jan 10 19:51:06 +0000 2026",
+      "replyCount": 235,
+      "retweetCount": 1816,
+      "likeCount": 15652,
+      "conversationId": "2010076957938188661",
+      "author": {
+        "username": "eyad_khrais",
+        "name": "Eyad"
+      },
+      "authorId": "1923553650070495232"
+    }
+  },
+  {
+    "id": "2013572363758264734",
+    "text": "https://t.co/CgaE6LKiYg",
+    "createdAt": "Tue Jan 20 11:20:36 +0000 2026",
+    "replyCount": 4,
+    "retweetCount": 35,
+    "likeCount": 634,
+    "conversationId": "2013572363758264734",
+    "author": {
+      "username": "ceo_tommy1",
+      "name": "トミー"
+    },
+    "authorId": "1082225945405153280"
+  },
+  {
+    "id": "2013612476957372626",
+    "text": "Guys, it's happening🤩!\nAgentic UI is AVAILABLE for pre-order 👇.\n\n→ https://t.co/zMwj1PojMw https://t.co/XPRGNASZiS",
+    "createdAt": "Tue Jan 20 14:00:00 +0000 2026",
+    "replyCount": 112,
+    "retweetCount": 119,
+    "likeCount": 2068,
+    "conversationId": "2013612476957372626",
+    "author": {
+      "username": "alexgilev",
+      "name": "Alex"
+    },
+    "authorId": "1010237522843197440",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2013477441751105536/img/GyLehou3SFL5V-dZ.jpg",
+        "width": 2048,
+        "height": 1388,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2013477441751105536/img/GyLehou3SFL5V-dZ.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2013477441751105536/vid/avc1/3188x2160/2GuX9shRM3Elqfhn.mp4?tag=21",
+        "durationMs": 18940
+      }
+    ]
+  },
+  {
+    "id": "2013660091854000360",
+    "text": "https://t.co/A0TmnEzUVa is an open ecosystem for finding and sharing agent skills.\nAdd a skill to any agent with:\n\n▲ ~/ npx skills add &lt;owner/repo&gt;",
+    "createdAt": "Tue Jan 20 17:09:12 +0000 2026",
+    "replyCount": 140,
+    "retweetCount": 431,
+    "likeCount": 3272,
+    "conversationId": "2013660091854000360",
+    "author": {
+      "username": "vercel",
+      "name": "Vercel"
+    },
+    "authorId": "4686835494"
+  },
+  {
+    "id": "2013424035309515248",
+    "text": "毎日納豆を食べる納豆好き親子ですが、\nグアムの朝食で出会った「くま納豆」に感動。\n\n娘はなんと7個もペロリ。\n\n早速Amazonで注文したらレビューも良くて納得。\n冷凍保存・無添加・国産大豆。\nこんなに素晴らしい納豆に出会ってしまった https://t.co/2DVaDY8h37",
+    "createdAt": "Tue Jan 20 01:31:12 +0000 2026",
+    "replyCount": 154,
+    "retweetCount": 140,
+    "likeCount": 3560,
+    "conversationId": "2013424035309515248",
+    "author": {
+      "username": "emirio9o1",
+      "name": "愛沢えみり"
+    },
+    "authorId": "571457438",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_EefNDWQAA-MEz.jpg",
+        "width": 768,
+        "height": 1024,
+        "previewUrl": "https://pbs.twimg.com/media/G_EefNDWQAA-MEz.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_EefNFWcAAcHBB.jpg",
+        "width": 516,
+        "height": 1024,
+        "previewUrl": "https://pbs.twimg.com/media/G_EefNFWcAAcHBB.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2013418564280328448",
+    "text": "LayerX Ai Workforce事業部 FDE (Forward Deployed Engineer) 恩田 (@cipepser) が、Newbee様の取材を受けました📹️\n話題の新職種という切り口で @PassionateHachi さんに深堀りしてもらっています。\nエンジニアの新しいキャリアの形に興味のある方、ぜひご覧ください！\nhttps://t.co/Y47JARGHiQ",
+    "createdAt": "Tue Jan 20 01:09:27 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 7,
+    "likeCount": 25,
+    "conversationId": "2013418564280328448",
+    "author": {
+      "username": "LayerX_tech",
+      "name": "LayerX Tech"
+    },
+    "authorId": "1763470577451581440"
+  },
+  {
+    "id": "2013316373187829816",
+    "text": "A first look inside our new Dubai hub 🇦🇪\n\nFitted with the latest tech, we designed a space so our global talent can work hybrid when they want. Comfortable and collaborative.\n\nFind your place and shape what’s next ➡️ https://t.co/80HyBqO0vb https://t.co/orQAJB3DG1",
+    "createdAt": "Mon Jan 19 18:23:23 +0000 2026",
+    "replyCount": 9,
+    "retweetCount": 224,
+    "likeCount": 357,
+    "conversationId": "2013316373187829816",
+    "author": {
+      "username": "RevolutInsider",
+      "name": "Revolut Insider"
+    },
+    "authorId": "1200105383269949440",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/media/G_C8i--X0AA-oXs.png",
+        "width": 480,
+        "height": 270,
+        "previewUrl": "https://pbs.twimg.com/media/G_C8i--X0AA-oXs.png:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2013316279940026368/vid/avc1/1280x720/IblBDiYHgQJmWY28.mp4?tag=14",
+        "durationMs": 20020
+      }
+    ]
+  },
+  {
+    "id": "2013431342546157825",
+    "text": "https://t.co/YjEk6OUnVF",
+    "createdAt": "Tue Jan 20 02:00:14 +0000 2026",
+    "replyCount": 153,
+    "retweetCount": 137,
+    "likeCount": 826,
+    "conversationId": "2013431342546157825",
+    "author": {
+      "username": "pendle_fi",
+      "name": "Pendle"
+    },
+    "authorId": "1377493693762969600"
+  },
+  {
+    "id": "2013453434297684002",
+    "text": "Claude Codeにマーケスキル追加できるリポジトリ\n\nCRO・SEO・コピー・メール設計など22種\nLP改善の仮説から計測まで一気に出せる\n\nエンジニアがマーケ回す入口に良いかも\n\nhttps://t.co/5a8MypfNEZ",
+    "createdAt": "Tue Jan 20 03:28:01 +0000 2026",
+    "replyCount": 3,
+    "retweetCount": 45,
+    "likeCount": 601,
+    "conversationId": "2013453434297684002",
+    "author": {
+      "username": "AI_masaou",
+      "name": "まさお@AI駆動開発"
+    },
+    "authorId": "1865265023335182337"
+  },
+  {
+    "id": "2013172074874015880",
+    "text": "本当は教えたくないデザイナーが密かに使ってるリサーチ術\n\n①Google画像検索で色指定\n②Pinterestで類似デザイン探し\n③Unsplashでプロ品質の写真取得\n④Behanceでトレンドを把握\n⑤Dribbbleで細部のデザイン参考\n⑥Pexelsで高画質素材を無料入手 https://t.co/014AmoQ6T0",
+    "createdAt": "Mon Jan 19 08:50:00 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 196,
+    "likeCount": 2808,
+    "conversationId": "2013172074874015880",
+    "author": {
+      "username": "katsedi10",
+      "name": "kats@AI＆Creative"
+    },
+    "authorId": "1684568437811732483",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_fpPuW8AAiUyi.jpg",
+        "width": 1198,
+        "height": 736,
+        "previewUrl": "https://pbs.twimg.com/media/G-_fpPuW8AAiUyi.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_fpPnXAAAsFK9.jpg",
+        "width": 1266,
+        "height": 637,
+        "previewUrl": "https://pbs.twimg.com/media/G-_fpPnXAAAsFK9.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_fpPyWYAA0S22.jpg",
+        "width": 1200,
+        "height": 945,
+        "previewUrl": "https://pbs.twimg.com/media/G-_fpPyWYAA0S22.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_fpPkWIAAdFfb.jpg",
+        "width": 1194,
+        "height": 960,
+        "previewUrl": "https://pbs.twimg.com/media/G-_fpPkWIAAdFfb.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2013210075197030754",
+    "text": "10年広告デザインしてきて、厳選して今でも使ってるフォントはこれだけ。 https://t.co/dIgiXCZ4dw",
+    "createdAt": "Mon Jan 19 11:21:00 +0000 2026",
+    "replyCount": 4,
+    "retweetCount": 271,
+    "likeCount": 4770,
+    "conversationId": "2013210075197030754",
+    "author": {
+      "username": "katsedi10",
+      "name": "kats@AI＆Creative"
+    },
+    "authorId": "1684568437811732483",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_gW3_XsAATm0h.png",
+        "width": 1200,
+        "height": 675,
+        "previewUrl": "https://pbs.twimg.com/media/G-_gW3_XsAATm0h.png:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_gW2oWsAAsvgD.png",
+        "width": 1200,
+        "height": 675,
+        "previewUrl": "https://pbs.twimg.com/media/G-_gW2oWsAAsvgD.png:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_gW2xW8AAQrsn.png",
+        "width": 1600,
+        "height": 900,
+        "previewUrl": "https://pbs.twimg.com/media/G-_gW2xW8AAQrsn.png:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_gW2iWoAEDZbQ.png",
+        "width": 1600,
+        "height": 900,
+        "previewUrl": "https://pbs.twimg.com/media/G-_gW2iWoAEDZbQ.png:small"
+      }
+    ]
+  },
+  {
+    "id": "2012794406861205578",
+    "text": "よくAIにコード書かせてるって言うと「え、じゃあエンジニアいらないじゃん」とか言う人いるが、そうじゃないんだよなぁ、、\n品質とかセキュリティとか考えると、ただプロンプトだけで完結させるのは厳しい\nそうなだけに今回のSoftware Designのvibe coding特集は頷きが止まらんかった",
+    "createdAt": "Sun Jan 18 07:49:17 +0000 2026",
+    "replyCount": 3,
+    "retweetCount": 53,
+    "likeCount": 563,
+    "conversationId": "2012794406861205578",
+    "author": {
+      "username": "myuron_dev",
+      "name": "myuron"
+    },
+    "authorId": "2008028344030486529"
+  },
+  {
+    "id": "2013040960897192329",
+    "text": "動画制作作業をAIにて自動化するサービス「Vidrush」。 https://t.co/tolHD5GRZi",
+    "createdAt": "Mon Jan 19 00:09:00 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 13,
+    "likeCount": 250,
+    "conversationId": "2013040960897192329",
+    "author": {
+      "username": "tmiyatake1",
+      "name": "Tetsuro Miyatake"
+    },
+    "authorId": "1942339867",
+    "quotedTweet": {
+      "id": "2012833630196793811",
+      "text": "Today, we're introducing a working Loveable for video production.\n\nIt does a video production teams work in minutes by writing, reserching, and editing like a human would.  \n\nHiring a video production team of upwork is now optional:",
+      "createdAt": "Sun Jan 18 10:25:08 +0000 2026",
+      "replyCount": 374,
+      "retweetCount": 152,
+      "likeCount": 2256,
+      "conversationId": "2012833630196793811",
+      "author": {
+        "username": "noahmorris",
+        "name": "Noah Morris"
+      },
+      "authorId": "1000447214597132292",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2012823574617231361/img/dmkJyTNfh1qzwI5z.jpg",
+          "width": 1920,
+          "height": 1080,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2012823574617231361/img/dmkJyTNfh1qzwI5z.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2012823574617231361/vid/avc1/1920x1080/zKvRHP98vg_7Fa20.mp4?tag=21",
+          "durationMs": 115582
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2013005959061233664/img/aKPwrV_lBKLKso9W.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2013005959061233664/img/aKPwrV_lBKLKso9W.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2013005959061233664/vid/avc1/1920x1080/kJgwhEqwtc2JqrPn.mp4?tag=21",
+        "durationMs": 115626
+      }
+    ]
+  },
+  {
+    "id": "2012833630196793811",
+    "text": "Today, we're introducing a working Loveable for video production.\n\nIt does a video production teams work in minutes by writing, reserching, and editing like a human would.  \n\nHiring a video production team of upwork is now optional:",
+    "createdAt": "Sun Jan 18 10:25:08 +0000 2026",
+    "replyCount": 374,
+    "retweetCount": 152,
+    "likeCount": 2256,
+    "conversationId": "2012833630196793811",
+    "author": {
+      "username": "noahmorris",
+      "name": "Noah Morris"
+    },
+    "authorId": "1000447214597132292",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2012823574617231361/img/dmkJyTNfh1qzwI5z.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2012823574617231361/img/dmkJyTNfh1qzwI5z.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2012823574617231361/vid/avc1/1920x1080/zKvRHP98vg_7Fa20.mp4?tag=21",
+        "durationMs": 115582
+      }
+    ]
+  },
+  {
+    "id": "2013235204488360125",
+    "text": "Damn, if you want your agent to do browser testing, you have to try agent-browser. \n\nThe new version with it's updated SKILL is so fast and token efficient. \n\nWow.\n\nTell your agent this:\n\nInstall/update agent-browser and update my skill file:\n\nhttps://t.co/dX3KI4JajO\n\nhttps://t.co/ASDPfoufAv",
+    "createdAt": "Mon Jan 19 13:00:51 +0000 2026",
+    "replyCount": 64,
+    "retweetCount": 108,
+    "likeCount": 1357,
+    "conversationId": "2013235204488360125",
+    "author": {
+      "username": "ryancarson",
+      "name": "Ryan Carson"
+    },
+    "authorId": "14763"
+  },
+  {
+    "id": "2012877213801021635",
+    "text": "For everyone asking me everyday for Codex Monitor to support Claude Code, please checkout Commander from @krzyzanowskim instead. A native macOS app for driving your CC\n\nhttps://t.co/0HFxmb2Wd7",
+    "createdAt": "Sun Jan 18 13:18:19 +0000 2026",
+    "replyCount": 18,
+    "retweetCount": 19,
+    "likeCount": 361,
+    "conversationId": "2012877213801021635",
+    "author": {
+      "username": "Dimillian",
+      "name": "Thomas Ricouard"
+    },
+    "authorId": "15704456"
+  },
+  {
+    "id": "2013009552153743754",
+    "text": "「Claude Codeを開発チームに全支給した話」をガッツリ書かせていただきました。\n\n気づけば3600文字くらいになってました。\nでも、原稿用紙でいうと9枚。\n\n中身は結構濃いかと。\nhttps://t.co/Lht6qznoo2",
+    "createdAt": "Sun Jan 18 22:04:11 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 13,
+    "likeCount": 93,
+    "conversationId": "2013009552153743754",
+    "author": {
+      "username": "fadysan_rh",
+      "name": "ふぁど"
+    },
+    "authorId": "265105662"
+  },
+  {
+    "id": "2012873366412402940",
+    "text": "https://t.co/auALYk9XR1",
+    "createdAt": "Sun Jan 18 13:03:02 +0000 2026",
+    "replyCount": 54,
+    "retweetCount": 44,
+    "likeCount": 653,
+    "conversationId": "2012873366412402940",
+    "author": {
+      "username": "hieudinh_",
+      "name": "Hieu Dinh"
+    },
+    "authorId": "2808665022"
+  },
+  {
+    "id": "2013052269734834480",
+    "text": "1/23 の15時から17時、ノリでフットサルコート取ってしまったから絶対来てください。\n代々木競技場フットサルコート\n渋谷区神南2-1-1\n1時間1000円　初心者、初参加歓迎　事前申し込み不要で現地集合",
+    "createdAt": "Mon Jan 19 00:53:56 +0000 2026",
+    "replyCount": 23,
+    "retweetCount": 20,
+    "likeCount": 608,
+    "conversationId": "2013052269734834480",
+    "author": {
+      "username": "minowanowa",
+      "name": "箕輪厚介"
+    },
+    "authorId": "2903386622"
+  },
+  {
+    "id": "2012743146417885393",
+    "text": "If you’re running Claude Code with --dangerously-skip-permissions, ALWAYS use this hook to prevent file deletion:\n\nRun:\nnpx claude-code-templates@latest --hook=security/dangerous-command-blocker --yes\n\nWeb: https://t.co/C1gEI5rVQ8\n\nOnce people start understanding how to use hooks, many autonomous workflows will start unlocking! 😮",
+    "createdAt": "Sun Jan 18 04:25:35 +0000 2026",
+    "replyCount": 25,
+    "retweetCount": 43,
+    "likeCount": 627,
+    "conversationId": "2012743146417885393",
+    "author": {
+      "username": "dani_avila7",
+      "name": "Daniel San"
+    },
+    "authorId": "2967102135",
+    "quotedTweet": {
+      "id": "2012607696533340420",
+      "text": "need --dangerously-skip-permissions-except-rm",
+      "createdAt": "Sat Jan 17 19:27:21 +0000 2026",
+      "replyCount": 90,
+      "retweetCount": 30,
+      "likeCount": 1486,
+      "conversationId": "2012607696533340420",
+      "author": {
+        "username": "nickcammarata",
+        "name": "Nick"
+      },
+      "authorId": "24761783"
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6zLygWMAAzpj_.jpg",
+        "width": 1084,
+        "height": 472,
+        "previewUrl": "https://pbs.twimg.com/media/G-6zLygWMAAzpj_.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2012923988331077770",
+    "text": "https://t.co/BQz1B3SJ9s",
+    "createdAt": "Sun Jan 18 16:24:11 +0000 2026",
+    "replyCount": 4,
+    "retweetCount": 14,
+    "likeCount": 227,
+    "conversationId": "2012923988331077770",
+    "author": {
+      "username": "natiakourdadze",
+      "name": "Natia Kurdadze"
+    },
+    "authorId": "1451118635108478976"
+  },
+  {
+    "id": "2012504737208258730",
+    "text": "☠️ i audited 15 vibecoded apps and accessed 600k+ users data\n\ntoo many vulnerable apps are shipping every day\n\nso i automated my entire pentest workflow into a tool \n\nit audits your app (web + mobile) for the leaks i've been posting about\n\ni am opening access today. check your product before it ends up on a hacker forum\n\n👉 https://t.co/FDsz1A1dwW\n\n(first 50 people get 50% off with LAUNCH50)",
+    "createdAt": "Sat Jan 17 12:38:14 +0000 2026",
+    "replyCount": 30,
+    "retweetCount": 21,
+    "likeCount": 393,
+    "conversationId": "2012504737208258730",
+    "author": {
+      "username": "burakeregar",
+      "name": "Burak Eregar"
+    },
+    "authorId": "151193086",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2012500021006979072/img/fov34RJCOppU6jp6.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2012500021006979072/img/fov34RJCOppU6jp6.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2012500021006979072/vid/avc1/1920x1080/0cV7JUH474q1Pmh6.mp4?tag=21",
+        "durationMs": 39639
+      }
+    ]
+  },
+  {
+    "id": "2012653446349131953",
+    "text": "This is the best AI coding setup ever:\n\nCodex 5.2 xhigh on the left, Claude Code Opus 4.5 on the right\n\n1. Start building with Claude Code in plan mode\n2. Copy and paste every plan into Codex. Validate the plan. If they have any critical feedback, give it back to CC\n3. Any time CC messes up, go back to Codex and have it fix the issue\n4. Every change either agent makes, ask the other agent to review it\n5. Primarily use whichever agent that is the last one to clean up the other's mess\n\nNot only will you produce apps 10x faster, you'll have fun just feeling like you're managing a team of engineers\n\nTrust me, the results are worth the price you pay",
+    "createdAt": "Sat Jan 17 22:29:09 +0000 2026",
+    "replyCount": 228,
+    "retweetCount": 123,
+    "likeCount": 1750,
+    "conversationId": "2012653446349131953",
+    "author": {
+      "username": "AlexFinn",
+      "name": "Alex Finn"
+    },
+    "authorId": "1369348853414178822",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-5hevIWYAAkJKN.jpg",
+        "width": 2048,
+        "height": 1203,
+        "previewUrl": "https://pbs.twimg.com/media/G-5hevIWYAAkJKN.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2012322509400531005",
+    "text": "PSA: You can vibe code with Gemini 3 Flash and Gemini 3 Pro for free in Google AI Studio\n\nhttps://t.co/1wSsXqHUV0",
+    "createdAt": "Sat Jan 17 00:34:08 +0000 2026",
+    "replyCount": 182,
+    "retweetCount": 160,
+    "likeCount": 3083,
+    "conversationId": "2012322509400531005",
+    "author": {
+      "username": "OfficialLoganK",
+      "name": "Logan Kilpatrick"
+    },
+    "authorId": "284333988"
+  },
+  {
+    "id": "2012791818136723714",
+    "text": "AIでスマホアプリに最適なアイコン画像を簡単に作成できる「Icon AI Studio」というWebサービス開発したのでリリースします🚀\n\n新規登録で無料で5回までアイコン画像生成ができるので、アプリ開発でアイコン画像作成が毎度面倒な方にとって役に立つサービスかなと思います！\nhttps://t.co/KBohKah54f https://t.co/F7dhaq3EP2",
+    "createdAt": "Sun Jan 18 07:38:59 +0000 2026",
+    "replyCount": 8,
+    "retweetCount": 28,
+    "likeCount": 446,
+    "conversationId": "2012791818136723714",
+    "author": {
+      "username": "Shin_Engineer",
+      "name": "Shin@プログラミングチュートリアル"
+    },
+    "authorId": "1327957216117227521",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2012791727220797440/img/43XVDwhAgfzBU4V9.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2012791727220797440/img/43XVDwhAgfzBU4V9.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2012791727220797440/vid/avc1/1920x1080/SOzfbD7sRxo6EfzV.mp4?tag=21",
+        "durationMs": 18883
+      }
+    ]
+  },
+  {
+    "id": "2012792358837125155",
+    "text": "https://t.co/28YoBRoqrq",
+    "createdAt": "Sun Jan 18 07:41:08 +0000 2026",
+    "replyCount": 9,
+    "retweetCount": 156,
+    "likeCount": 2552,
+    "conversationId": "2012792358837125155",
+    "author": {
+      "username": "ceo_tommy1",
+      "name": "トミー"
+    },
+    "authorId": "1082225945405153280"
+  },
+  {
+    "id": "2012798363104657736",
+    "text": "Claude Code の基本機能とTipsについて、ハッカソン受賞者が分かりやすくまとめてくれている記事。\n\nClaude Codeの機能を全部使ってないなと思う人は読む価値ある。\n\nhttps://t.co/TYKKT2L8Ew",
+    "createdAt": "Sun Jan 18 08:05:00 +0000 2026",
+    "replyCount": 4,
+    "retweetCount": 157,
+    "likeCount": 1951,
+    "conversationId": "2012798363104657736",
+    "author": {
+      "username": "oikon48",
+      "name": "Oikon"
+    },
+    "authorId": "1198977449620434945",
+    "quotedTweet": {
+      "id": "2012378465664745795",
+      "text": "https://t.co/NscRA7sqBt",
+      "createdAt": "Sat Jan 17 04:16:29 +0000 2026",
+      "replyCount": 116,
+      "retweetCount": 786,
+      "likeCount": 7093,
+      "conversationId": "2012378465664745795",
+      "author": {
+        "username": "affaanmustafa",
+        "name": "cogsec"
+      },
+      "authorId": "1760623791380844544"
+    }
+  },
+  {
+    "id": "2012157137133412378",
+    "text": "ここマジうまいのよ…。都内の焼肉百名店行き尽くした女が言うのでホントです。命かけます。 https://t.co/WQYCi79huz",
+    "createdAt": "Fri Jan 16 13:37:00 +0000 2026",
+    "replyCount": 98,
+    "retweetCount": 1798,
+    "likeCount": 35411,
+    "conversationId": "2012157137133412378",
+    "author": {
+      "username": "_9743_o_sub",
+      "name": "🙂‍↕️🎀"
+    },
+    "authorId": "1655065720009682945",
+    "quotedTweet": {
+      "id": "2012058934211920120",
+      "text": "都内、予約取れて、1万円/人で金樹より美味い焼肉屋知らない https://t.co/WO1tYaFo3Z",
+      "createdAt": "Fri Jan 16 07:06:46 +0000 2026",
+      "replyCount": 19,
+      "retweetCount": 331,
+      "likeCount": 8387,
+      "conversationId": "2012058934211920120",
+      "author": {
+        "username": "cigincikokusita",
+        "name": "遅。"
+      },
+      "authorId": "1277231089069613057",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-xE7tea8AAfz5g.jpg",
+          "width": 2048,
+          "height": 1536,
+          "previewUrl": "https://pbs.twimg.com/media/G-xE7tea8AAfz5g.jpg:small"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-xE7tdbQAIuB4n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "previewUrl": "https://pbs.twimg.com/media/G-xE7tdbQAIuB4n.jpg:small"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-xE7tfbMAAULk3.jpg",
+          "width": 1536,
+          "height": 2048,
+          "previewUrl": "https://pbs.twimg.com/media/G-xE7tfbMAAULk3.jpg:small"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-xE7tcawAA_bJq.jpg",
+          "width": 2048,
+          "height": 1628,
+          "previewUrl": "https://pbs.twimg.com/media/G-xE7tcawAA_bJq.jpg:small"
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-yeP3tawAAjgpt.jpg",
+        "width": 1179,
+        "height": 1156,
+        "previewUrl": "https://pbs.twimg.com/media/G-yeP3tawAAjgpt.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2012386609845727437",
+    "text": "New Release: Agents API \n\nRun Blackbox CLI, Claude Code, Codex CLI, Gemini CLI and more agents on remote VMs powered by @vercel sandboxes with 1 single api implementation https://t.co/2XNRGHtAQA",
+    "createdAt": "Sat Jan 17 04:48:50 +0000 2026",
+    "replyCount": 52,
+    "retweetCount": 70,
+    "likeCount": 964,
+    "conversationId": "2012386609845727437",
+    "author": {
+      "username": "blackboxai",
+      "name": "BLACKBOX AI"
+    },
+    "authorId": "1450927152501772295",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2012384044475121664/img/n_7uelQTK7lmmxMT.jpg",
+        "width": 2048,
+        "height": 1203,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2012384044475121664/img/n_7uelQTK7lmmxMT.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2012384044475121664/vid/avc1/3676x2160/baxZ8T4VffqBWx-f.mp4?tag=21",
+        "durationMs": 300756
+      }
+    ]
+  },
+  {
+    "id": "2012467032986681472",
+    "text": "『Design Spells』という、UIのアニメーションやマイクロインタラクションの動画が集まるサイト、永遠と見ていられるのでオススメです🏖️\n\nhttps://t.co/zBw71wP0gg https://t.co/9WzdnCZq7U",
+    "createdAt": "Sat Jan 17 10:08:25 +0000 2026",
+    "replyCount": 5,
+    "retweetCount": 99,
+    "likeCount": 1054,
+    "conversationId": "2012467032986681472",
+    "author": {
+      "username": "nztm_tw",
+      "name": "野崎 智弘 / Tomohiro Nozaki"
+    },
+    "authorId": "1049283951720689665",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2012466411633811456/img/qzXjgET3MNOrAiw2.jpg",
+        "width": 2048,
+        "height": 1442,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2012466411633811456/img/qzXjgET3MNOrAiw2.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2012466411633811456/vid/avc1/3028x2132/b8kLaWFD7UEmb3om.mp4?tag=21",
+        "durationMs": 21966
+      }
+    ]
+  },
+  {
+    "id": "2012568989583466679",
+    "text": "What's the most useful MCP server you have installed?",
+    "createdAt": "Sat Jan 17 16:53:33 +0000 2026",
+    "replyCount": 413,
+    "retweetCount": 26,
+    "likeCount": 886,
+    "conversationId": "2012568989583466679",
+    "author": {
+      "username": "adamwathan",
+      "name": "Adam Wathan"
+    },
+    "authorId": "716933677"
+  },
+  {
+    "id": "2011804721825399210",
+    "text": "【Claude CodeやChatGPT向けの「スキル」が6.5万件以上集まるマーケットプレイスが登場してたのでメモシェア〜🎵これからAIエージェント時代の必須知識になりそう👀】\n\n📦 Agent Skills Marketplace（SkillsMP）とは\n\n■ 1. スキルの基本概念 🧠\n  ▸ 1.1 スキルとは何か\n    • AIに「タスクをより良く実行する方法」を教える知識パッケージ\n    • https://t.co/OldZjRgv20というマークダウン形式で標準化\n    • Claude Code、OpenAI Codex CLI、ChatGPTと互換性あり\n  ▸ 1.2 MCPとの違い\n    • スキル：知識共有（経験、ベストプラクティス）\n    • MCP：機能拡張（API、DB接続）\n    • 両者は相補的に機能\n\n■ 2. マーケットプレイスの特徴 🏪\n  ▸ 2.1 収録規模\n    • 65,635件以上のスキルを収録（2026年1月時点）\n    • GitHubのオープンソースから自動収集\n  ▸ 2.2 カテゴリ分類\n    • ツール（22,506件）、開発（19,370件）、データ&AI（12,997件）など11カテゴリ\n    • AI検索やスター数でのソート機能\n\n■ 3. 注目すべき公式スキル例 ⭐\n  ▸ 実用的なスキル\n    • frontend-design：AI臭くない本番グレードのUI作成\n    • pdf/docx/pptx：各種ドキュメント処理\n    • skill-creator：新スキル作成ガイド\n\n💡 Anthropic公式ドキュメントでも言及されており、AIエージェント開発の新標準になりつつある\n\nAgent Skills マーケットプレイス - Claude、Codex、ChatGPT Skills | SkillsMP\n　　URL: https://t.co/GCwGjP1l6F",
+    "createdAt": "Thu Jan 15 14:16:37 +0000 2026",
+    "replyCount": 4,
+    "retweetCount": 17,
+    "likeCount": 269,
+    "conversationId": "2011804721825399210",
+    "author": {
+      "username": "akira_papa_IT",
+      "name": "あきらパパ【生成AI活用エンジニア&３児のパパ】"
+    },
+    "authorId": "2363559558",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2011804659024084995/img/Amgxag5DMHDIJX35.jpg",
+        "width": 2048,
+        "height": 1236,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2011804659024084995/img/Amgxag5DMHDIJX35.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2011804659024084995/vid/avc1/2128x1284/WE8PXj3IsANUy_Kq.mp4?tag=21",
+        "durationMs": 7483
+      }
+    ]
+  },
+  {
+    "id": "2012173380099928297",
+    "text": "I built this landing page inside @Lovable in under 15 minutes.\n\nHere’s the exact workflow I used:\n• Dribbble for design inspiration\n• SnapPrompt GPT to turn screenshots into a Lovable-ready prompt\n• 21st dev for UI components\n\nThat’s it. Stop overcomplicating the process.\n\nLet me know if you’d like me to record a detailed video breaking down my landing page workflow.",
+    "createdAt": "Fri Jan 16 14:41:32 +0000 2026",
+    "replyCount": 31,
+    "retweetCount": 36,
+    "likeCount": 488,
+    "conversationId": "2012173380099928297",
+    "author": {
+      "username": "PrajwalTomar_",
+      "name": "Prajwal Tomar"
+    },
+    "authorId": "1676906284715503617",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2012173322034008065/img/oSjU2iEDKg495XZI.jpg",
+        "width": 2048,
+        "height": 1055,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2012173322034008065/img/oSjU2iEDKg495XZI.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2012173322034008065/vid/avc1/1396x720/T_JqtEU5V8hbDTzT.mp4?tag=14",
+        "durationMs": 15966
+      }
+    ]
+  },
+  {
+    "id": "2011810357942084085",
+    "text": "Rules, commands, MCP servers, subagents, modes, hooks, skills...\n\nThere's a lot of stuff! And tbh it's a little confusing.\n\nHere's what you need to know (and how we got here). https://t.co/UomcW2Y0c3",
+    "createdAt": "Thu Jan 15 14:39:01 +0000 2026",
+    "replyCount": 117,
+    "retweetCount": 351,
+    "likeCount": 3705,
+    "conversationId": "2011810357942084085",
+    "author": {
+      "username": "leerob",
+      "name": "Lee Robinson"
+    },
+    "authorId": "81712767",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/media/G-tiatsXMAIR7QO.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/media/G-tiatsXMAIR7QO.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2011805575735062528/vid/avc1/1920x1080/2fOi8-4E6RMKp9W_.mp4?tag=21",
+        "durationMs": 436033
+      }
+    ]
+  },
+  {
+    "id": "2012093605742354670",
+    "text": "長編AI動画、革命が来た。\n\nMagicLight AIが公開。最大50分のストーリー/脚本→多シーン動画を自動生成。キャラ一貫性が高く、動きも滑らか。声・字幕・リップシンクも一括。\n\nYouTube長編量産→広告収益＋メンバー/投げ銭。とかマネタイズ広がる。\n\n詳細はリプ欄で整理↓\n\n https://t.co/SIyvhnF40E",
+    "createdAt": "Fri Jan 16 09:24:33 +0000 2026",
+    "replyCount": 4,
+    "retweetCount": 51,
+    "likeCount": 481,
+    "conversationId": "2012093605742354670",
+    "author": {
+      "username": "milbon_",
+      "name": "みるぼん@スモビジ"
+    },
+    "authorId": "1306138540946780160",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2011451913523650560/img/sitX-7VVroWTKrVy.jpg",
+        "width": 2048,
+        "height": 1126,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2011451913523650560/img/sitX-7VVroWTKrVy.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2011451913523650560/vid/avc1/1308x720/f61bjefhtQ6JYdtF.mp4?tag=14",
+        "durationMs": 54752
+      }
+    ]
+  },
+  {
+    "id": "2012076657671356913",
+    "text": "最近よく見ている『aiverse』という、AIプロダクトのUXインタラクションが集まったサイト\n\nAI機能の設定画面や待機演出などの実例動画が豊富にまとまってる\n\nMobbinのAI特化版みたいな感じで、AI機能の設計にめちゃ役に立つ。デザイナーやPdMの方は必見です😎\n\n→ https://t.co/32GEpFqX9H https://t.co/CWKbUCbWMU",
+    "createdAt": "Fri Jan 16 08:17:12 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 10,
+    "likeCount": 329,
+    "conversationId": "2012076657671356913",
+    "author": {
+      "username": "nztm_tw",
+      "name": "野崎 智弘 / Tomohiro Nozaki"
+    },
+    "authorId": "1049283951720689665",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-xU_BybQAAtqKj.jpg",
+        "width": 2048,
+        "height": 1223,
+        "previewUrl": "https://pbs.twimg.com/media/G-xU_BybQAAtqKj.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2011803318709076000",
+    "text": "urgent pro tips with Claude Code :\n\n• add a https://t.co/KDM5hIxHLi rules asking AI to NEVER use `rm -rf` and instead use `trash`\n• install trash CLI `brew install trash`\n• add a Claude Code hooks to refuse any command with rm -rf https://t.co/Rza3J57zS1",
+    "createdAt": "Thu Jan 15 14:11:03 +0000 2026",
+    "replyCount": 103,
+    "retweetCount": 90,
+    "likeCount": 1747,
+    "conversationId": "2011803318709076000",
+    "author": {
+      "username": "melvynxdev",
+      "name": "Melvyn • Builder"
+    },
+    "authorId": "1439893592248659975",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-tcdQibQAMdR2c.png",
+        "width": 2048,
+        "height": 1115,
+        "previewUrl": "https://pbs.twimg.com/media/G-tcdQibQAMdR2c.png:small"
+      }
+    ]
+  },
+  {
+    "id": "2011851628979372377",
+    "text": "3 Claude Code expo skills i never vibe code without\n\n(link below) https://t.co/pujEC9z8I0",
+    "createdAt": "Thu Jan 15 17:23:01 +0000 2026",
+    "replyCount": 17,
+    "retweetCount": 24,
+    "likeCount": 500,
+    "conversationId": "2011851628979372377",
+    "author": {
+      "username": "0xPaulius",
+      "name": "Paulius 🏴‍☠️"
+    },
+    "authorId": "1437450306909052932",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-uIL37WEAAgdvK.jpg",
+        "width": 1078,
+        "height": 710,
+        "previewUrl": "https://pbs.twimg.com/media/G-uIL37WEAAgdvK.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2011913794352537875",
+    "text": "How to install and use @Expo Skills in 23 seconds",
+    "createdAt": "Thu Jan 15 21:30:02 +0000 2026",
+    "replyCount": 16,
+    "retweetCount": 44,
+    "likeCount": 658,
+    "conversationId": "2011913794352537875",
+    "author": {
+      "username": "betomoedano",
+      "name": "Beto"
+    },
+    "authorId": "900916314704928768",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2011913431558086656/img/m4-2qVnPUNaogPck.jpg",
+        "width": 2048,
+        "height": 1326,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2011913431558086656/img/m4-2qVnPUNaogPck.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2011913431558086656/vid/avc1/3336x2160/_VFX8UWVsvIOBLDe.mp4?tag=21",
+        "durationMs": 23950
+      }
+    ]
+  },
+  {
+    "id": "2011713347297919352",
+    "text": "AIエージェント並列開発支援ターミナルを開発中です！\n\nClaude CodeやCodexを並列稼働させる際の課題を解決します。\n\n✓ 稼働中 / 確認待ち を一覧で可視化\n✓ 作業完了時に自動でステータスを更新\n✓ Git連携による差分の確認 https://t.co/5U77YyvH1K",
+    "createdAt": "Thu Jan 15 08:13:32 +0000 2026",
+    "replyCount": 7,
+    "retweetCount": 22,
+    "likeCount": 362,
+    "conversationId": "2011713347297919352",
+    "author": {
+      "username": "ctgptlb",
+      "name": "AGIラボ"
+    },
+    "authorId": "1614958591269797888",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2011713164485042176/img/ItqNvhsIE4KQKD8K.jpg",
+        "width": 1246,
+        "height": 772,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2011713164485042176/img/ItqNvhsIE4KQKD8K.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2011713164485042176/vid/avc1/1246x772/hohudlRowNT0Vg1w.mp4?tag=21",
+        "durationMs": 31750
+      }
+    ]
+  },
+  {
+    "id": "2011862532320084329",
+    "text": "Try the new @Expo Claude Code skills today! 🚀\n\n→ /plugin marketplace add expo/skills\n\n/plugin install expo-app-design\n/plugin install expo-deployment\n/plugin install upgrading-expo\n\n—\nUse with any agent:\n\n~ / bunx add-skill expo/skills https://t.co/avxLtuDY1z",
+    "createdAt": "Thu Jan 15 18:06:20 +0000 2026",
+    "replyCount": 95,
+    "retweetCount": 153,
+    "likeCount": 1932,
+    "conversationId": "2011862532320084329",
+    "author": {
+      "username": "Baconbrix",
+      "name": "Evan Bacon 🥓"
+    },
+    "authorId": "1276636970",
+    "quotedTweet": {
+      "id": "2011516454978666685",
+      "text": "Three Claude Code skills / plugins I've been using for all my @Expo apps over the past few weeks.\n\nCan't imagine going back.\n\nPublishing soon 🚀 https://t.co/srzqkzU1qi",
+      "createdAt": "Wed Jan 14 19:11:09 +0000 2026",
+      "replyCount": 53,
+      "retweetCount": 32,
+      "likeCount": 1015,
+      "conversationId": "2011516454978666685",
+      "author": {
+        "username": "Baconbrix",
+        "name": "Evan Bacon 🥓"
+      },
+      "authorId": "1276636970",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-pI-2sbQAIX_JC.jpg",
+          "width": 2048,
+          "height": 1119,
+          "previewUrl": "https://pbs.twimg.com/media/G-pI-2sbQAIX_JC.jpg:small"
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-uSRS8bQAEaEFN.jpg",
+        "width": 1600,
+        "height": 900,
+        "previewUrl": "https://pbs.twimg.com/media/G-uSRS8bQAEaEFN.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2011807422139306297",
+    "text": "Stop wasting hours building custom Auth pages. 🛑\n\nI built one of the cleanest Auth Page using @shadcn UI.\n\n- Fully responsive\n- dark mode ready\n- and looks premium\n\nThe best part? It’s 100% Free.\n\nGrab the code here: https://t.co/isKyi0cPbC https://t.co/znS3XphPnH",
+    "createdAt": "Thu Jan 15 14:27:21 +0000 2026",
+    "replyCount": 39,
+    "retweetCount": 53,
+    "likeCount": 1157,
+    "conversationId": "2011807422139306297",
+    "author": {
+      "username": "shabanhr",
+      "name": "Shaban"
+    },
+    "authorId": "1823237232301379584",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2011806236409544714/img/7k-sEI1GjgQeeW2O.jpg",
+        "width": 1280,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2011806236409544714/img/7k-sEI1GjgQeeW2O.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2011806236409544714/vid/avc1/1280x720/LnxH9HVG7tU-Vx2E.mp4?tag=21",
+        "durationMs": 12980
+      }
+    ]
+  },
+  {
+    "id": "2011788622127665395",
+    "text": "🚨Claude Skills for Smart Contract Security are now here, all thanks to Trail of Bits \n\nPlugins for verifying security of audit fixes, scanning for common Critical vulnerabilities, pattern-matching and more. This will boost web3 developers and security researchers by A LOT🚀 https://t.co/u3ObSmNMrI",
+    "createdAt": "Thu Jan 15 13:12:39 +0000 2026",
+    "replyCount": 57,
+    "retweetCount": 129,
+    "likeCount": 1357,
+    "conversationId": "2011788622127665395",
+    "author": {
+      "username": "pashov",
+      "name": "pashov"
+    },
+    "authorId": "1546814146385268737",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-tOKrca8AAlcov.png",
+        "width": 738,
+        "height": 650,
+        "previewUrl": "https://pbs.twimg.com/media/G-tOKrca8AAlcov.png:small"
+      }
+    ]
+  },
+  {
+    "id": "2011850500548018610",
+    "text": "we’re opening limited beta access to Effortless Payments\n\n- one prompt RevenueCat integration\n- production ready by default\n\nreply for access + 20K credits for 20 lucky builders https://t.co/mlssUOYLxg",
+    "createdAt": "Thu Jan 15 17:18:32 +0000 2026",
+    "replyCount": 234,
+    "retweetCount": 25,
+    "likeCount": 380,
+    "conversationId": "2011850500548018610",
+    "author": {
+      "username": "anything",
+      "name": "Anything"
+    },
+    "authorId": "1489051225379143680",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2011850450547720197/img/pb-Fc-yPHDaji6pc.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2011850450547720197/img/pb-Fc-yPHDaji6pc.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2011850450547720197/vid/avc1/1280x720/sNm9xMj3MKzNqo2M.mp4?tag=14",
+        "durationMs": 3586
+      }
+    ]
+  },
+  {
+    "id": "2011802083951784115",
+    "text": "☠️ here is why your vibe coded project is not safe\n\nwhen you set db rules, you think you are safe ☣️\n\nwatch how i exploit a \"safe\" supabase db by inserting millions of rows\n\nsee the thread below to learn how to protect yours\n\n(don't just bookmark it, add them to the rules file) https://t.co/Rhi4LEFQ5H",
+    "createdAt": "Thu Jan 15 14:06:08 +0000 2026",
+    "replyCount": 60,
+    "retweetCount": 82,
+    "likeCount": 1212,
+    "conversationId": "2011802083951784115",
+    "author": {
+      "username": "burakeregar",
+      "name": "Burak Eregar"
+    },
+    "authorId": "151193086",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2011797967347290112/img/GZoyKMfJ3vkdPDNO.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2011797967347290112/img/GZoyKMfJ3vkdPDNO.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2011797967347290112/vid/avc1/1920x1080/cF797sVUVVhWWtmF.mp4?tag=21",
+        "durationMs": 69936
+      }
+    ]
+  },
+  {
+    "id": "2011749600663912881",
+    "text": "Vercelのagent-skills集\nreact-best-practicesがヤバすぎる\n\nNextがどうやって地獄と化していったのかエッセンスが詰まっているので一読をおすすめする\n\n普通の人間にはメンテできないコードを書きたければどうぞ、って感じだ\n\n同意できるもののほうが少ないｗ",
+    "createdAt": "Thu Jan 15 10:37:35 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 46,
+    "likeCount": 575,
+    "conversationId": "2011749600663912881",
+    "author": {
+      "username": "kenn",
+      "name": "Kenn Ejima"
+    },
+    "authorId": "711493",
+    "quotedTweet": {
+      "id": "2011589806250426615",
+      "text": "We just released 𝚛𝚎𝚊𝚌𝚝-𝚋𝚎𝚜𝚝-𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎𝚜, a repo for coding agents.\n\nReact performance rules and evals to catch regressions, like accidental waterfalls and growing client bundles.\n\nHow we collected them and how to install the skill ↓\nhttps://t.co/kfLSbKl15X",
+      "createdAt": "Thu Jan 15 00:02:37 +0000 2026",
+      "replyCount": 175,
+      "retweetCount": 968,
+      "likeCount": 8243,
+      "conversationId": "2011589806250426615",
+      "author": {
+        "username": "vercel",
+        "name": "Vercel"
+      },
+      "authorId": "4686835494"
+    }
+  },
+  {
+    "id": "2011400637712679147",
+    "text": "海外の「リアルなAI 動画の作り方」がめっちゃくちゃ参考になる。\n\nショート動画をバズらせたい個人開発者必見の内容。\n抑えるべきポイントは下記↓↓↓\n\n①美人/イケメンすぎないAI画像を作る\n②1回の動画音声は55〜60音節にする\n③人間っぽい微細な動きを加える（背骨の揺れ）\n④音声をより「日常」っぽく\n\n非完全さがUGCマーケの鉄則っぽい。",
+    "createdAt": "Wed Jan 14 11:30:56 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 7,
+    "likeCount": 146,
+    "conversationId": "2011400637712679147",
+    "author": {
+      "username": "L_go_mrk",
+      "name": "AI駆動塾"
+    },
+    "authorId": "1479829842",
+    "quotedTweet": {
+      "id": "2011118734270943324",
+      "text": "https://t.co/K3D0G3lhjC",
+      "createdAt": "Tue Jan 13 16:50:45 +0000 2026",
+      "replyCount": 36,
+      "retweetCount": 140,
+      "likeCount": 1810,
+      "conversationId": "2011118734270943324",
+      "author": {
+        "username": "tyler_agg",
+        "name": "Tyler"
+      },
+      "authorId": "1028788597455912961"
+    }
+  },
+  {
+    "id": "2011670270432723042",
+    "text": "ClaudeCodeにsupabaseのテーブル作らせると、高確率でRLSの設定あかんやつ出してくる。\n右の画像の方にしないとパフォーマンスめっちゃ落ちる。 https://t.co/lGgWYbOcIp",
+    "createdAt": "Thu Jan 15 05:22:22 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 10,
+    "likeCount": 221,
+    "conversationId": "2011670270432723042",
+    "author": {
+      "username": "riku720720",
+      "name": "Rikuo"
+    },
+    "authorId": "1726008617739190272",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rjM3zbQAAKPM2.jpg",
+        "width": 1270,
+        "height": 882,
+        "previewUrl": "https://pbs.twimg.com/media/G-rjM3zbQAAKPM2.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rjNcZbUAAzR2n.jpg",
+        "width": 1254,
+        "height": 700,
+        "previewUrl": "https://pbs.twimg.com/media/G-rjNcZbUAAzR2n.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2011344063325487332",
+    "text": "No more boring UI or obviously vibe coded landing pages.\n\nYour users deserve more.\n\nReact Bits Pro templates are that next level of design, detail, performance.\n\nThis is a 10% preview of what you get in our AI SaaS Landing template.\n\nMore details soon. https://t.co/d1et20G4gT",
+    "createdAt": "Wed Jan 14 07:46:08 +0000 2026",
+    "replyCount": 18,
+    "retweetCount": 6,
+    "likeCount": 169,
+    "conversationId": "2011344063325487332",
+    "author": {
+      "username": "davidhdev",
+      "name": "David Haz"
+    },
+    "authorId": "1587038338397118464",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2011343928268898306/img/IOnIkyZWfNC-JUEv.jpg",
+        "width": 1498,
+        "height": 1028,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2011343928268898306/img/IOnIkyZWfNC-JUEv.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2011343928268898306/vid/avc1/1498x1028/mOF8MZZZnwJ8Cp3o.mp4?tag=21",
+        "durationMs": 20871
+      }
+    ]
+  },
+  {
+    "id": "2011542096164036702",
+    "text": "If you're building with Claude Code, you'll want to bookmark this site.\n\nA full agent marketplace of 60,000+ Claude Skills that are ready for use now.\n\nhttps:// skillsmp. com/ https://t.co/YfZRf4w9TJ",
+    "createdAt": "Wed Jan 14 20:53:03 +0000 2026",
+    "replyCount": 113,
+    "retweetCount": 353,
+    "likeCount": 4072,
+    "conversationId": "2011542096164036702",
+    "author": {
+      "username": "milesdeutscher",
+      "name": "Miles Deutscher"
+    },
+    "authorId": "1530033576",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-pu4ETbwAA3txn.jpg",
+        "width": 2048,
+        "height": 1086,
+        "previewUrl": "https://pbs.twimg.com/media/G-pu4ETbwAA3txn.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2011425639010541938",
+    "text": "How much Instagram pays you for:\n\n1,000 followers = $1,000/month\n10,000 followers = $10,000/month\n100,000 followers = $100,000/month\n1,000,000 followers = $500,000/month\n\nI make $90k/month (&amp; AI literally does everything for me).\n\nHere’s exactly how:",
+    "createdAt": "Wed Jan 14 13:10:17 +0000 2026",
+    "replyCount": 118,
+    "retweetCount": 115,
+    "likeCount": 1313,
+    "conversationId": "2011425639010541938",
+    "author": {
+      "username": "erichustls",
+      "name": "Eric Cole"
+    },
+    "authorId": "1924478016140238848"
+  },
+  {
+    "id": "2011452505713000486",
+    "text": "Show me your best dashboard design. I'll start https://t.co/KOLrYoIf7C",
+    "createdAt": "Wed Jan 14 14:57:02 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 1,
+    "likeCount": 28,
+    "conversationId": "2011452505713000486",
+    "author": {
+      "username": "hewarsaber",
+      "name": "Hewar"
+    },
+    "authorId": "1727654155680968704",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-odZNkWoAA6M2a.jpg",
+        "width": 1922,
+        "height": 1980,
+        "previewUrl": "https://pbs.twimg.com/media/G-odZNkWoAA6M2a.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2011347835396964854",
+    "text": "Just spoke with a Dutch🇳🇱 founder who moved to Dubai🇦🇪, scaled his e-com from €3M to €16M in 12 months. He's crushing it $60k/day in ad spend rn, about to break $20M revenue.\n\nBut here's the problem: his ad payments are failing every single day.\n\nMercury has him capped at $20k daily spend. He needs $60k. So every morning, he's manually juggling payments, begging support to lift limits, watching campaigns pause mid-flight.\n\nAnd that's just the start. He's bleeding 1.5% on every dollar because he's processing US customer payments through Dutch Shopify rails. On $18M/year, that's $270,000 just evaporating into foreign transaction fees.\n\nZero US credit history. Running the whole operation on debit and cash flow. Even though he knew he needed to setup a US LLC to fix all of this, he's stuck on next steps. He chuckled when I asked if his \"registered agent\" address was 30 North Gold St, which is now getting flagged by every bank, card network, and payment provider.\n\nThis is what happens when you outgrow your infrastructure but don't know there's a better way.\n\nHere's what we're doing:\n\nFirst, we're getting him a real US residential lease through our community lawyer. Not some mail forwarding bullshit legitimate address that banks actually respect. This unlocks everything.\n\nOnce that's secured:\n\n🔥 Migrate Shopify payments from Dutch to US instantly. That 1.5% foreign transaction fee ($270k/year) disappears overnight. Just gone.\n\n🔥 Switch from Mercury to Slash banking. Mercury caps him at $20k/day. Slash? Unlimited daily spend limits, plus 2.3% cash back on his debit spending (he qualifies for the higher tier at $150k+/month volume). On $18M/year, that's $414k in cash back just for paying the same bills.\n\n🔥 For credit, we're bypassing the normal 12-month grind. He opens a Chase business account remotely through our contact, $100k deposit. This triggers conditional approval for Chase business cards with 3x points on ad spend. On $18M in ads, that's 54 million points per year. Plus it gives him much needed credit float.\n\n🔥 Long-term play: fly him to the US for a proper \"bank run\" opening accounts at Bank of America, US Bank, high-street banks that do inventory loans. Because when he's ready to scale past $30M and needs 7-figure inventory financing, those relationships are already warm. ~5% interest beats the hell out of self-funding everything.\n\nThe outcomes here are stupid big:\n\nAd spend unblocked. He can scale past $60k/day without his campaigns dying mid-flight.\n\nHundreds of thousands saved annually on FX fees that were just leaking out the bottom.\n\nImmediate access to either 2.3% cash back on debit or millions of points (54M+ with 3x multiplier on ads) for premium travel.\n\nAnd most importantly his business infrastructure is now bulletproof for the next phase. When he needs that 7-figure inventory loan or wants to sell the company, everything's already dialed in.\n\nCrazy part? He didn't even know this was possible. He thought Mercury and Dutch rails were just \"how it works\" for foreign founders.\n\nIf ur running serious volume outside the US but processing through outdated infrastructure, you're leaving Ms on the table.\n\nThis stuff compounds. Every month you wait is another month of payment failures, wasted fees, and zero credit building.",
+    "createdAt": "Wed Jan 14 08:01:07 +0000 2026",
+    "replyCount": 21,
+    "retweetCount": 25,
+    "likeCount": 423,
+    "conversationId": "2011347835396964854",
+    "author": {
+      "username": "PhantomStays",
+      "name": "Phantom Stays"
+    },
+    "authorId": "591470197"
+  },
+  {
+    "id": "2011260613864099983",
+    "text": "オープンソースの動画生成AI、次のレベルに来た。\nㅤ\n新登場の「LTX-2」がやばい：\nㅤ\n・ローカルマシンで動作\n・最大20秒の4K動画生成\n・音声付き動画も生成可能\n・完全オープンソース\nㅤ\n個人のPCで、ここまでできる時代になった。\nㅤ\n実例と使い方をまとめました👇🧵\nhttps://t.co/6vchqSuyG8",
+    "createdAt": "Wed Jan 14 02:14:32 +0000 2026",
+    "replyCount": 13,
+    "retweetCount": 257,
+    "likeCount": 2900,
+    "conversationId": "2011260613864099983",
+    "author": {
+      "username": "SuguruKun_ai",
+      "name": "すぐる | ChatGPTガチ勢 𝕏"
+    },
+    "authorId": "1634801752695533568",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2010875564295442432/img/FRSi3-3u6SMxTDCY.jpg",
+        "width": 1280,
+        "height": 682,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2010875564295442432/img/FRSi3-3u6SMxTDCY.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2010875564295442432/vid/avc1/1280x682/xQ35Gt5aA-4M2fPH.mp4?tag=21",
+        "durationMs": 47893
+      }
+    ]
+  },
+  {
+    "id": "2011185842560082103",
+    "text": "海外でバズってるポスト、\n「1日で人生を根本から立て直す方法」\nかなり長いポストだけれど、人生が変わらない人の思考パターンをここまで正確に言語化してるのが本当にすごい。読みながら、要所要所で「これ自分のことだな？」ともなる…\n\n英語のリーディングも兼ねて、ちょっくら気合い入れたい方におすすめのポストです📘↓",
+    "createdAt": "Tue Jan 13 21:17:25 +0000 2026",
+    "replyCount": 253,
+    "retweetCount": 3852,
+    "likeCount": 46784,
+    "conversationId": "2011185842560082103",
+    "author": {
+      "username": "yuki_shudo",
+      "name": "Yuki | ワーホリ4カ国目 🇬🇧"
+    },
+    "authorId": "1224921914289704961",
+    "quotedTweet": {
+      "id": "2010751592346030461",
+      "text": "https://t.co/7l7Jef99QZ",
+      "createdAt": "Mon Jan 12 16:31:52 +0000 2026",
+      "replyCount": 8262,
+      "retweetCount": 42556,
+      "likeCount": 286101,
+      "conversationId": "2010751592346030461",
+      "author": {
+        "username": "thedankoe",
+        "name": "DAN KOE"
+      },
+      "authorId": "256523056"
+    }
+  },
+  {
+    "id": "2011092347254182097",
+    "text": "Here are my CLAUDE​.md additions for making plan mode 10x better\n\nBefore: unreadably long plans\nAfter: concise, useful plans with followup questions\n\nhttps://t.co/DjR4bCZ9Gr",
+    "createdAt": "Tue Jan 13 15:05:54 +0000 2026",
+    "replyCount": 67,
+    "retweetCount": 281,
+    "likeCount": 4682,
+    "conversationId": "2011092347254182097",
+    "author": {
+      "username": "mattpocockuk",
+      "name": "Matt Pocock"
+    },
+    "authorId": "346640777",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-jVy_kWUAA4TVK.png",
+        "width": 1033,
+        "height": 489,
+        "previewUrl": "https://pbs.twimg.com/media/G-jVy_kWUAA4TVK.png:small"
+      }
+    ]
+  },
+  {
+    "id": "2010805682434666759",
+    "text": "Introducing Cowork: Claude Code for the rest of your work.\n\nCowork lets you complete non-technical tasks much like how developers use Claude Code. https://t.co/EqckycvFH3",
+    "createdAt": "Mon Jan 12 20:06:48 +0000 2026",
+    "replyCount": 2571,
+    "retweetCount": 8698,
+    "likeCount": 88020,
+    "conversationId": "2010805682434666759",
+    "author": {
+      "username": "claudeai",
+      "name": "Claude"
+    },
+    "authorId": "1943306828697550848",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/media/G-k8KoibgAAuiOj.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/media/G-k8KoibgAAuiOj.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2010792398280929280/vid/avc1/3840x2160/28TgKr7KSXuhnodl.mp4?tag=21",
+        "durationMs": 68583
+      }
+    ]
+  },
+  {
+    "id": "2010651653125607464",
+    "text": "CleanShot X is great.\n\nThe subscription isn’t.\n\nSo I built Better Shot an open-source, native macOS screenshot tool using Tauri + Rust.\n\nFast. Local. Free forever.\n\nTry it → https://t.co/dVuzrOmFL7\n\nSource code included. No bullshit. https://t.co/FcPZkCmuv6",
+    "createdAt": "Mon Jan 12 09:54:44 +0000 2026",
+    "replyCount": 170,
+    "retweetCount": 91,
+    "likeCount": 2085,
+    "conversationId": "2010651653125607464",
+    "author": {
+      "username": "code_kartik",
+      "name": "Kartik"
+    },
+    "authorId": "1639972809781673984",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2010650398026244097/img/JHNQ5FvxbEHKcAUY.jpg",
+        "width": 1560,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2010650398026244097/img/JHNQ5FvxbEHKcAUY.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2010650398026244097/vid/avc1/1040x720/wQzscdV9FME7M9Cv.mp4?tag=14",
+        "durationMs": 64733
+      }
+    ]
+  },
+  {
+    "id": "2010317691262025881",
+    "text": "歯の黄ばみを治そうと審美歯科巡り3件して歯科医に言われたことと一発で7トーン上がった確実に効果がある機械について長文①セルフホワイトニングの海外商品は危ないので辞めろ、他市販品は自分だったらやらないby歯科医②サロン系は気休めお金勿体無い③薬剤で漂白する場合は歯が確実に痛むが即効性あり④ 世界で数施設しかない医療用高出力パルス青色LED光照射器によるトランセントホワイトニングは歯光照射器で着色自体を分解し薬剤を使用しない。⑤実際にトランセントを受けたが場所によって一発で7トーン〜6トーン上がった。薬剤を使用しないため歯が痛むリスクがほぼない。5万円越えだが費用対効果や副作用のなさを考えるとアリでしかない。ミライズ矯正歯科の南青山院で施術を受けた。30分前後光を照射されてるのみかみ。",
+    "createdAt": "Sun Jan 11 11:47:42 +0000 2026",
+    "replyCount": 116,
+    "retweetCount": 1236,
+    "likeCount": 15885,
+    "conversationId": "2010317691262025881",
+    "author": {
+      "username": "lavi8mero",
+      "name": "らびめろ。"
+    },
+    "authorId": "1010685978107736064"
+  },
+  {
+    "id": "2010628070684942728",
+    "text": "開発プロジェクト/プロダクトの品質を総合的に評価するAgentSkillsを作ってみた。\n現状はどちらかというとコードそのものより、今どきのプロジェクト設定・運用が適切に行われているかの配点が多いので、それらをやっていないと辛い点がつきがち。ここらへんはまだ調整の余地がありますね。 https://t.co/a7TWSgSX6X",
+    "createdAt": "Mon Jan 12 08:21:02 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 8,
+    "likeCount": 89,
+    "conversationId": "2010628070684942728",
+    "author": {
+      "username": "emadurandal_cgj",
+      "name": "emadurandal_cgj"
+    },
+    "authorId": "1360339183387115521",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ct8ZcasAA19er.jpg",
+        "width": 698,
+        "height": 1986,
+        "previewUrl": "https://pbs.twimg.com/media/G-ct8ZcasAA19er.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2010578672970072317",
+    "text": "Cursor released a guide\n\nIt explains \"Grind\" mode for long-running agent loops and the ideal workflow\n\nLink to blog post\nhttps://t.co/uKq7USi9Mw https://t.co/g225WFhi7B",
+    "createdAt": "Mon Jan 12 05:04:45 +0000 2026",
+    "replyCount": 15,
+    "retweetCount": 44,
+    "likeCount": 450,
+    "conversationId": "2010578672970072317",
+    "author": {
+      "username": "donvito",
+      "name": "Melvin Vivas"
+    },
+    "authorId": "7974112",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-cB8GbbIAAL1n5.jpg",
+        "width": 934,
+        "height": 649,
+        "previewUrl": "https://pbs.twimg.com/media/G-cB8GbbIAAL1n5.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2010716023704723671",
+    "text": "ClaudeCodeでガンガン実装して、コミットする前にCodexの/review\nするやり方ずっとやってるけど\nずっとコードが綺麗に保たれてる。",
+    "createdAt": "Mon Jan 12 14:10:32 +0000 2026",
+    "replyCount": 7,
+    "retweetCount": 51,
+    "likeCount": 992,
+    "conversationId": "2010716023704723671",
+    "author": {
+      "username": "riku720720",
+      "name": "Rikuo"
+    },
+    "authorId": "1726008617739190272"
+  },
+  {
+    "id": "2010360374282051943",
+    "text": "here is the link to the skills, star it for updates:\n\nhttps://t.co/vX4gEc9RaN",
+    "createdAt": "Sun Jan 11 14:37:18 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 0,
+    "likeCount": 19,
+    "conversationId": "2010296175753343408",
+    "inReplyToStatusId": "2010299316544622823",
+    "author": {
+      "username": "meta_alchemist",
+      "name": "Meta Alchemist"
+    },
+    "authorId": "1531111378601316353"
+  },
+  {
+    "id": "2010293860896014339",
+    "text": "Shopifyアプリから月1.5億円もの収益を稼ぎ出す天才「Erikas」氏。1年前まで月1500万円で十分すごかったが、そこからの成長ぶりがエグい。そんな彼が0からどのように月1.5億円の収益まで成長させてきたのか徹底解剖し1万字以上の文章でまとめました。\n具体的には\n・最初の顧客を泥臭く獲得するアプローチ\n・オーガニックで継続成長させるためのセンターピン\n・高評価レビューを大量に集めるテクニックや仕組み作り\n・有料化のタイミングや価格戦略\nなど。プロダクトを伸ばす上でめちゃくちゃ参考になりまくる。\n\nhttps://t.co/MoHhkSVE4z",
+    "createdAt": "Sun Jan 11 10:13:00 +0000 2026",
+    "replyCount": 3,
+    "retweetCount": 66,
+    "likeCount": 1199,
+    "conversationId": "2010293860896014339",
+    "author": {
+      "username": "statistics1012",
+      "name": "ウマたん(上野佑馬) | AI×個人開発"
+    },
+    "authorId": "550704824"
+  },
+  {
+    "id": "2010279515382247828",
+    "text": "【Gemini 3でデザイン作る人は絶対見ろ🫵】\nhttps://t.co/ZFoxOcsrKn\n50分の解説動画で、\n「どうやったら“プロ水準のLP”を出せるのか？」まで踏み込んで解説。\n・Gemini 3で\n・UI / UXの完成度を一段引き上げる\n・Prompt設計を“再現可能な型”として体系化\n一言で言うと、\n このクオリティーのLP生成の属人性を消しに来ている講座。\n正直、\n「AIでそれっぽいLP」から\n「プロがレビュー通すレベル」へ行きたい人は\n一旦これ一本でいいです！\nUI/UX・Web制作・AI活用を本気でやってる人は保存必須です👇",
+    "createdAt": "Sun Jan 11 09:16:00 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 31,
+    "likeCount": 570,
+    "conversationId": "2010279515382247828",
+    "author": {
+      "username": "AiAircle34052",
+      "name": "Aircle｜学生AIコミュニティ"
+    },
+    "authorId": "1958822481411952640",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/1996965589991280640/img/Pcpt_kt9JSv8P-Rn.jpg",
+        "width": 2048,
+        "height": 1536,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/1996965589991280640/img/Pcpt_kt9JSv8P-Rn.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/1996965589991280640/vid/avc1/2880x2160/XJvcBOx_j0fmhtpD.mp4?tag=21",
+        "durationMs": 2997566
+      }
+    ]
+  },
+  {
+    "id": "2010327404322103631",
+    "text": "☠️your vibe coded website is not safe anymore\n\ni built a browser extension to extract api keys if the webpage using supabase \n\nit extracts the project id and api keys and scans all the vulnerabilities in my pentest tool with one click\n\nlaunching the pentest tool soon https://t.co/TvFsRCQTCb",
+    "createdAt": "Sun Jan 11 12:26:17 +0000 2026",
+    "replyCount": 221,
+    "retweetCount": 131,
+    "likeCount": 3424,
+    "conversationId": "2010327404322103631",
+    "author": {
+      "username": "burakeregar",
+      "name": "Burak Eregar"
+    },
+    "authorId": "151193086",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Ydkf6XMAEOlAE.jpg",
+        "width": 1919,
+        "height": 1213,
+        "previewUrl": "https://pbs.twimg.com/media/G-Ydkf6XMAEOlAE.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2010076957938188661",
+    "text": "https://t.co/i5L6UIPgH8",
+    "createdAt": "Sat Jan 10 19:51:06 +0000 2026",
+    "replyCount": 235,
+    "retweetCount": 1816,
+    "likeCount": 15652,
+    "conversationId": "2010076957938188661",
+    "author": {
+      "username": "eyad_khrais",
+      "name": "Eyad"
+    },
+    "authorId": "1923553650070495232"
+  },
+  {
+    "id": "2010174410703966438",
+    "text": "話題のGoogle Opal試してみた\n\n正直な感想⋯\n\n「え、これだけ？」\n\nn8n × AIエージェント使い込んでる身からすると30分でNanoBananaPro 4枚生成するマシン作れるレベル。\n\nツールの新しさより、設計力の方が大事だな\nって再確認した。反応あったら作り方の記事書くわ https://t.co/mugqMJe0z1",
+    "createdAt": "Sun Jan 11 02:18:21 +0000 2026",
+    "replyCount": 5,
+    "retweetCount": 46,
+    "likeCount": 732,
+    "conversationId": "2010174410703966438",
+    "author": {
+      "username": "Kohaku_NFT",
+      "name": "こはく"
+    },
+    "authorId": "1457100909323100160",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2010174395126267904/img/N-uMWf0hnQiKDPoK.jpg",
+        "width": 1166,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2010174395126267904/img/N-uMWf0hnQiKDPoK.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2010174395126267904/vid/avc1/1166x720/sSuHLy4ilCeoUbUY.mp4?tag=14",
+        "durationMs": 19316
+      }
+    ]
+  },
+  {
+    "id": "2010184052859666486",
+    "text": "@GTatsuya5555 アプリじゃないですよ👀\niPhoneから自宅のMacBookにアクセス→ターミナル起動→Claude Code起動という流れです\n\nこちらの記事と一緒です\nhttps://t.co/zVRGCvJOPb",
+    "createdAt": "Sun Jan 11 02:56:40 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 7,
+    "likeCount": 75,
+    "conversationId": "2009956474274152503",
+    "inReplyToStatusId": "2010179138284622249",
+    "author": {
+      "username": "sunlight3shine",
+      "name": "haru@iOSアプリ開発☀️"
+    },
+    "authorId": "1281468021786046464"
+  },
+  {
+    "id": "2010128534803788099",
+    "text": "iOS アプリ開発でも 「E2Eテスト（XCUITest）」を作成 + 「並列実行」 ができます！\n\nリリース前にバグを検知したい...という方は、AI にテストを作らせると良さそうです！ https://t.co/ylu9v9WmqS",
+    "createdAt": "Sat Jan 10 23:16:03 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 17,
+    "likeCount": 240,
+    "conversationId": "2010128534803788099",
+    "author": {
+      "username": "suna_gaku",
+      "name": "スナガク"
+    },
+    "authorId": "1689545586088009729",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2010128443221118976/img/JuSfItrMRT7jDcUE.jpg",
+        "width": 2048,
+        "height": 1241,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2010128443221118976/img/JuSfItrMRT7jDcUE.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2010128443221118976/vid/avc1/3000x1818/CCUgL8m6lhpzm3HI.mp4?tag=21",
+        "durationMs": 20050
+      }
+    ]
+  },
+  {
+    "id": "2009634263428112651",
+    "text": "Our AI avatars in Google Vids just got a major upgrade! 🚀 Now powered by Veo 3.1, avatars are more realistic with smoother lip-syncing and natural expressions. Create professional training videos in minutes—no camera required. \n\nTry it now → https://t.co/0aBTlAZADU https://t.co/aH0oi8Ejls",
+    "createdAt": "Fri Jan 09 14:32:00 +0000 2026",
+    "replyCount": 60,
+    "retweetCount": 280,
+    "likeCount": 2227,
+    "conversationId": "2009634263428112651",
+    "author": {
+      "username": "googledocs",
+      "name": "Google Docs"
+    },
+    "authorId": "488683847",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/media/G-NctY1XoAAGaMV.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/media/G-NctY1XoAAGaMV.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2009551764240920576/vid/avc1/1920x1080/Yf5MLrqu4SE-lcsO.mp4?tag=16",
+        "durationMs": 15033
+      }
+    ]
+  },
+  {
+    "id": "2009928217835253936",
+    "text": "ここだけの話、エンジニアがデザインの資料探すときにこのリポジトリあれば9割近く解決すると思う\n\nhttps://t.co/BnBGldifiW",
+    "createdAt": "Sat Jan 10 10:00:04 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 142,
+    "likeCount": 2037,
+    "conversationId": "2009928217835253936",
+    "author": {
+      "username": "koder_dev",
+      "name": "Koder@海外Tech速報"
+    },
+    "authorId": "1597421618976157698"
+  },
+  {
+    "id": "2009674780434477154",
+    "text": "ウヒョーーーーww\nClaudeのSkills使って\n①noteの記事を書く\n②記事に合わせたサムネをNanobananaProで作る\n③記事とサムネを合体させる\n完全自動化できちゃったよーーーん！！！\nこれ、、、あと１つ加えればヤバイやつや...\n40秒だけ動画見てみて👇 https://t.co/kZdp9LvJZ2",
+    "createdAt": "Fri Jan 09 17:13:00 +0000 2026",
+    "replyCount": 9,
+    "retweetCount": 5,
+    "likeCount": 223,
+    "conversationId": "2009674780434477154",
+    "author": {
+      "username": "Naoki_GPT",
+      "name": "なおき | AIと創る人"
+    },
+    "authorId": "1743061171706777600",
+    "quotedTweet": {
+      "id": "2009641814114849126",
+      "text": "Skillsすげーーーwww\nnoteの記事もかけたしNanobananaProでサムネイルも作れたわwww\nあとはこれをつないでゴニョゴニョすれば良さそうやな。完全AIで書いたnoteがどんなもんかできたら公開しようかな。 https://t.co/bQ8IRL3o31",
+      "createdAt": "Fri Jan 09 15:02:00 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 1,
+      "likeCount": 48,
+      "conversationId": "2009641814114849126",
+      "author": {
+        "username": "Naoki_GPT",
+        "name": "なおき | AIと創る人"
+      },
+      "authorId": "1743061171706777600",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-OonvvbwAAdnG5.jpg",
+          "width": 1104,
+          "height": 1283,
+          "previewUrl": "https://pbs.twimg.com/media/G-OonvvbwAAdnG5.jpg:small"
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2009643731151167488/img/vlwr3DjV1LQm8gYm.jpg",
+        "width": 1280,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2009643731151167488/img/vlwr3DjV1LQm8gYm.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2009643731151167488/vid/avc1/1280x720/10LqFtT-9anrKM0B.mp4?tag=21",
+        "durationMs": 41400
+      }
+    ]
+  },
+  {
+    "id": "2009907269102968921",
+    "text": "Anthropic engineers just leaked their internal AI workflow.\n\nTurns out, 99% of people are using LLMs completely wrong.\n\nHere are 5 techniques that separate amateurs from experts:\n\n(Comment \"Claude\" and I'll DM you my complete Claude Mastery Guide) https://t.co/wXSK2A79tb",
+    "createdAt": "Sat Jan 10 08:36:49 +0000 2026",
+    "replyCount": 385,
+    "retweetCount": 99,
+    "likeCount": 683,
+    "conversationId": "2009907269102968921",
+    "author": {
+      "username": "godofprompt",
+      "name": "God of Prompt"
+    },
+    "authorId": "1643695629665722379",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-SgAoUasAMBwt1.jpg",
+        "width": 1680,
+        "height": 1228,
+        "previewUrl": "https://pbs.twimg.com/media/G-SgAoUasAMBwt1.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2009925399791501615",
+    "text": "I collected every Claude prompt that went viral on Reddit, X, and research communities.\n\nThese turned a \"cool AI toy\" into a research weapon that does 10 hours of work in 60 seconds.\n\n13 copy-paste prompts. Zero fluff. https://t.co/1CPhGCpyXR",
+    "createdAt": "Sat Jan 10 09:48:52 +0000 2026",
+    "replyCount": 62,
+    "retweetCount": 225,
+    "likeCount": 2102,
+    "conversationId": "2009925399791501615",
+    "author": {
+      "username": "ChrisLaubAI",
+      "name": "Chris Laub"
+    },
+    "authorId": "1598365749940310019",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Swf_0aoAAubSH.jpg",
+        "width": 1280,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/media/G-Swf_0aoAAubSH.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2009760244533178872",
+    "text": "Every app I vibe code has the tech stack below\n\nEasy for beginners and free to start\n\nIf you've never built an app before, just paste this list into Claude Code and you'll be good to go:\n\nWeb framework: NextJS\nHosting: Vercel\nDatabase: Supabase\nAuth: Clerk\nPayments: Stripe\nStyling: Tailwind\nAI: logic- OpenAI, creativity- Claude, cheap tasks- Gemini Flash 3\nEmails: Resend\nAI I use to build it all: Claude Code\n\nAny questions let me know!",
+    "createdAt": "Fri Jan 09 22:52:36 +0000 2026",
+    "replyCount": 199,
+    "retweetCount": 143,
+    "likeCount": 1928,
+    "conversationId": "2009760244533178872",
+    "author": {
+      "username": "AlexFinn",
+      "name": "Alex Finn"
+    },
+    "authorId": "1369348853414178822"
+  },
+  {
+    "id": "2009655863351582936",
+    "text": "AIエージェントで人生豊かにしたいなら今のうちこれやれ。\n\n・自分の行動パターンと思考をSkillsへ\n・Skill作ったら即SDK。\n\n他にも\n・in Chromeで任せまくる\n・hooksやGitHub Actionsなどコードから制御\n・固定部分はスクリプトに置き換える\n・Claudeだけの組織を作り上げる\n\n複利が複利を呼ぶ。\n今のうちにやるかやらないかで差がつきまくる。\n1日でもSkills作るの遅れたら終わり。\n勝つ人は勝ち、負ける人は負ける。\n\n勝ちたいならやれ。",
+    "createdAt": "Fri Jan 09 15:57:50 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 14,
+    "likeCount": 198,
+    "conversationId": "2009655863351582936",
+    "author": {
+      "username": "sora19ai",
+      "name": "そら ☁️ AgentSkills 自動化オタク📱"
+    },
+    "authorId": "1412099931943235584"
+  },
+  {
+    "id": "2009591717843116048",
+    "text": "Sketchybar + Aerospace + Ghostty 環境できた。しばらくこれでいく https://t.co/w772oOaSnZ",
+    "createdAt": "Fri Jan 09 11:42:56 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 24,
+    "likeCount": 522,
+    "conversationId": "2009591717843116048",
+    "author": {
+      "username": "mizchi",
+      "name": "mizchi"
+    },
+    "authorId": "14407731",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-OA2DxbUAEz8Sm.jpg",
+        "width": 2048,
+        "height": 1330,
+        "previewUrl": "https://pbs.twimg.com/media/G-OA2DxbUAEz8Sm.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2009547402496389494",
+    "text": "100兆回言ってるんですが、Claudeは世界最強の神ツールです。\n\nGemini使ってる人増えたけど、Claudeの進化エグすぎて差がついてる。Claude極めるだけで人生変わる。マジで。\n\nClaudeの神機能、全部解説します😇 ってことで早速いきます↓",
+    "createdAt": "Fri Jan 09 08:46:50 +0000 2026",
+    "replyCount": 23,
+    "retweetCount": 170,
+    "likeCount": 2934,
+    "conversationId": "2009547402496389494",
+    "author": {
+      "username": "ADHDHSP249834",
+      "name": "まな｜AI×コンテンツビジネスの極意"
+    },
+    "authorId": "1912080237028114432"
+  },
+  {
+    "id": "2009524199346655389",
+    "text": "https://t.co/FbhlvI1owc",
+    "createdAt": "Fri Jan 09 07:14:38 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 44,
+    "likeCount": 732,
+    "conversationId": "2009524199346655389",
+    "author": {
+      "username": "AiAircle34052",
+      "name": "Aircle｜学生AIコミュニティ"
+    },
+    "authorId": "1958822481411952640"
+  },
+  {
+    "id": "2009450715081789767",
+    "text": "We just open sourced the code-simplifier agent we use on the Claude Code team.\n\nTry it: claude plugin install code-simplifier\n\nOr from within a session:\n  /plugin marketplace update claude-plugins-official\n  /plugin install code-simplifier\n\nAsk Claude to use the code simplifier agent at the end of a long coding session, or to clean up complex PRs. Let us know what you think!",
+    "createdAt": "Fri Jan 09 02:22:38 +0000 2026",
+    "replyCount": 349,
+    "retweetCount": 1107,
+    "likeCount": 12961,
+    "conversationId": "2009450715081789767",
+    "author": {
+      "username": "bcherny",
+      "name": "Boris Cherny"
+    },
+    "authorId": "159337660",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MAcDwa0AEk3gx.png",
+        "width": 576,
+        "height": 197,
+        "previewUrl": "https://pbs.twimg.com/media/G-MAcDwa0AEk3gx.png:small"
+      }
+    ]
+  },
+  {
+    "id": "2009197344223641820",
+    "text": "Claude Code Output Styles\n\nHighly recommended level up for all experience level\n\nUsing /config set your output style to one of:\n\n- Default (focused on coding, no fluff)\n- Explanatory (product thinking, concepts, debugging)\n- Learning (guides you to write code - amazing!) https://t.co/HhfAcUbyIH",
+    "createdAt": "Thu Jan 08 09:35:50 +0000 2026",
+    "replyCount": 25,
+    "retweetCount": 52,
+    "likeCount": 633,
+    "conversationId": "2009197344223641820",
+    "author": {
+      "username": "nummanali",
+      "name": "Numman Ali"
+    },
+    "authorId": "1629934761497047041",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IZZuEXMAELxy5.jpg",
+        "width": 1774,
+        "height": 1502,
+        "previewUrl": "https://pbs.twimg.com/media/G-IZZuEXMAELxy5.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2009214444409426191",
+    "text": "@NithurM @zeddotdev + @opencode 🖤",
+    "createdAt": "Thu Jan 08 10:43:47 +0000 2026",
+    "replyCount": 7,
+    "retweetCount": 1,
+    "likeCount": 37,
+    "conversationId": "2009202572809433122",
+    "inReplyToStatusId": "2009205355260334467",
+    "author": {
+      "username": "piotrkulpinski",
+      "name": "Piotr Kulpinski"
+    },
+    "authorId": "18447460"
+  },
+  {
+    "id": "2009325247762452561",
+    "text": "this github lists +50 skills to use in Claude Code: https://t.co/Ed78KH2BWz",
+    "createdAt": "Thu Jan 08 18:04:05 +0000 2026",
+    "replyCount": 34,
+    "retweetCount": 137,
+    "likeCount": 1630,
+    "conversationId": "2009325247762452561",
+    "author": {
+      "username": "EXM7777",
+      "name": "Machina"
+    },
+    "authorId": "3033730635",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-KOqfWbUAApKlm.jpg",
+        "width": 1788,
+        "height": 1748,
+        "previewUrl": "https://pbs.twimg.com/media/G-KOqfWbUAApKlm.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2009252731857621128",
+    "text": "BREAKING: AI can now build you a business in 24 hours.\n\nHere are 16 insane Grok 4 prompts to turn any idea into income in 2026: (Save for later) https://t.co/wCcmqBGCXa",
+    "createdAt": "Thu Jan 08 13:15:56 +0000 2026",
+    "replyCount": 59,
+    "retweetCount": 275,
+    "likeCount": 1618,
+    "conversationId": "2009252731857621128",
+    "author": {
+      "username": "hasantoxr",
+      "name": "Hasan Toor"
+    },
+    "authorId": "1506055005992026115",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JMtmTbAAAfRSO.jpg",
+        "width": 512,
+        "height": 384,
+        "previewUrl": "https://pbs.twimg.com/media/G-JMtmTbAAAfRSO.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2009119858949238931",
+    "text": "【発動させる方法】\n・「AskUserQuestion を使って」と明示\n・https://t.co/FFEPSns76Jに `判断を求める場合はAskUserQuestionを使うこと` を記述\n・Plan Mode（Shift+Tab×2）で曖昧なタスクを投げる\n\ntools配列を制限してる場合は \"AskUserQuestion\" を明示的に含める必要あり",
+    "createdAt": "Thu Jan 08 04:27:56 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 6,
+    "likeCount": 31,
+    "conversationId": "2009119856164323661",
+    "inReplyToStatusId": "2009119857699385438",
+    "author": {
+      "username": "Ka888aa",
+      "name": "kaya"
+    },
+    "authorId": "849109997699059712"
+  },
+  {
+    "id": "2009200865694114248",
+    "text": "Link is here: https://t.co/BXJ1holxRN",
+    "createdAt": "Thu Jan 08 09:49:50 +0000 2026",
+    "replyCount": 6,
+    "retweetCount": 9,
+    "likeCount": 144,
+    "conversationId": "2009200810870428123",
+    "inReplyToStatusId": "2009200810870428123",
+    "author": {
+      "username": "jarrodwatts",
+      "name": "Jarrod Watts"
+    },
+    "authorId": "1366011468911497216"
+  },
+  {
+    "id": "2009139688959852701",
+    "text": "I learned and used the Claude Agent SDK today to build an agent. I genuinely think this will be one of the most useful skillets to have in this new world.\n\nDocumented the TLDR here in this tutorial to get you started.",
+    "createdAt": "Thu Jan 08 05:46:44 +0000 2026",
+    "replyCount": 89,
+    "retweetCount": 379,
+    "likeCount": 5475,
+    "conversationId": "2009139688959852701",
+    "author": {
+      "username": "dabit3",
+      "name": "nader dabit"
+    },
+    "authorId": "17189394",
+    "quotedTweet": {
+      "id": "2009131298250428923",
+      "text": "https://t.co/PqGEcSahx8",
+      "createdAt": "Thu Jan 08 05:13:24 +0000 2026",
+      "replyCount": 172,
+      "retweetCount": 1080,
+      "likeCount": 8919,
+      "conversationId": "2009131298250428923",
+      "author": {
+        "username": "dabit3",
+        "name": "nader dabit"
+      },
+      "authorId": "17189394"
+    }
+  },
+  {
+    "id": "2008913022312747383",
+    "text": "Apple はついに AI 分野で本気を出してきたのでしょうか？🐰🤓❤️‍🔥\nApple は SHARP を発表しました。\nたった 1 枚の写真から、SHARP はシーンの 3D ガウス表現のパラメータを推定・回帰し、3D Gaussian Splat のシーンを直接生成できます。\n私は Gemini CLI を使って Web アプリを作り、生成された 3D シーンの中を自由に歩き回れるようにしてみました。\n\n2026.01.07",
+    "createdAt": "Wed Jan 07 14:46:02 +0000 2026",
+    "replyCount": 10,
+    "retweetCount": 101,
+    "likeCount": 749,
+    "conversationId": "2008913022312747383",
+    "author": {
+      "username": "KanaWorks_AI",
+      "name": "KANA"
+    },
+    "authorId": "3178697430",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2008911886767788032/img/KQl1v_PoRiFkRQa8.jpg",
+        "width": 1290,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2008911886767788032/img/KQl1v_PoRiFkRQa8.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2008911886767788032/vid/avc1/1290x720/FI4vRYsiWBf33d7L.mp4?tag=21",
+        "durationMs": 20410
+      }
+    ]
+  },
+  {
+    "id": "2008852865062711318",
+    "text": "AIで「非エンジニアがコーディングする」なら\n\nCursorを開く\n↓\nNext.jsで土台を作る（UIとルーティングだけ先に）\n↓\nDBはSupabase or Firebase（認証＋CRUDを最速で通す）\n↓\n要件定義をAIと一緒に固める（誰の・何の課題を・どこまで解くか）\n↓\nその要件をDeep Researchして、現実的な技術構成に落とす（代替案とリスクも出させる）\n↓\n「タスク分解プロンプト」を先に作る（仕様→チケット化の型）\n↓\nタスクに分けて、毎回“参照させながら”実装を進める（行き来してズレ修正）\n↓\n最後は自動で完走する運用へ（チェックリスト＋テスト＋デプロイまで）\n\nこの流れできると、作れるスピードが一段上がると感じてます！あくまで一意見。",
+    "createdAt": "Wed Jan 07 10:47:00 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 16,
+    "likeCount": 324,
+    "conversationId": "2008852865062711318",
+    "author": {
+      "username": "AiAircle34052",
+      "name": "Aircle｜学生AIコミュニティ"
+    },
+    "authorId": "1958822481411952640"
+  },
+  {
+    "id": "2008768035587584428",
+    "text": "@shinojapan さすがすぎる。うますぎる。そしてこれこそ有料級。\nhttps://t.co/zcMxodowxk",
+    "createdAt": "Wed Jan 07 05:09:55 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 6,
+    "likeCount": 97,
+    "conversationId": "2008768035587584428",
+    "author": {
+      "username": "Ginsaku",
+      "name": "Dice🎲 Harada /原田大作"
+    },
+    "authorId": "29473304"
+  },
+  {
+    "id": "2008644065890623835",
+    "text": "Learn about how we use the filesystem to improve context efficiency for tools, MCP servers, skills, terminals, chat history, and more.\n\nhttps://t.co/jLHccCwVnn https://t.co/QdX2JCfjyG",
+    "createdAt": "Tue Jan 06 20:57:18 +0000 2026",
+    "replyCount": 40,
+    "retweetCount": 61,
+    "likeCount": 1006,
+    "conversationId": "2008644063797387618",
+    "inReplyToStatusId": "2008644063797387618",
+    "author": {
+      "username": "cursor_ai",
+      "name": "Cursor"
+    },
+    "authorId": "1695890961094909952",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Aitv8XkAACvnX.png",
+        "width": 1200,
+        "height": 675,
+        "previewUrl": "https://pbs.twimg.com/media/G-Aitv8XkAACvnX.png:small"
+      }
+    ]
+  },
+  {
+    "id": "2008837751756705869",
+    "text": "https://t.co/JrayLee7b2",
+    "createdAt": "Wed Jan 07 09:46:57 +0000 2026",
+    "replyCount": 67,
+    "retweetCount": 89,
+    "likeCount": 1344,
+    "conversationId": "2008837751756705869",
+    "author": {
+      "username": "meta_alchemist",
+      "name": "Meta Alchemist"
+    },
+    "authorId": "1531111378601316353"
+  },
+  {
+    "id": "2008714432537653424",
+    "text": "smart calendar https://t.co/E7yLeAzkHc",
+    "createdAt": "Wed Jan 07 01:36:55 +0000 2026",
+    "replyCount": 96,
+    "retweetCount": 85,
+    "likeCount": 1510,
+    "conversationId": "2008714432537653424",
+    "author": {
+      "username": "glebich",
+      "name": "Gleb Kuznetsov"
+    },
+    "authorId": "83061620",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2008714342636888064/img/tU_pfPpK3hJhTAfc.jpg",
+        "width": 1440,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2008714342636888064/img/tU_pfPpK3hJhTAfc.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2008714342636888064/vid/avc1/1440x1080/DSxjOotOSjj3L6Ma.mp4?tag=21",
+        "durationMs": 41800
+      }
+    ]
+  },
+  {
+    "id": "2008751491960697216",
+    "text": "Figma公式のClaude Codeプラグイン\n\nこのプラグインがすごいのはFigmaのAI×デザイン領域の知見が贅沢に公開されていること\n\n例えば、既存コードとfigmaのデザインを参照してデザインシステムを生成する公式のSkillsがある https://t.co/0xOvcUuCQX",
+    "createdAt": "Wed Jan 07 04:04:11 +0000 2026",
+    "replyCount": 3,
+    "retweetCount": 52,
+    "likeCount": 647,
+    "conversationId": "2008751491960697216",
+    "author": {
+      "username": "yusaku_0426",
+      "name": "yusaku｜PM/コンサル/AI"
+    },
+    "authorId": "1500384877216026624",
+    "quotedTweet": {
+      "id": "2008739450835399014",
+      "text": "Figma公式が、Skillsが3つ入っているClaude Codeのプラグインを公開しています\n\n具体的には以下の3つのSkillsが入っています\n\n  1. figma:code-connect-components - Code Connectを使用してFigma設計コンポーネントをコード内のコンポーネントに接続\n\n  2. figma:create-design-system-rules - Figmaデザインとコードを参照してユーザーのコードベース用のカスタムデザインシステムルールを生成\n\n  3. figma:implement-design - Figmaデザインをプロダクションレディなコードへ、1:1の視覚的忠実度で変換\n\nそれぞれのSkillsにおいてどうやってFigma MCPの中のそれぞれのツールを使うべきかが書かれています\n\n▼インストールするコマンド\n\nclaude plugin install figma@claude-plugins-official",
+      "createdAt": "Wed Jan 07 03:16:20 +0000 2026",
+      "replyCount": 2,
+      "retweetCount": 24,
+      "likeCount": 288,
+      "conversationId": "2008739450835399014",
+      "author": {
+        "username": "yusuke_post",
+        "name": "Yusuke｜AI/Figma/Skills"
+      },
+      "authorId": "1892525002668539904",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-Bu-4va8AADc2-.jpg",
+          "width": 2048,
+          "height": 1170,
+          "previewUrl": "https://pbs.twimg.com/media/G-Bu-4va8AADc2-.jpg:small"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-BvPqzawAAg2xC.jpg",
+          "width": 1544,
+          "height": 594,
+          "previewUrl": "https://pbs.twimg.com/media/G-BvPqzawAAg2xC.jpg:small"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-Bvr67aMAAikXF.jpg",
+          "width": 1162,
+          "height": 478,
+          "previewUrl": "https://pbs.twimg.com/media/G-Bvr67aMAAikXF.jpg:small"
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-CE0jSbwAAUpKc.jpg",
+        "width": 1189,
+        "height": 2048,
+        "previewUrl": "https://pbs.twimg.com/media/G-CE0jSbwAAUpKc.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-CE0jPbcAQivHd.jpg",
+        "width": 1000,
+        "height": 2048,
+        "previewUrl": "https://pbs.twimg.com/media/G-CE0jPbcAQivHd.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-CE0jQawAAvNrn.jpg",
+        "width": 1189,
+        "height": 2048,
+        "previewUrl": "https://pbs.twimg.com/media/G-CE0jQawAAvNrn.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2008740932586520774",
+    "text": "SaaSとかアプリでメールを送るとき @resend 使ってるんやけど、他に選択肢あんの？ \n\n・迷惑メールに行きにくい\n・自分のサービス名のアドレスで送れる\n・送信失敗がすぐ分かる\n・開封されたか見える\n・コードから自動で送れる\n\nNext.js、Supabaseと直結で実装はほぼ数行 https://t.co/oePqFk9d8Z",
+    "createdAt": "Wed Jan 07 03:22:13 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 6,
+    "likeCount": 169,
+    "conversationId": "2008740932586520774",
+    "author": {
+      "username": "taishiyade",
+      "name": "Taishi | X自動化ハッカー"
+    },
+    "authorId": "1432599457489514498",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2008740387347914752/img/9QlrRWuDg1JuajaB.jpg",
+        "width": 2048,
+        "height": 1410,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2008740387347914752/img/9QlrRWuDg1JuajaB.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2008740387347914752/vid/avc1/2156x1484/w_jzSV63YkDWt3a7.mp4?tag=21",
+        "durationMs": 12295
+      }
+    ]
+  },
+  {
+    "id": "2008828647843783133",
+    "text": "IPOR FusionはFuseと呼ばれる部分でvaultがsmart contractと接続する仕様になっていて、権限としては上位順にowner、atomist、alphaとなっている。Fuseの例で言うと、AaveにlendできるとかUniswapで流動性提供できるとかのイメージ。ここで悪意のあるFuseが勝手に作成されると資金抜かれてしまう。",
+    "createdAt": "Wed Jan 07 09:10:46 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 1,
+    "likeCount": 7,
+    "conversationId": "2008828647843783133",
+    "author": {
+      "username": "MakiCrypto0330",
+      "name": "Makinie"
+    },
+    "authorId": "1509134450395070464",
+    "quotedTweet": {
+      "id": "2008728627190321480",
+      "text": "🚨 Security Update: IPOR USDC Fusion Optimizer on Arbitrum Vault Exploit\n\nThe IPOR team was alerted on January 6th by @hexagate_ and @blockaid_ regarding a malicious transaction. Following a swift investigation, we have identified an exploit resulting in a loss of $336K USDC.\n\nThe Details:\n• Root Cause: The exploit targeted a specific legacy Fusion vault.\n• Scope: Due to its unique configuration, this was the only vault vulnerable to this specific attack vector.\n• Impact: The loss represents less than 1% of total funds secured by Fusion.\n\nNext Steps & Recovery:\n• Recovery: We are collaborating with @_SEAL_Org and relevant security entities to track and recover the funds.\n\n• Depositor Security: The IPOR DAO will patch the shortfall from the treasury. All affected depositors will be made whole.\n\n• Safety: No other Fusion vaults are affected\n\nFind the full technical post-mortem here\nhttps://t.co/Jx7iYulZJp",
+      "createdAt": "Wed Jan 07 02:33:19 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 10,
+      "likeCount": 37,
+      "conversationId": "2008728627190321480",
+      "author": {
+        "username": "ipor_io",
+        "name": "Fusion (by IPOR)"
+      },
+      "authorId": "1361759899894611969"
+    }
+  },
+  {
+    "id": "2008381681607032931",
+    "text": "Going to make a full video on this workflow tomorrow. \n\nMake sure to sub and turn on notifications so you see it the moment it goes live!\n\nhttps://t.co/UHXcn1RPwu",
+    "createdAt": "Tue Jan 06 03:34:41 +0000 2026",
+    "replyCount": 8,
+    "retweetCount": 2,
+    "likeCount": 47,
+    "conversationId": "2008364830114329012",
+    "inReplyToStatusId": "2008364830114329012",
+    "author": {
+      "username": "AlexFinn",
+      "name": "Alex Finn"
+    },
+    "authorId": "1369348853414178822"
+  },
+  {
+    "id": "2008747553261842483",
+    "text": "Claude Code is one of the worst named products. It's not just for code.\n\nWatch this Hermès ad.\n\n30 seconds. 8 shots. Voice. Music. Even text branding burned in with ffmpeg. Clopus 4.5 wrote a script, orchestrated ElevenLabs, Google Veo 3, downloaded music and made this from scratch.",
+    "createdAt": "Wed Jan 07 03:48:32 +0000 2026",
+    "replyCount": 301,
+    "retweetCount": 314,
+    "likeCount": 5387,
+    "conversationId": "2008747553261842483",
+    "author": {
+      "username": "deedydas",
+      "name": "Deedy"
+    },
+    "authorId": "361044311",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2008747498131910657/img/yoRsET1_e7kKyeuk.jpg",
+        "width": 1280,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2008747498131910657/img/yoRsET1_e7kKyeuk.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2008747498131910657/vid/avc1/1280x720/Xu7TpevJ5NDFmJ2K.mp4?tag=14",
+        "durationMs": 30000
+      }
+    ]
+  },
+  {
+    "id": "2008286838453399960",
+    "text": "I use these 5 Claude prompts to build websites 6x faster.\n\nCopy this system:",
+    "createdAt": "Mon Jan 05 21:17:49 +0000 2026",
+    "replyCount": 9,
+    "retweetCount": 47,
+    "likeCount": 382,
+    "conversationId": "2008286838453399960",
+    "author": {
+      "username": "thetripathi58",
+      "name": "Chidanand Tripathi"
+    },
+    "authorId": "1409440115554873354"
+  },
+  {
+    "id": "2008463439363285491",
+    "text": "デモデックス（顔ダニ）が、酒さ、ニキビ、ドライアイ、慢性的な鼻づまりや喘息などの問題を引き起こしている可能性が高い\n\nこのダニはほぼ全ての人の顔にいる\n\n夜にまぶたにワセリンを塗ると、ダニを閉じ込めて交尾を防ぎ、その数を大幅に減らして症状が改善したよって報告。",
+    "createdAt": "Tue Jan 06 08:59:34 +0000 2026",
+    "replyCount": 268,
+    "retweetCount": 10605,
+    "likeCount": 85179,
+    "conversationId": "2008463439363285491",
+    "author": {
+      "username": "yasu0804",
+      "name": "ぽん🍯"
+    },
+    "authorId": "64437026",
+    "quotedTweet": {
+      "id": "2007610451736309998",
+      "text": "Out of the hundreds of papers I read last year, this one could be the most GAME-CHANGING! Demodex mites (cousins to dust mites) likely fuel issues like rosacea, acne, dry eyes, and even chronic nasal congestion. Infestation with these mites, most commonly on the face, is extremely common. But here's the the most important finding - applying plain Vaseline to your eyelids at night could be a SAFE, CHEAP and EFFECTIVE fix, trapping these critters and slashing their numbers. Doctor's, consider a 28-day Vaseline trial for your patients.  If effective, this simple hack might save billions on indefinite treatments. https://t.co/q8XZ05EZJt",
+      "createdAt": "Sun Jan 04 00:30:05 +0000 2026",
+      "replyCount": 225,
+      "retweetCount": 905,
+      "likeCount": 8045,
+      "conversationId": "2007610451736309998",
+      "author": {
+        "username": "DrPaulMason",
+        "name": "Paul Mason MD"
+      },
+      "authorId": "2212215020"
+    }
+  },
+  {
+    "id": "2008482197557104870",
+    "text": "Claude Code with infinite memory is now possible.\n\nClaude-Mem is a free plugin to persist memory across Claude sessions.\n\n- Up to 95% fewer tokens per session.\n- 20× more tool calls before context limits.\n\n100% open-source. https://t.co/oB4mCRMGBX",
+    "createdAt": "Tue Jan 06 10:14:06 +0000 2026",
+    "replyCount": 43,
+    "retweetCount": 139,
+    "likeCount": 1484,
+    "conversationId": "2008482197557104870",
+    "author": {
+      "username": "simplifyinAI",
+      "name": "Simplifying AI"
+    },
+    "authorId": "1963821944668876800",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-O1AwXAAAtu2I.jpg",
+        "width": 2048,
+        "height": 1412,
+        "previewUrl": "https://pbs.twimg.com/media/G9-O1AwXAAAtu2I.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2008488242921041928",
+    "text": "月800万稼ぐErnest Lopez氏の「アプリをバイブコーディングで開発する時のプロンプト」が参考になる。\n\nプロンプトをGemini訳：\nあなたはシニア・モバイルアプリ・デザイナー兼エンジニアです。\n\n提供された画像に示されているUIを可能な限り忠実に再現するための、Rorkに送信するプロンプトを作成してください。レイアウト、スペーシング（余白）、タイポグラフィ、カラー、コンポーネントの形状、そして全体的な視覚的階層を正確に一致させてください（これは単なる「インスピレーション（参考）」ではなく、完全な再現を目指すものです）。\n\nアプリの構築にあたっては、厳格なOOP（オブジェクト指向プログラミング）の原則に従い、UIをクリーンで再利用可能なコンポーネントに分割してください。また、カラー、フォント、スペーシング、角丸（コーナー半径）、シャドウのすべてを管理する単一のグローバルテーマファイルを使用し、コンポーネント内にスタイルを直接ハードコードしないでください。\n\nアプリは、デザインの意図を反映した適切なナビゲーション、状態管理（ステートハンドリング）、およびインタラクションを備え、完全に動作する必要があります。不足しているアセット（アイコン、画像、アバター、イラスト、背景など）がある場合は、提供されたデザインのスタイルに完璧に一致するものを自動的に生成してください。\n\nクリーンアーキテクチャ、保守性、およびパフォーマンスを優先してください。新しいUI要素を導入したり、勝手に再設計したりせず、画像を正確に踏襲してください。",
+    "createdAt": "Tue Jan 06 10:38:07 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 90,
+    "likeCount": 1599,
+    "conversationId": "2008488242921041928",
+    "author": {
+      "username": "L_go_mrk",
+      "name": "AI駆動塾"
+    },
+    "authorId": "1479829842",
+    "quotedTweet": {
+      "id": "2008282454612656382",
+      "text": "NEVER start vibe-coding an app \nwithout sending this PROMPT first: https://t.co/5m3YY20Xjx",
+      "createdAt": "Mon Jan 05 21:00:23 +0000 2026",
+      "replyCount": 72,
+      "retweetCount": 244,
+      "likeCount": 2760,
+      "conversationId": "2008282454612656382",
+      "author": {
+        "username": "ErnestoSOFTWARE",
+        "name": "Ernesto Lopez"
+      },
+      "authorId": "1890388644273258496",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G97aP61XsAEw5dB.jpg",
+          "width": 1563,
+          "height": 1563,
+          "previewUrl": "https://pbs.twimg.com/media/G97aP61XsAEw5dB.jpg:small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2008370157270303110",
+    "text": "Type of girl you meet right after you leave your $400K private equity seat for a job with \"work life balance\" https://t.co/eqHXZ4N6mk",
+    "createdAt": "Tue Jan 06 02:48:53 +0000 2026",
+    "replyCount": 205,
+    "retweetCount": 235,
+    "likeCount": 20892,
+    "conversationId": "2008370157270303110",
+    "author": {
+      "username": "BoringBiz_",
+      "name": "Boring_Business"
+    },
+    "authorId": "1652717271469506565",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98pYmwWsAAHn9u.jpg",
+        "width": 736,
+        "height": 1104,
+        "previewUrl": "https://pbs.twimg.com/media/G98pYmwWsAAHn9u.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2008345827287433586",
+    "text": "これ自分も全く同じ手法使ってたｗ\nただ、実はUIUXを参考にするならpinterestで検索するのもかなり有効。\n\n例えば「dashboard ui」とかで調べるとかなりの量のUIデザインが検索できる。さらに好きなデザインはピン（ブックマーク）もできるので、あとで見返す時にも便利。\n\nアルゴリズムが適用されるのか、何個も見てると求めてるデザイン事例が勝手にレコメンドされるんだよね。\n\nUI迷ってる人はDribbleとpinterest使えばマジで時短できると思う。",
+    "createdAt": "Tue Jan 06 01:12:13 +0000 2026",
+    "replyCount": 3,
+    "retweetCount": 36,
+    "likeCount": 874,
+    "conversationId": "2008345827287433586",
+    "author": {
+      "username": "0x__tom",
+      "name": "Tom | ドバイで生成AIやってる人"
+    },
+    "authorId": "1544355048460652544",
+    "quotedTweet": {
+      "id": "2008327805419884868",
+      "text": "UI、毎回ゼロから考えてる人はマジで時間を溶かしてる。Dribbbleのを見れば、eコマース、マッチング、SaaSダッシュボード系の画面が一気に出てくる。「この画面構成パクろう」が一瞬で決まる。\nアプリ以外のUI(Web/管理画面/LP)にも普通に使える。作業前に1分だけ眺めるだけで、UIの迷いが減る👇🧵 https://t.co/z11Wv1ckfw",
+      "createdAt": "Tue Jan 06 00:00:36 +0000 2026",
+      "replyCount": 3,
+      "retweetCount": 74,
+      "likeCount": 980,
+      "conversationId": "2008327805419884868",
+      "author": {
+        "username": "sora19ai",
+        "name": "そら ☁️ AgentSkills 自動化オタク📱"
+      },
+      "authorId": "1412099931943235584",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2008327771949260800/img/q6tuK11KsX0BO8bF.jpg",
+          "width": 1224,
+          "height": 720,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2008327771949260800/img/q6tuK11KsX0BO8bF.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2008327771949260800/vid/avc1/1224x720/a2jZHvkag_-Qfvdi.mp4?tag=14",
+          "durationMs": 10430
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98TKU6bQAAsGex.jpg",
+        "width": 1938,
+        "height": 1170,
+        "previewUrl": "https://pbs.twimg.com/media/G98TKU6bQAAsGex.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2008380585857650788",
+    "text": "年商数億の起業家は、iPhoneで開発している\n\nあのピーター・レベルズが、iPhoneからClaude Codeに音声で指示して本番コードを書き換えてる\n\n@WisprFlow + @TermiusHQ \n\nすでに、半分くらい時間はこの方法で作成しているらしい\nhttps://t.co/i9ppZWKnMP",
+    "createdAt": "Tue Jan 06 03:30:20 +0000 2026",
+    "replyCount": 12,
+    "retweetCount": 81,
+    "likeCount": 892,
+    "conversationId": "2008380585857650788",
+    "author": {
+      "username": "_nogu66",
+      "name": "nogu"
+    },
+    "authorId": "1136800010174001152",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2008316881560649729/img/RMWwwzRi-jpgOQ58.jpg",
+        "width": 576,
+        "height": 1250,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2008316881560649729/img/RMWwwzRi-jpgOQ58.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2008316881560649729/vid/avc1/576x1250/RSq1jU2p_W0PlUQw.mp4?tag=21",
+        "durationMs": 57310
+      }
+    ]
+  },
+  {
+    "id": "2008395853611102712",
+    "text": "【海外で大バズ】\n Claude Code に「無限メモリ」を“後付け”する方法が話題😳\n\n名前は Claude-Mem\nClaude Codeの最大の欠点だった「前回の文脈が消える問題」これを真正面から潰しに来た。\n\n正直、今までのClaude Code👇\n\n・セッション切れる\n・設計の前提が飛ぶ\n・調査結果をまた説明\n・「さっきの続きなんだけど…」地獄\nこれ、\n 人間がメモリやってただけ。めんどくせええってなった経験みなさんもないですか？\nClaude-Memは\nその役割をシステム側が勝手にしてくれるようにしたやつ。\n\n【何をしてるOSSかというと】\nただログを保存するだけじゃない。\nClaudeの👇\n・ツール利用\n・観察結果\n・設計判断\n・試行錯誤\nこれらを\n 自動で記録 → 圧縮 → 必要な分だけ再注入\nつまり\n👉 “記憶を再説明せずに続きから思考させる”\n\n【ここが海外で評価されてる理由】\nClaude-Memは\n❌ 全部をコンテキストに突っ込まない\n\n代わりに👇\n① 検索\n② タイムライン整理\n③ 必要なIDだけ取得\nこの3段階注入。\n\n完全に\n トークン効率を取りに行く設計で、\n「無限メモリの現実解」って言われてる。\n\n【しかも現実的】\n\n・ローカル保存（SQLite）\n・<private>タグで機密は保存除外\n・クラウド送信なし\n＝\n仕事でも個人開発でも使える\n\nしかも導入方法めっちゃ簡単マジで一瞬！\n\n【結論】\nClaude-Memは\n「AIに記憶を与えるOSS」じゃない。\n人間が毎回やってた\n“文脈の再説明”を消しに来たツール。\nClaude Codeを\n本気で使ってる人ほど\n 衝撃でかい。\n【GitHub】\n https://t.co/CPws61IWJW\n\n保存推奨。\nこれ、あとから効いてくる。",
+    "createdAt": "Tue Jan 06 04:31:00 +0000 2026",
+    "replyCount": 3,
+    "retweetCount": 149,
+    "likeCount": 1788,
+    "conversationId": "2008395853611102712",
+    "author": {
+      "username": "AiAircle34052",
+      "name": "Aircle｜学生AIコミュニティ"
+    },
+    "authorId": "1958822481411952640",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98J5yzbcAEcsrX.jpg",
+        "width": 2048,
+        "height": 1153,
+        "previewUrl": "https://pbs.twimg.com/media/G98J5yzbcAEcsrX.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98J6Q6bAAARqKI.jpg",
+        "width": 2048,
+        "height": 1153,
+        "previewUrl": "https://pbs.twimg.com/media/G98J6Q6bAAARqKI.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98J6txawAAr53s.jpg",
+        "width": 2048,
+        "height": 1153,
+        "previewUrl": "https://pbs.twimg.com/media/G98J6txawAAr53s.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98J7sjbcAM8jIS.jpg",
+        "width": 2048,
+        "height": 1152,
+        "previewUrl": "https://pbs.twimg.com/media/G98J7sjbcAM8jIS.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2008348924373868694",
+    "text": "個人アプリ開発の難所は「技術」じゃなくなった。\n\nRork 1.5（@rork_app）で一気に解決しにきてるのは\n・RevenueCatで収益化\n・Firebase不要の分析\n・Opus 4.5 × Claude CodeのAI実装\n・成功の知見を共有するコミュニティ\n\n作る→出す→伸ばす、までが1本の線で繋がった\nhttps://t.co/GdgZU0a3M2",
+    "createdAt": "Tue Jan 06 01:24:31 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 9,
+    "likeCount": 287,
+    "conversationId": "2008348924373868694",
+    "author": {
+      "username": "taziku_co",
+      "name": "田中義弘 | taziku CEO / AI × Creative"
+    },
+    "authorId": "35437139",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2008285224418037760/img/OLqj8NHXRx-ozP9X.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2008285224418037760/img/OLqj8NHXRx-ozP9X.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2008285224418037760/vid/avc1/1280x720/IzqMBiYV3NThuFRt.mp4?tag=14",
+        "durationMs": 177010
+      }
+    ]
+  },
+  {
+    "id": "2008327805419884868",
+    "text": "UI、毎回ゼロから考えてる人はマジで時間を溶かしてる。Dribbbleのを見れば、eコマース、マッチング、SaaSダッシュボード系の画面が一気に出てくる。「この画面構成パクろう」が一瞬で決まる。\nアプリ以外のUI(Web/管理画面/LP)にも普通に使える。作業前に1分だけ眺めるだけで、UIの迷いが減る👇🧵 https://t.co/z11Wv1ckfw",
+    "createdAt": "Tue Jan 06 00:00:36 +0000 2026",
+    "replyCount": 3,
+    "retweetCount": 74,
+    "likeCount": 980,
+    "conversationId": "2008327805419884868",
+    "author": {
+      "username": "sora19ai",
+      "name": "そら ☁️ AgentSkills 自動化オタク📱"
+    },
+    "authorId": "1412099931943235584",
+    "quotedTweet": {
+      "id": "2007834242441794040",
+      "text": "DuolingoのようなUIを作りたい人は全員Riveを使うといい。あの中毒性はキャラじゃなくて、UIの動きをちゃんと“状態”で設計しているから生まれている。\n\nコーディングでやると、LottieやCSSでアニメを足していってぐちゃぐちゃになるし難しすぎるけど、\n\nRiveはアプリ側から最小限の状態だけ渡して、\nどう動くかはState Machine側に全部まとめられる。\nロジックはアプリ、アニメーションはRive、\nで完全に役割分担できるのが強い。\n\nアプリのどんな部分に組み込むかはシンプルで、\n\nまずは、ボタン、チェックマーク、エラー表示、プログレス、ローディングだけRiveに任せる。\n\n押した瞬間に少し沈む、成功で気持ちよく弾む、失敗で軽く揺れる、このあたりが揃うと一気にDuolingo寄りの質感になる。\n\nUIがチープに見える原因が「デザイン」じゃなく「モーション設計」にあると思う。\n\nDuolingo級の手触りを個人開発で狙うなら、Riveを軸にUIを組むのがいちばんコスパいい。\n\nリプ欄にRiveの参考になる記事を貼っておく👇🧵",
+      "createdAt": "Sun Jan 04 15:19:21 +0000 2026",
+      "replyCount": 3,
+      "retweetCount": 122,
+      "likeCount": 1790,
+      "conversationId": "2007834242441794040",
+      "author": {
+        "username": "sora19ai",
+        "name": "そら ☁️ AgentSkills 自動化オタク📱"
+      },
+      "authorId": "1412099931943235584",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2007834180533841921/img/elzk1AbwUxREVyaa.jpg",
+          "width": 945,
+          "height": 2048,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2007834180533841921/img/elzk1AbwUxREVyaa.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2007834180533841921/vid/avc1/1290x2796/mXbII_a9LmyFf4vX.mp4?tag=21",
+          "durationMs": 1935
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2008327771949260800/img/q6tuK11KsX0BO8bF.jpg",
+        "width": 1224,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2008327771949260800/img/q6tuK11KsX0BO8bF.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2008327771949260800/vid/avc1/1224x720/a2jZHvkag_-Qfvdi.mp4?tag=14",
+        "durationMs": 10430
+      }
+    ]
+  },
+  {
+    "id": "2008215170099916936",
+    "text": "You’re sitting on a goldmine of ideas.\n\nOpen Reddit.\nLook at 1-star reviews.\nBrowse founder complaints.\nNotice what frustrates you.\n\nThat’s your next MVP.\n\nFind a pain point.\nBuild the leanest solution.\nPut it out there.",
+    "createdAt": "Mon Jan 05 16:33:02 +0000 2026",
+    "replyCount": 31,
+    "retweetCount": 42,
+    "likeCount": 419,
+    "conversationId": "2008215170099916936",
+    "author": {
+      "username": "PrajwalTomar_",
+      "name": "Prajwal Tomar"
+    },
+    "authorId": "1676906284715503617"
+  },
+  {
+    "id": "2008005304420856101",
+    "text": "【速報】\n Anthropic が「Claude Code」をゼロから学べる\n 完全無料コースを公開しました。\n・実務ベースの全15レッスン\n・修了証あり\n・MCPを使った高度な開発フローまで網羅\n単なるチュートリアルではなく、\n「AIと一緒に高速でコードを書くためのコーディング法」がそのまま学べます。\n\nAIを使って\n・開発速度を一段引き上げたい人\n・Claude Codeを本気で使いこなしたい人\nは、今チェックすべき内容です。\n👇 詳細はツリーで解説します",
+    "createdAt": "Mon Jan 05 02:39:06 +0000 2026",
+    "replyCount": 10,
+    "retweetCount": 378,
+    "likeCount": 3871,
+    "conversationId": "2008005304420856101",
+    "author": {
+      "username": "AiAircle34052",
+      "name": "Aircle｜学生AIコミュニティ"
+    },
+    "authorId": "1958822481411952640",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G93d3tzbcAIBkAh.png",
+        "width": 900,
+        "height": 506,
+        "previewUrl": "https://pbs.twimg.com/media/G93d3tzbcAIBkAh.png:small"
+      }
+    ]
+  },
+  {
+    "id": "2008072879372403118",
+    "text": "【超速報🚨】Google Geminiが「Guided Learning」という新機能をリリース！！\n\nこれ使えば、ステップバイステップで、家庭教師のようになんでも学べる。\n好奇心のある人は、世の中の学校やスクールはもういらないレベル。\n\n激ヤバすぎて、今日触りまくって知的生産しまくる\nリプ欄に詳細をまとめる👇🧵 https://t.co/rFXCBlGfAC",
+    "createdAt": "Mon Jan 05 07:07:37 +0000 2026",
+    "replyCount": 11,
+    "retweetCount": 203,
+    "likeCount": 2246,
+    "conversationId": "2008072879372403118",
+    "author": {
+      "username": "sora19ai",
+      "name": "そら ☁️ AgentSkills 自動化オタク📱"
+    },
+    "authorId": "1412099931943235584",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94boA8XUAAFPx1.jpg",
+        "width": 1710,
+        "height": 1156,
+        "previewUrl": "https://pbs.twimg.com/media/G94boA8XUAAFPx1.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2007791982861836591",
+    "text": "I DON'T UNDERSTAND WHY PEOPLE ARE STILL COPYING OUTDATED SIDE HUSTLES FROM 2024.\n\nChatGPT can surface real demand and help you build offers people are already buying.\n\nUse these prompts to build a $8K/month income stream:",
+    "createdAt": "Sun Jan 04 12:31:26 +0000 2026",
+    "replyCount": 18,
+    "retweetCount": 73,
+    "likeCount": 1237,
+    "conversationId": "2007791982861836591",
+    "author": {
+      "username": "LearnWithBishal",
+      "name": "Bishal Nandi"
+    },
+    "authorId": "2866799804"
+  },
+  {
+    "id": "2007778101108093186",
+    "text": "【もうそれはグラデーションメッシュですねん】\nイラレでつくる複雑なグラデを「グラデーションメッシュ」と呼びます。3枚目は、さらにノイズ加工まで！アドビストックで素材を探すなら「mesh gradient」の検索がオススメです。深みのある表現がナイスで、一気にイマっぽくなりまっシュ😆グッナイ🌙 https://t.co/YoXlwwQAQq",
+    "createdAt": "Sun Jan 04 11:36:16 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 172,
+    "likeCount": 2354,
+    "conversationId": "2007778101108093186",
+    "author": {
+      "username": "suzusho1115",
+      "name": "スズショー｜デザイン"
+    },
+    "authorId": "773734993814228992",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90Mab1bUAAg8G1.jpg",
+        "width": 2048,
+        "height": 894,
+        "previewUrl": "https://pbs.twimg.com/media/G90Mab1bUAAg8G1.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90McMWbYAAFil1.jpg",
+        "width": 2048,
+        "height": 894,
+        "previewUrl": "https://pbs.twimg.com/media/G90McMWbYAAFil1.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90MdbtbQAAzfEr.jpg",
+        "width": 2048,
+        "height": 894,
+        "previewUrl": "https://pbs.twimg.com/media/G90MdbtbQAAzfEr.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90MeQOakAE7AsA.jpg",
+        "width": 2048,
+        "height": 894,
+        "previewUrl": "https://pbs.twimg.com/media/G90MeQOakAE7AsA.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2008086196631515140",
+    "text": "アプリ開発のUI凝りたい人は全員これを見るべき。「Rive公式のマーケットプレイス」が凄い。ここが一番“ちゃんとした”テンプレ置き場。UI系だけに絞れたりして、「ui」タグのページからボタンやローディング、カードUIみたいなパーツをそのままダウンロードできる。リプに🔗、これは後で見返しておこう👇🧵",
+    "createdAt": "Mon Jan 05 08:00:32 +0000 2026",
+    "replyCount": 5,
+    "retweetCount": 105,
+    "likeCount": 1754,
+    "conversationId": "2008086196631515140",
+    "author": {
+      "username": "sora19ai",
+      "name": "そら ☁️ AgentSkills 自動化オタク📱"
+    },
+    "authorId": "1412099931943235584",
+    "quotedTweet": {
+      "id": "2007834242441794040",
+      "text": "DuolingoのようなUIを作りたい人は全員Riveを使うといい。あの中毒性はキャラじゃなくて、UIの動きをちゃんと“状態”で設計しているから生まれている。\n\nコーディングでやると、LottieやCSSでアニメを足していってぐちゃぐちゃになるし難しすぎるけど、\n\nRiveはアプリ側から最小限の状態だけ渡して、\nどう動くかはState Machine側に全部まとめられる。\nロジックはアプリ、アニメーションはRive、\nで完全に役割分担できるのが強い。\n\nアプリのどんな部分に組み込むかはシンプルで、\n\nまずは、ボタン、チェックマーク、エラー表示、プログレス、ローディングだけRiveに任せる。\n\n押した瞬間に少し沈む、成功で気持ちよく弾む、失敗で軽く揺れる、このあたりが揃うと一気にDuolingo寄りの質感になる。\n\nUIがチープに見える原因が「デザイン」じゃなく「モーション設計」にあると思う。\n\nDuolingo級の手触りを個人開発で狙うなら、Riveを軸にUIを組むのがいちばんコスパいい。\n\nリプ欄にRiveの参考になる記事を貼っておく👇🧵",
+      "createdAt": "Sun Jan 04 15:19:21 +0000 2026",
+      "replyCount": 3,
+      "retweetCount": 122,
+      "likeCount": 1790,
+      "conversationId": "2007834242441794040",
+      "author": {
+        "username": "sora19ai",
+        "name": "そら ☁️ AgentSkills 自動化オタク📱"
+      },
+      "authorId": "1412099931943235584",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2007834180533841921/img/elzk1AbwUxREVyaa.jpg",
+          "width": 945,
+          "height": 2048,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2007834180533841921/img/elzk1AbwUxREVyaa.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2007834180533841921/vid/avc1/1290x2796/mXbII_a9LmyFf4vX.mp4?tag=21",
+          "durationMs": 1935
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2008086176549195776/img/AS9C3ntrGUJyrJJ3.jpg",
+        "width": 1256,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2008086176549195776/img/AS9C3ntrGUJyrJJ3.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2008086176549195776/vid/avc1/1256x720/ip_rvL9UV8mi7WOf.mp4?tag=14",
+        "durationMs": 14516
+      }
+    ]
+  },
+  {
+    "id": "2007958427990200614",
+    "text": "Claude Opus 4.5 is insane!\n\nIn less than 60 seconds I built an APP that can easily make $30k/mo \n\nWithout writing a single line of code \nUsing the @rork_app \n\nHeres how: https://t.co/sPeroiBrua",
+    "createdAt": "Sun Jan 04 23:32:49 +0000 2026",
+    "replyCount": 36,
+    "retweetCount": 119,
+    "likeCount": 1052,
+    "conversationId": "2007958427990200614",
+    "author": {
+      "username": "ErnestoSOFTWARE",
+      "name": "Ernesto Lopez"
+    },
+    "authorId": "1890388644273258496",
+    "quotedTweet": {
+      "id": "2007233046290792727",
+      "text": "Simone is right, vibecoding is an addiction. \n\nLast week I built 10 apps \nEach with 1-2 prompts  \n\n→ Found 10 viral slideshow formats \n→ Found apps in same niche as formats \n→ Sent to ChatGPT “give me a prompt”\n→ Sent GPTs prompt to Rork\n\nNow I have 10 replicas of apps making $20-100k/mo in each niche.\n\nReady to launch on the AppStore. \nAnd print money with proven formats.\n\nBut I’m not going to.\n\nI already have 10 apps in the AppStore \nAnd I’m making $68,000/mo \n\nBut someone definitely should. \nBuilding apps is like drop shipping 2016",
+      "createdAt": "Fri Jan 02 23:30:25 +0000 2026",
+      "replyCount": 72,
+      "retweetCount": 91,
+      "likeCount": 1474,
+      "conversationId": "2007233046290792727",
+      "author": {
+        "username": "ErnestoSOFTWARE",
+        "name": "Ernesto Lopez"
+      },
+      "authorId": "1890388644273258496",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2007232804346593280/img/J32yAHte2rcO2cgn.jpg",
+          "width": 2048,
+          "height": 1365,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2007232804346593280/img/J32yAHte2rcO2cgn.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2007232804346593280/vid/avc1/3240x2160/K1xCdo4qHEeS0iiX.mp4?tag=21",
+          "durationMs": 54100
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2007958231444828160/img/FUI3aZ3nVnS1uWjI.jpg",
+        "width": 2048,
+        "height": 2048,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2007958231444828160/img/FUI3aZ3nVnS1uWjI.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2007958231444828160/vid/avc1/1080x1080/BQbLXmZaJVpkzl1t.mp4?tag=21",
+        "durationMs": 63800
+      }
+    ]
+  },
+  {
+    "id": "2007702125191852270",
+    "text": "https://t.co/uwsqoADeyg",
+    "createdAt": "Sun Jan 04 06:34:22 +0000 2026",
+    "replyCount": 30,
+    "retweetCount": 132,
+    "likeCount": 1569,
+    "conversationId": "2007702125191852270",
+    "author": {
+      "username": "maddiedreese",
+      "name": "Maddie D. Reese (in SF 1/12-2/13)"
+    },
+    "authorId": "1312272721"
+  },
+  {
+    "id": "2007373253229326354",
+    "text": "just shipped https://t.co/daeXInr0vk \n\n- 100+ claude code sub-agent prompts\n- mcp server integrations\n- video tutorials for beginners\n\nall open source. all free. https://t.co/DGL3TyeWSp",
+    "createdAt": "Sat Jan 03 08:47:33 +0000 2026",
+    "replyCount": 83,
+    "retweetCount": 183,
+    "likeCount": 2149,
+    "conversationId": "2007373253229326354",
+    "author": {
+      "username": "shydev69",
+      "name": "shydev"
+    },
+    "authorId": "1654347044503408640",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ufA1uaYAAZZvp.jpg",
+        "width": 1798,
+        "height": 1580,
+        "previewUrl": "https://pbs.twimg.com/media/G9ufA1uaYAAZZvp.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2007171412927418493",
+    "text": "Vibe coding is fast.\nIt’s also insecure as hell by default. \n\nHere’s a practical guide on what to check before you ship.\n\n⚠️ CRITICAL STUFF:\n\n☑️ Set proper security rules on your database\n\nMost vibe coding tools recommend Supabase, but when you build with AI, it tends to leave the database completely open. This creates serious risk for data breaches and makes it easy for hackers to gain admin rights.\n\nData breaches can cause massive headaches and legal problems. Supabase does have an AI assistant you can talk to, but you still won’t be sure whether you’ve done things right.\n\nI highly recommend getting a developer you trust to check your database settings and attempt to breach it after you think everything is secure. Chances are you’ll still find gaps.\n\n☑️ Make sure you have a backend\n\nAI tends to build things that should live on the backend directly in the client, making everything exposed and insecure.\n\nIf you don’t create an architecture md file after your PRD, you’re more likely to end up with a weak architecture that leaves your product unusable for public use.\n\nThis happened to me quite a few times. Simple websites like landing pages don’t necessarily need a backend, but everything else does.\n\n☑️ Add rate limiting to your backend and APIs\n\nWithout rate limiting, your backend and APIs are vulnerable to attacks. Certain APIs getting hammered can also cost you serious money, depleting your credit card if you have billing connected to third-party tools.\n\nMake sure you rate limit every API to humanly normal numbers.\n\n☑️ Scan for vulnerabilities\n\nVulnerabilities of all kinds are the biggest problem in vibe coding right now. AI codes fast but doesn’t prioritize common security practices.\n\nUsing vulnerability scanners is the best way to catch issues beyond the ones I mentioned above. SAST scanners won’t find the database or architecture problems, but they will catch many other vulnerabilities.\n\nI built a vulnerability scanner specifically for vibe coders that analyzes your repo and generates a master fix prompt. It’s completely free: scanner [.] vibeship [.] co \n\n☑️ Get external audits for smart contracts\n\nIf you’re using smart contracts, I highly recommend external audits. Auditors can find logic errors that are very hard for SAST scanners to detect.\n\nSAST scanners will still catch many smart contract issues, just not all of them. Don’t rely on vulnerability scanners as your only safeguard when dealing with blockchain.\n\n---\n\nI went through a hack a couple months ago that rocked everything I built. I know what it feels like, and I wouldn’t wish it on anyone.\n\nShip fast, but ship secure.",
+    "createdAt": "Fri Jan 02 19:25:30 +0000 2026",
+    "replyCount": 40,
+    "retweetCount": 31,
+    "likeCount": 458,
+    "conversationId": "2007171412927418493",
+    "author": {
+      "username": "meta_alchemist",
+      "name": "Meta Alchemist"
+    },
+    "authorId": "1531111378601316353"
+  },
+  {
+    "id": "2006703373643559115",
+    "text": "Left my job. Left my family. Living on savings.\n\n12 months ago I had nothing.\n\nToday I have a $15,000/month SaaS 🥹\n\nAll you need to change your life is 1 year. https://t.co/2nKh14J85N",
+    "createdAt": "Thu Jan 01 12:25:41 +0000 2026",
+    "replyCount": 221,
+    "retweetCount": 55,
+    "likeCount": 1656,
+    "conversationId": "2006703373643559115",
+    "author": {
+      "username": "robj3d3",
+      "name": "Rob Hallam"
+    },
+    "authorId": "1178367350552305665",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2006701552321572870/img/FUp-eENhkHEOOc0M.jpg",
+        "width": 2048,
+        "height": 1152,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2006701552321572870/img/FUp-eENhkHEOOc0M.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2006701552321572870/vid/avc1/3840x2160/wb3ETz3GUmsXg9T-.mp4?tag=21",
+        "durationMs": 78158
+      }
+    ]
+  },
+  {
+    "id": "2006788979329483233",
+    "text": "cool project i found this morning, mapcn\n\na map component that drops into your shadcn/ui design system https://t.co/5gAZc7bi3s https://t.co/2tkUSpj6uk",
+    "createdAt": "Thu Jan 01 18:05:51 +0000 2026",
+    "replyCount": 112,
+    "retweetCount": 468,
+    "likeCount": 7798,
+    "conversationId": "2006788979329483233",
+    "author": {
+      "username": "RhysSullivan",
+      "name": "Rhys"
+    },
+    "authorId": "10667972",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9mLzpWWYAAofCe.jpg",
+        "width": 2048,
+        "height": 1459,
+        "previewUrl": "https://pbs.twimg.com/media/G9mLzpWWYAAofCe.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2007058317169017304",
+    "text": "Founders: 2026 Landing Page Checklist:\n\nHero Section:\n- 1 clear promise (what changes for them)\n- 1 specific audience (who it's for)\n- 1 CTA with exact action (no \"Learn More\")\n- Product visual (show, don't tell)\n- Trust badge above fold\n\nCopy Strategy:\n- Headline under 10 words\n- Benefit-driven, not feature-driven\n- Customer language, not jargon\n- One core transformation, multiple proof points\n- Scannable in 5 seconds\n\nSocial Proof:\n- Logos if you have names\n- Metrics if you have traction\n- Specific testimonials with results\n- No generic praise\n\nStructure:\n- Hero → Pain → Solution → Proof → CTA\n- Max 3 feature sections\n- FAQ handles top 5 objections\n- CTA repeated 2-3 times\n\nTechnical:\n- Under 3 second load time\n- Mobile-first design\n- No localStorage/sessionStorage\n- Single scroll flow\n\nRemember: Clarity > Creativity. Outcomes > Features. Speed > Polish.\n\nIf it doesn't convert in 2026, it's not your traffic - it's your page.",
+    "createdAt": "Fri Jan 02 11:56:06 +0000 2026",
+    "replyCount": 42,
+    "retweetCount": 45,
+    "likeCount": 547,
+    "conversationId": "2007058317169017304",
+    "author": {
+      "username": "namyakhann",
+      "name": "Namya @ Supafast"
+    },
+    "authorId": "1060211667215118341"
+  },
+  {
+    "id": "2006827353276821835",
+    "text": "My SaaS just hit 2.4M users in 6 months!\n\nHeres how👇 https://t.co/TFtavyBiNl",
+    "createdAt": "Thu Jan 01 20:38:20 +0000 2026",
+    "replyCount": 35,
+    "retweetCount": 6,
+    "likeCount": 159,
+    "conversationId": "2006827353276821835",
+    "author": {
+      "username": "qasimbizs",
+      "name": "Qasim"
+    },
+    "authorId": "1936123069388800002",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2006827233155952640/img/9iKQB1iQQpZdll7r.jpg",
+        "width": 1916,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2006827233155952640/img/9iKQB1iQQpZdll7r.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2006827233155952640/vid/avc1/1916x1080/Kz0c7st2tPp0m1Gz.mp4?tag=21",
+        "durationMs": 560233
+      }
+    ]
+  },
+  {
+    "id": "2007133877794673086",
+    "text": "I designed this on @sleekdotdesign with this prompt:\n\n\"Mobile UI, Storybook Crayon aesthetic. Warm earthy palette (forest green, mustard yellow, brick red, cream). Crayon texture strokes, wobbly hand-drawn borders, paper texture background. Cute illustrated characters as family avatars. Rounded childlike typography, gold star stickers for completed tasks.\n\nChore chart app. Family members as adorable crayon-drawn avatars. Tasks have wiggly checkbox doodles. Reward points shown as shiny star illustrations. Weekly progress as colorful scribbled bar chart. Warm, nostalgic, arts-and-crafts energy.\"",
+    "createdAt": "Fri Jan 02 16:56:21 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 7,
+    "likeCount": 154,
+    "conversationId": "2007133873881108960",
+    "inReplyToStatusId": "2007133873881108960",
+    "author": {
+      "username": "mattiapomelli",
+      "name": "Mattia"
+    },
+    "authorId": "1099717499057328128"
+  },
+  {
+    "id": "2006881161067507983",
+    "text": "@dimakuncik Yep - here is the full skill https://t.co/hGJBpDFfwg",
+    "createdAt": "Fri Jan 02 00:12:09 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 2,
+    "likeCount": 67,
+    "conversationId": "2006880530860748845",
+    "inReplyToStatusId": "2006880707134820722",
+    "author": {
+      "username": "jarrodwatts",
+      "name": "Jarrod Watts"
+    },
+    "authorId": "1366011468911497216"
+  },
+  {
+    "id": "2007054493557649802",
+    "text": "btw you can learn how to design website like these at https://t.co/G6ShCIMT3Z https://t.co/vjapMOMxwg",
+    "createdAt": "Fri Jan 02 11:40:55 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 1,
+    "likeCount": 11,
+    "conversationId": "2007053980896272521",
+    "inReplyToStatusId": "2007053980896272521",
+    "author": {
+      "username": "viktoroddy",
+      "name": "Viktor Oddy"
+    },
+    "authorId": "893369654768529408",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2007054389354045441/img/V8_D6MRyI-NFRTh5.jpg",
+        "width": 1808,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2007054389354045441/img/V8_D6MRyI-NFRTh5.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2007054389354045441/vid/avc1/1808x1080/UjSsYEJGp4T1HIff.mp4?tag=21",
+        "durationMs": 28233
+      }
+    ]
+  },
+  {
+    "id": "2006868000125886709",
+    "text": "モバイルアプリでも AI に動作確認させられる！\n「PlaywrightMCP の モバイルアプリ版」 の mobile-mcp が便利だったので、シェアしたいです！\n\nこれを使えば、AI 自身が シュミレーターを操作して、動作確認してくれるので、人の手間が省けます！\n\n利用時の注意点は、 「エラー発生時に AI が気づかず、同じ作業を繰り返すことがある」 ことです。\n(動画で起きている事象)\n\nそのため、\n- 定期的に人が挙動を確認する\n- 「○回操作しても変化なければエラー判定する」と指示する\nなどの対策をしておくと良さそうです！\n\nSwift はまだ AI が不完全なコードを出力しがちなので、「バグってるかも」前提で指示するのが大事かなと思います。",
+    "createdAt": "Thu Jan 01 23:19:51 +0000 2026",
+    "replyCount": 2,
+    "retweetCount": 25,
+    "likeCount": 271,
+    "conversationId": "2006868000125886709",
+    "author": {
+      "username": "suna_gaku",
+      "name": "スナガク"
+    },
+    "authorId": "1689545586088009729",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2006867942726840325/img/JyhkhuJV5k9TZsYZ.jpg",
+        "width": 2048,
+        "height": 1241,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2006867942726840325/img/JyhkhuJV5k9TZsYZ.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2006867942726840325/vid/avc1/3000x1818/MxO0sBn2b9VQ1-ai.mp4?tag=21",
+        "durationMs": 139636
+      }
+    ]
+  },
+  {
+    "id": "2007026968924213342",
+    "text": "Here are some animated mockup tools for designers to speed up design presentation 10X faster \n\nBookmark it for later 💜 https://t.co/0NpSLWXCjd",
+    "createdAt": "Fri Jan 02 09:51:32 +0000 2026",
+    "replyCount": 12,
+    "retweetCount": 55,
+    "likeCount": 527,
+    "conversationId": "2007026968924213342",
+    "author": {
+      "username": "Abmankendrick",
+      "name": "Abraham John 🦄🦓"
+    },
+    "authorId": "1490615775421423617",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9pjPAVXkAAswuI.jpg",
+        "width": 1639,
+        "height": 2048,
+        "previewUrl": "https://pbs.twimg.com/media/G9pjPAVXkAAswuI.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2006716269819474410",
+    "text": "this library is such a treasure. it has +700 beautiful shadcn blocks and it’s one of the few that covers almost everything you need. tons of them free to copy-paste.\n\nkudos to the team at @ShadcnStudio https://t.co/Z0DqCLwr7l",
+    "createdAt": "Thu Jan 01 13:16:56 +0000 2026",
+    "replyCount": 5,
+    "retweetCount": 54,
+    "likeCount": 677,
+    "conversationId": "2006716269819474410",
+    "author": {
+      "username": "alibey_10",
+      "name": "Ali Bey"
+    },
+    "authorId": "4121585361",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2006713837035073536/img/E7viiB6uwCkobNJn.jpg",
+        "width": 1280,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2006713837035073536/img/E7viiB6uwCkobNJn.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2006713837035073536/vid/avc1/1280x720/pMdibxJRmKL2yyba.mp4?tag=21",
+        "durationMs": 45846
+      }
+    ]
+  },
+  {
+    "id": "2006306070852219173",
+    "text": "𝗜 𝗯𝘂𝗶𝗹𝘁 𝗮𝗻 𝗔𝗜 𝗲𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗶𝗻 𝟭𝟬 𝗺𝗶𝗻𝘂𝘁𝗲𝘀.\n\n𝗡𝗼 𝗰𝗼𝗱𝗲. 𝗡𝗼 𝗔𝗣𝗜𝘀. 𝗡𝗼 𝘁𝗲𝗰𝗵 𝘀𝗸𝗶𝗹𝗹𝘀.\n\n𝗬𝗼𝘂'𝗿𝗲 𝗼𝘃𝗲𝗿𝗰𝗼𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗻𝗴 𝗔𝗜 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻.\n\n𝗖𝗹𝗮𝘂𝗱𝗲 𝗦𝗸𝗶𝗹𝗹𝘀 𝗺𝗮𝗸𝗲𝘀 𝗶𝘁 𝘀𝘁𝘂𝗽𝗶𝗱 𝘀𝗶𝗺𝗽𝗹𝗲.\n\nOld way: Build Zapier workflows for months.\n\nNew way:\n1: Describe what you want in plain English \n2: Claude creates a skill file automatically \n3: It saves to your settings \n4: Call it back anytime with one sentence \n5: Stack skills together like a team\n\nThe skill file is just a text document.\n\nIf you can write a Google Doc, you can do this.\n\nSave this post, you'll automate your whole business.\n\nWant the SOP? DM me. 💬",
+    "createdAt": "Wed Dec 31 10:06:57 +0000 2025",
+    "replyCount": 10,
+    "retweetCount": 47,
+    "likeCount": 334,
+    "conversationId": "2006306070852219173",
+    "author": {
+      "username": "JulianGoldieSEO",
+      "name": "Julian Goldie SEO"
+    },
+    "authorId": "1405031034",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2006305284134981632/img/eelsz5UkTNT4YXlp.jpg",
+        "width": 1280,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2006305284134981632/img/eelsz5UkTNT4YXlp.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2006305284134981632/vid/avc1/1280x720/bOc4zH37rysg1Gki.mp4?tag=21",
+        "durationMs": 880338
+      }
+    ]
+  },
+  {
+    "id": "2006589101215216088",
+    "text": "Finotive – Modern Finance Dashboard https://t.co/pLv8tJ2dUb",
+    "createdAt": "Thu Jan 01 04:51:37 +0000 2026",
+    "replyCount": 53,
+    "retweetCount": 6,
+    "likeCount": 206,
+    "conversationId": "2006589101215216088",
+    "author": {
+      "username": "sujon_co",
+      "name": "Sujon Hossain"
+    },
+    "authorId": "1347692105058013186",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9jWGoYacAAnJGb.jpg",
+        "width": 2048,
+        "height": 1536,
+        "previewUrl": "https://pbs.twimg.com/media/G9jWGoYacAAnJGb.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2006651445974806849",
+    "text": "Check out @screensdesign_ for the onboarding and paywall screenshots!\n\nAnd our free books for more ASO strategies:\nhttps://t.co/JBsDFuY2aE",
+    "createdAt": "Thu Jan 01 08:59:21 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 4,
+    "conversationId": "2006651434121703682",
+    "inReplyToStatusId": "2006651434121703682",
+    "author": {
+      "username": "matteo_spada",
+      "name": "Matteo Spada"
+    },
+    "authorId": "229857480"
+  },
+  {
+    "id": "2006649949228765620",
+    "text": "Here are go-to sites for design inspirations in 2026\n\nHappy new year 💥\n\nBookmark it for later 💜\n\nWeb Design → https://t.co/kTYSjpMB8g\nMobile Design→ https://t.co/YxsQM2IoaD\nDesign Systems → https://t.co/9kAEoD5FUf\nSaaS Landing Page → https://t.co/MsoiXI7Z2k\nMobile Animation → https://t.co/N4N9EUHc5B\nBrands → https://t.co/wTIpDJhsvr\nIcons → https://t.co/jyvS1VDVsI\nFonts → https://t.co/XihyWMWdVP",
+    "createdAt": "Thu Jan 01 08:53:24 +0000 2026",
+    "replyCount": 31,
+    "retweetCount": 169,
+    "likeCount": 1133,
+    "conversationId": "2006649949228765620",
+    "author": {
+      "username": "Abmankendrick",
+      "name": "Abraham John 🦄🦓"
+    },
+    "authorId": "1490615775421423617",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2006649893461368833/img/olSSOkbY_MYNCR0Y.jpg",
+        "width": 720,
+        "height": 788,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2006649893461368833/img/olSSOkbY_MYNCR0Y.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2006649893461368833/vid/avc1/720x788/MyebQXMP5xmFzOyd.mp4?tag=21",
+        "durationMs": 12533
+      }
+    ]
+  },
+  {
+    "id": "2006395949598568755",
+    "text": "Working on this little energy dashboard today.\nTried to make everything super simple - a clean chart, clear numbers, and a quick way to save energy. https://t.co/xtq6B7rEfN",
+    "createdAt": "Wed Dec 31 16:04:06 +0000 2025",
+    "replyCount": 16,
+    "retweetCount": 7,
+    "likeCount": 266,
+    "conversationId": "2006395949598568755",
+    "author": {
+      "username": "mnowakdesign",
+      "name": "Michael Nowak"
+    },
+    "authorId": "1660239283368648705",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gmeZpawAA94t2.jpg",
+        "width": 1600,
+        "height": 1600,
+        "previewUrl": "https://pbs.twimg.com/media/G9gmeZpawAA94t2.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gmem-a0AEfJvs.jpg",
+        "width": 1600,
+        "height": 1600,
+        "previewUrl": "https://pbs.twimg.com/media/G9gmem-a0AEfJvs.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gmexha8AAcNWo.jpg",
+        "width": 1600,
+        "height": 1600,
+        "previewUrl": "https://pbs.twimg.com/media/G9gmexha8AAcNWo.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gme8YaYAA6DWD.jpg",
+        "width": 1600,
+        "height": 1600,
+        "previewUrl": "https://pbs.twimg.com/media/G9gme8YaYAA6DWD.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2006379196583719009",
+    "text": "Sales Pipeline Dashboard 🗂️💸 https://t.co/GOd0E0L4pD",
+    "createdAt": "Wed Dec 31 14:57:31 +0000 2025",
+    "replyCount": 17,
+    "retweetCount": 12,
+    "likeCount": 277,
+    "conversationId": "2006379196583719009",
+    "author": {
+      "username": "insank18",
+      "name": "Insan"
+    },
+    "authorId": "1816455490186117121",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gXMS3bAAAmSj8.jpg",
+        "width": 2048,
+        "height": 1693,
+        "previewUrl": "https://pbs.twimg.com/media/G9gXMS3bAAAmSj8.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2006324679645237366",
+    "text": "2025 Recap: It was a wild year for me.\n\n-13K+ followers achieved\n-$25k MRR (Client work)\n-Grainient. supply hits 100K visitors/m\n-10 Framer Temp.\n-30+ projects done.\n\nGoals for 2026\n-Launch Surreal. supply\n-Launch Featured. club\n-Launch Grainient v2\n\nLet’s rock the 2026🎄 https://t.co/CoxrUmEEi3",
+    "createdAt": "Wed Dec 31 11:20:53 +0000 2025",
+    "replyCount": 61,
+    "retweetCount": 11,
+    "likeCount": 496,
+    "conversationId": "2006324679645237366",
+    "author": {
+      "username": "basit_designs",
+      "name": "Basit A. Khan"
+    },
+    "authorId": "3050564824",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2006322322253242368/img/Vs0szBt2JXoBbAMm.jpg",
+        "width": 2000,
+        "height": 1950,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2006322322253242368/img/Vs0szBt2JXoBbAMm.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2006322322253242368/vid/avc1/2000x1950/HF7F_9YlweaECYfk.mp4?tag=21",
+        "durationMs": 13666
       }
     ]
   }
