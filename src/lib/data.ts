@@ -23,8 +23,22 @@ export async function ensureDataDir() {
 
 export async function getBookmarks(): Promise<Bookmark[]> {
   await ensureDataDir();
-  const data = await fs.readFile(BOOKMARKS_FILE, 'utf-8');
-  return JSON.parse(data);
+  try {
+    const data = await fs.readFile(BOOKMARKS_FILE, 'utf-8');
+    const json = JSON.parse(data);
+    
+    // Handle both raw bird output structure and our own Bookmark[] structure
+    const rawList = Array.isArray(json) ? json : json.tweets || [];
+    
+    // Check if they need transformation (bird raw has 'text', Bookmark has 'content')
+    return rawList.map((item: any) => {
+      if (item.content) return item; // Already transformed
+      return transformRawTweet(item); // Needs transformation
+    });
+  } catch (error) {
+    console.error('Read error:', error);
+    return [];
+  }
 }
 
 export async function saveBookmarks(bookmarks: Bookmark[]) {
