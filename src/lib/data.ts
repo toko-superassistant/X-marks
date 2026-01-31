@@ -16,6 +16,7 @@ export interface Bookmark {
 
 const DATA_DIR = path.join(process.cwd(), 'public');
 const BOOKMARKS_FILE = path.join(DATA_DIR, 'bookmarks.json');
+const ARCHIVED_FILE = path.join(DATA_DIR, 'archived.json');
 
 export async function ensureDataDir() {
   // Directory is public, usually exists.
@@ -27,14 +28,24 @@ export async function getBookmarks(): Promise<Bookmark[]> {
     const data = await fs.readFile(BOOKMARKS_FILE, 'utf-8');
     const json = JSON.parse(data);
     
+    // Read archived IDs
+    let archivedIds: string[] = [];
+    try {
+      const archData = await fs.readFile(ARCHIVED_FILE, 'utf-8');
+      archivedIds = JSON.parse(archData);
+    } catch (e) {}
+    const archivedSet = new Set(archivedIds);
+
     // Handle both raw bird output structure and our own Bookmark[] structure
     const rawList = Array.isArray(json) ? json : json.tweets || [];
     
-    // Check if they need transformation (bird raw has 'text', Bookmark has 'content')
-    return rawList.map((item: any) => {
-      if (item.content) return item; // Already transformed
-      return transformRawTweet(item); // Needs transformation
-    });
+    // Check if they need transformation and filter out archived items
+    return rawList
+      .filter((item: any) => !archivedSet.has(item.id))
+      .map((item: any) => {
+        if (item.content) return item; 
+        return transformRawTweet(item);
+      });
   } catch (error) {
     console.error('Read error:', error);
     return [];

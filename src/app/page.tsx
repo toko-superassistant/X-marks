@@ -243,7 +243,14 @@ export default function Home() {
               >
                 <ExternalLink className="h-4 w-4" /> View Original
               </a>
-              <button className="flex flex-1 items-center justify-center gap-2 rounded-2xl bg-rose-50 py-4 text-sm font-bold text-rose-600 transition-all hover:bg-rose-100">
+              <button 
+                onClick={async () => {
+                  await fetch(`/api/bookmarks/${selectedBookmark.id}/archive`, { method: 'POST' });
+                  setSelectedBookmark(null);
+                  fetchBookmarks();
+                }}
+                className="flex flex-1 items-center justify-center gap-2 rounded-2xl bg-rose-50 py-4 text-sm font-bold text-rose-600 transition-all hover:bg-rose-100"
+              >
                 <Archive className="h-4 w-4" /> Archive
               </button>
             </div>
