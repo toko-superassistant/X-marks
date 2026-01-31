@@ -14,20 +14,11 @@ export interface Bookmark {
   synced_at: string;
 }
 
-const DATA_DIR = path.join(process.cwd(), 'data');
+const DATA_DIR = path.join(process.cwd(), 'public');
 const BOOKMARKS_FILE = path.join(DATA_DIR, 'bookmarks.json');
 
 export async function ensureDataDir() {
-  try {
-    await fs.mkdir(DATA_DIR, { recursive: true });
-    try {
-      await fs.access(BOOKMARKS_FILE);
-    } catch {
-      await fs.writeFile(BOOKMARKS_FILE, JSON.stringify([], null, 2));
-    }
-  } catch (error) {
-    console.error('Failed to ensure data dir:', error);
-  }
+  // Directory is public, usually exists.
 }
 
 export async function getBookmarks(): Promise<Bookmark[]> {

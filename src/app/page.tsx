@@ -53,9 +53,10 @@ export default function Home() {
     try {
       const res = await fetch('/api/bookmarks');
       const data = await res.json();
-      setBookmarks(data);
+      setBookmarks(Array.isArray(data) ? data : []);
     } catch (error) {
       console.error('Failed to load bookmarks');
+      setBookmarks([]);
     }
   };
 
