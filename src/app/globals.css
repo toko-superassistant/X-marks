@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "system-ui", "sans-serif";
+  --color-brand-bg: #F8F9FA;
+  --color-brand-sidebar: #FFFFFF;
+  --color-brand-accent: #000000;
+  --color-brand-muted: #64748B;
+  --color-brand-border: rgba(226, 232, 240, 0.6);
+}
+
+body {
+  background-color: var(--color-brand-bg);
+  color: #1A1A1A;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom glassmorphism effect */
+.glass {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
