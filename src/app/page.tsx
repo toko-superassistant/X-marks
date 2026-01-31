@@ -71,14 +71,28 @@ export default function Home() {
   };
 
   const filteredBookmarks = useMemo(() => {
+    const searchLower = searchQuery.trim().toLowerCase();
     return bookmarks.filter(b => {
-      const matchesSearch = b.content?.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                           b.author_name?.toLowerCase().includes(searchQuery.toLowerCase());
+      const matchesSearch = !searchLower || 
+                           b.content?.toLowerCase().includes(searchLower) ||
+                           b.author_name?.toLowerCase().includes(searchLower) ||
+                           b.author_handle?.toLowerCase().includes(searchLower);
       const matchesCategory = selectedCategory === 'all' || 
                              b.categories.includes(selectedCategory);
       return matchesSearch && matchesCategory;
     });
   }, [bookmarks, searchQuery, selectedCategory]);
+
+  const handleArchive = async (id: string) => {
+    try {
+      // Optimistic update
+      setBookmarks(prev => prev.filter(b => b.id !== id));
+      await fetch(`/api/bookmarks/${id}/archive`, { method: 'POST' });
+    } catch (error) {
+      console.error('Failed to archive:', error);
+      fetchBookmarks(); // Revert on failure
+    }
+  };
 
   return (
     <div className="flex min-h-screen bg-brand-bg font-sans">
@@ -184,6 +198,7 @@ export default function Home() {
                 bookmark={bookmark} 
                 viewMode={viewMode}
                 onOpen={() => setSelectedBookmark(bookmark)}
+                onArchive={handleArchive}
               />
             ))}
           </div>
@@ -244,14 +259,24 @@ export default function Home() {
                 <ExternalLink className="h-4 w-4" /> View Original
               </a>
               <button 
-                onClick={async () => {
-                  await fetch(`/api/bookmarks/${selectedBookmark.id}/archive`, { method: 'POST' });
-                  setSelectedBookmark(null);
-                  fetchBookmarks();
+                onClick={async (e) => {
+                  const btn = e.currentTarget;
+                  const originalContent = btn.innerHTML;
+                  btn.disabled = true;
+                  btn.innerText = "Syncing Archive to X...";
+                  
+                  try {
+                    await fetch(`/api/bookmarks/${selectedBookmark.id}/archive`, { method: 'POST' });
+                    setSelectedBookmark(null);
+                    fetchBookmarks();
+                  } catch (err) {
+                    btn.disabled = false;
+                    btn.innerHTML = originalContent;
+                  }
                 }}
-                className="flex flex-1 items-center justify-center gap-2 rounded-2xl bg-rose-50 py-4 text-sm font-bold text-rose-600 transition-all hover:bg-rose-100"
+                className="flex flex-1 items-center justify-center gap-2 rounded-2xl bg-rose-50 py-4 text-sm font-bold text-rose-600 transition-all hover:bg-rose-100 disabled:opacity-50"
               >
-                <Archive className="h-4 w-4" /> Archive
+                <Archive className="h-4 w-4" /> Archive & Remove from X
               </button>
             </div>
           </div>
@@ -261,10 +286,11 @@ export default function Home() {
   );
 }
 
-function BookmarkCard({ bookmark, viewMode, onOpen }: { 
+function BookmarkCard({ bookmark, viewMode, onOpen, onArchive }: { 
   bookmark: Bookmark, 
   viewMode: 'grid' | 'list',
-  onOpen: () => void 
+  onOpen: () => void,
+  onArchive: (id: string) => void
 }) {
   const isGrid = viewMode === 'grid';
   const hasMedia = bookmark.media_urls.length > 0;
@@ -308,7 +334,19 @@ function BookmarkCard({ bookmark, viewMode, onOpen }: {
             />
             <span className="truncate text-[11px] font-bold text-slate-900">{bookmark.author_name}</span>
           </div>
-          <span className="text-[10px] font-medium text-slate-400">{dateLabel}</span>
+          <div className="flex items-center gap-2">
+            <span className="text-[10px] font-medium text-slate-400">{dateLabel}</span>
+            <button 
+              onClick={(e) => {
+                e.stopPropagation();
+                onArchive(bookmark.id);
+              }}
+              className="flex h-8 w-8 items-center justify-center rounded-full bg-slate-50 text-slate-400 opacity-0 transition-all hover:bg-rose-50 hover:text-rose-500 group-hover:opacity-100"
+              title="Archive and Remove from X"
+            >
+              <Archive className="h-4 w-4" />
+            </button>
+          </div>
         </div>
 
         <p className={cn(
