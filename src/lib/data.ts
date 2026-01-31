@@ -37,7 +37,10 @@ export async function getBookmarks(): Promise<Bookmark[]> {
     const archivedSet = new Set(archivedIds);
 
     // Handle both raw bird output structure and our own Bookmark[] structure
-    const rawList = Array.isArray(json) ? json : json.tweets || [];
+    let rawList = Array.isArray(json) ? json : json.tweets || [];
+    
+    // Limit to 500 items for performance and stability
+    rawList = rawList.slice(0, 500);
     
     // Check if they need transformation and filter out archived items
     return rawList
